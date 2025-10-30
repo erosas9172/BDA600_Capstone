@@ -6,13 +6,13 @@ The project explores patterns and trends in San Francisco Police Department (SFP
 
 Project Objectives
 
-Analyze temporal trends — Explore how incidents vary by hour, day, month, and year.
+Analyze temporal trends -> Explore how incidents vary by hour, day, month, and year.
 
-Investigate spatial distribution — Map and cluster crime locations by neighborhood and police district.
+Investigate spatial distribution —> Map and cluster crime locations by neighborhood and police district.
 
-Categorize incidents — Identify which incident types and categories are most common.
+Categorize incidents —> Identify which incident types and categories are most common.
 
-Build predictive insights — Use machine learning to model or forecast incident patterns.
+Build predictive insights —> Use machine learning to model or forecast incident patterns.
 
 
 
@@ -42,15 +42,15 @@ Engineered temporal features
 
 Analytical Workflow
 
-Data Cleaning & Transformation — Using pandas and NumPy.
+Data Cleaning & Transformation —> Using pandas and NumPy.
 
-Exploratory Data Analysis (EDA) — Descriptive stats, missing data, temporal and spatial visualizations.
+Exploratory Data Analysis (EDA) —> Descriptive stats, missing data, temporal and spatial visualizations.
 
-Feature Engineering — Extracted hour, day, month, and year; handled geographic data.
+Feature Engineering —> Extracted hour, day, month, and year; handled geographic data.
 
-Visualization — Heatmaps, time series plots, and spatial maps (Seaborn, Matplotlib, or Folium).
+Visualization —> Heatmaps, time series plots, and spatial maps (Seaborn, Matplotlib, or Folium).
 
-Modeling  — Predictive modeling or clustering of incidents.
+Modeling  —> Predictive modeling or clustering of incidents.
 
 
 
