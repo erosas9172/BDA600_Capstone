@@ -1,0 +1,2001 @@
+__date,Police District,Incident Category,count,year,month,dayofweek,lag1,lag7,is_weekend,is_holiday,rolling_q75,y_high
+2023-11-06,Northern,Stolen Property,1,2023,11,0,1.0,1.0,0,0,1.0,1
+2022-06-22,Ingleside,Fraud,1,2022,6,2,6.0,1.0,0,0,2.0,0
+2022-05-22,Northern,Suspicious Occ,2,2022,5,6,3.0,1.0,1,0,2.0,1
+2020-05-31,Richmond,Assault,1,2020,5,6,1.0,3.0,1,0,2.0,0
+2024-07-18,Ingleside,Larceny Theft,6,2024,7,3,7.0,6.0,0,0,7.0,0
+2021-09-18,Taraval,Robbery,1,2021,9,5,4.0,2.0,1,0,1.25,0
+2024-06-18,Mission,Larceny Theft,5,2024,6,1,8.0,11.0,0,0,9.0,0
+2022-06-15,Tenderloin,Weapons Carrying Etc,2,2022,6,2,1.0,2.0,0,0,2.0,1
+2024-11-18,Ingleside,Fraud,1,2024,11,0,1.0,2.0,0,0,2.0,0
+2021-09-18,Bayview,Robbery,3,2021,9,5,2.0,2.0,1,0,2.0,1
+2023-03-03,Taraval,Other Miscellaneous,1,2023,3,4,1.0,2.0,0,0,2.0,0
+2021-01-10,Mission,Motor Vehicle Theft,3,2021,1,6,2.0,2.0,1,0,3.0,1
+2023-05-01,Bayview,Other,1,2023,5,0,1.0,2.0,0,0,1.0,1
+2023-07-04,Mission,Burglary,3,2023,7,1,3.0,3.0,0,1,4.25,0
+2022-06-01,Northern,Other Miscellaneous,2,2022,6,2,1.0,3.0,0,0,3.0,0
+2022-08-07,Mission,Burglary,2,2022,8,6,3.0,4.0,1,0,3.0,0
+2023-01-23,Taraval,Traffic Violation Arrest,1,2023,1,0,1.0,1.0,0,0,1.0,1
+2022-10-10,Ingleside,Weapons Offense,1,2022,10,0,1.0,1.0,0,1,1.0,1
+2023-06-25,Bayview,Lost Property,1,2023,6,6,1.0,1.0,1,0,1.0,1
+2024-08-01,Southern,Motor Vehicle Theft,4,2024,8,3,3.0,2.0,0,0,5.0,0
+2022-11-27,Mission,Missing Person,3,2022,11,6,1.0,2.0,1,0,2.0,1
+2020-03-23,Mission,Malicious Mischief,1,2020,3,0,2.0,1.0,0,0,4.0,0
+2021-05-31,Bayview,Motor Vehicle Theft,7,2021,5,0,3.0,6.0,0,1,5.25,1
+2024-10-28,Central,Larceny Theft,9,2024,10,0,15.0,8.0,0,0,12.0,0
+2022-02-15,Bayview,Missing Person,1,2022,2,1,1.0,2.0,0,0,2.0,0
+2020-12-19,Bayview,Traffic Violation Arrest,1,2020,12,5,1.0,1.0,1,0,1.25,0
+2024-12-09,Central,Vandalism,1,2024,12,0,1.0,1.0,0,0,1.0,1
+2023-07-26,Northern,Fraud,2,2023,7,2,2.0,1.0,0,0,2.0,1
+2020-08-01,Bayview,Other Miscellaneous,1,2020,8,5,4.0,4.0,1,0,3.25,0
+2024-12-16,Tenderloin,Suspicious Occ,1,2024,12,0,1.0,2.0,0,0,2.0,0
+2023-10-14,Park,Larceny Theft,6,2023,10,5,3.0,3.0,1,0,6.0,1
+2022-06-09,Bayview,Other Miscellaneous,1,2022,6,3,1.0,4.0,0,0,3.0,0
+2021-06-20,Ingleside,Suspicious Occ,1,2021,6,6,1.0,1.0,1,0,1.25,0
+2023-02-13,Ingleside,Recovered Vehicle,2,2023,2,0,3.0,2.0,0,0,3.0,0
+2021-10-03,Taraval,Motor Vehicle Theft,4,2021,10,6,2.0,1.0,1,0,3.0,1
+2024-09-24,Southern,Other Miscellaneous,2,2024,9,1,3.0,5.0,0,0,5.25,0
+2022-02-12,Northern,Recovered Vehicle,1,2022,2,5,1.0,1.0,1,0,2.0,0
+2023-11-05,Tenderloin,Recovered Vehicle,5,2023,11,6,1.0,2.0,1,0,2.25,1
+2020-06-20,Tenderloin,Larceny Theft,4,2020,6,5,1.0,6.0,1,0,4.25,0
+2022-01-15,Taraval,Lost Property,3,2022,1,5,1.0,1.0,1,0,1.0,1
+2022-04-23,Southern,Malicious Mischief,2,2022,4,5,3.0,4.0,1,0,4.25,0
+2020-05-28,Bayview,Malicious Mischief,6,2020,5,3,2.0,1.0,0,0,4.0,1
+2023-04-08,Ingleside,Motor Vehicle Theft,4,2023,4,5,10.0,3.0,1,0,6.0,0
+2023-03-13,Central,Malicious Mischief,9,2023,3,0,1.0,4.0,0,0,7.0,1
+2024-05-30,Central,Drug Offense,3,2024,5,3,1.0,1.0,0,0,3.0,1
+2021-05-20,Ingleside,Other Miscellaneous,1,2021,5,3,1.0,1.0,0,0,3.0,0
+2023-08-28,Tenderloin,Non-Criminal,2,2023,8,0,2.0,1.0,0,0,3.0,0
+2024-05-15,Tenderloin,Larceny Theft,2,2024,5,2,3.0,3.0,0,0,4.0,0
+2024-01-07,Taraval,Arson,1,2024,1,6,1.0,1.0,1,0,1.0,1
+2020-06-21,Richmond,Offences Against The Family And Children,1,2020,6,6,1.0,4.0,1,0,1.0,1
+2024-10-19,Bayview,Warrant,1,2024,10,5,2.0,1.0,1,0,2.0,0
+2022-08-20,Mission,Assault,5,2022,8,5,4.0,1.0,1,0,5.25,0
+2024-11-16,Southern,Other Miscellaneous,2,2024,11,5,9.0,5.0,1,0,5.25,0
+2024-09-06,Mission,Stolen Property,1,2024,9,4,1.0,1.0,0,0,1.0,1
+2024-09-02,Bayview,Fire Report,1,2024,9,0,1.0,1.0,0,1,1.0,1
+2024-07-21,Mission,Motor Vehicle Theft,1,2024,7,6,1.0,2.0,1,0,4.0,0
+2022-01-16,Northern,Other Miscellaneous,5,2022,1,6,4.0,2.0,1,0,5.0,1
+2021-03-28,Tenderloin,Other Miscellaneous,3,2021,3,6,4.0,3.0,1,0,4.0,0
+2023-04-25,Ingleside,Robbery,2,2023,4,1,1.0,5.0,0,0,2.0,1
+2022-04-20,Northern,Motor Vehicle Theft,2,2022,4,2,4.0,2.0,0,0,3.0,0
+2022-12-27,Ingleside,Larceny Theft,12,2022,12,1,10.0,17.0,0,0,9.25,1
+2023-12-24,Mission,Malicious Mischief,3,2023,12,6,3.0,1.0,1,0,4.0,0
+2022-10-24,Mission,Non-Criminal,1,2022,10,0,2.0,2.0,0,0,3.0,0
+2020-03-24,Ingleside,Missing Person,1,2020,3,1,1.0,3.0,0,0,2.0,0
+2022-07-10,Southern,Other Miscellaneous,1,2022,7,6,2.0,4.0,1,0,5.0,0
+2021-12-28,Richmond,Burglary,1,2021,12,1,4.0,2.0,0,0,2.25,0
+2021-11-08,Southern,Other Miscellaneous,3,2021,11,0,1.0,2.0,0,0,6.0,0
+2023-09-23,Mission,Assault,6,2023,9,5,1.0,6.0,1,0,6.0,1
+2020-03-08,Central,Malicious Mischief,3,2020,3,6,2.0,5.0,1,0,4.0,0
+2020-08-19,Central,Larceny Theft,9,2020,8,2,5.0,18.0,0,0,17.25,0
+2021-06-07,Mission,Lost Property,1,2021,6,0,1.0,2.0,0,0,2.0,0
+2024-11-29,Northern,Suspicious Occ,3,2024,11,4,1.0,1.0,0,0,1.0,1
+2020-06-28,Ingleside,Lost Property,1,2020,6,6,1.0,1.0,1,0,1.0,1
+2023-08-21,Tenderloin,Robbery,2,2023,8,0,2.0,1.0,0,0,2.0,1
+2022-12-19,Park,Larceny Theft,3,2022,12,0,3.0,16.0,0,0,8.25,0
+2024-11-16,Taraval,Motor Vehicle Theft,1,2024,11,5,1.0,2.0,1,0,2.0,0
+2023-03-01,Tenderloin,Suspicious Occ,1,2023,3,2,1.0,2.0,0,0,2.0,0
+2020-10-12,Mission,Offences Against The Family And Children,2,2020,10,0,1.0,1.0,0,1,2.0,1
+2020-10-13,Southern,Malicious Mischief,5,2020,10,1,4.0,3.0,0,0,5.0,1
+2022-03-17,Ingleside,Other Miscellaneous,2,2022,3,3,4.0,1.0,0,0,2.25,0
+2021-06-19,Taraval,Larceny Theft,9,2021,6,5,5.0,3.0,1,1,7.25,1
+2023-12-04,Taraval,Malicious Mischief,3,2023,12,0,5.0,4.0,0,0,4.0,0
+2022-05-01,Out of SF,Motor Vehicle Theft,2,2022,5,6,1.0,1.0,1,0,1.0,1
+2022-04-06,Southern,Burglary,2,2022,4,2,2.0,1.0,0,0,3.0,0
+2021-02-05,Central,Larceny Theft,18,2021,2,4,8.0,18.0,0,0,17.25,1
+2024-07-12,Northern,Assault,2,2024,7,4,1.0,2.0,0,0,4.0,0
+2022-09-25,Central,Disorderly Conduct,2,2022,9,6,1.0,1.0,1,0,2.0,1
+2021-09-21,Mission,Lost Property,1,2021,9,1,3.0,2.0,0,0,2.25,0
+2020-03-29,Mission,Missing Person,3,2020,3,6,1.0,1.0,1,0,2.0,1
+2024-06-11,Out of SF,Fraud,1,2024,6,1,2.0,1.0,0,0,1.25,0
+2022-03-31,Tenderloin,Drug Offense,1,2022,3,3,10.0,9.0,0,0,7.25,0
+2023-05-14,Northern,Other Miscellaneous,4,2023,5,6,4.0,5.0,1,0,5.25,0
+2024-08-31,Tenderloin,Larceny Theft,2,2024,8,5,1.0,5.0,1,0,5.0,0
+2022-03-05,Tenderloin,Disorderly Conduct,1,2022,3,5,2.0,2.0,1,0,1.0,1
+2021-10-02,Northern,Motor Vehicle Theft,2,2021,10,5,1.0,3.0,1,0,3.0,0
+2023-05-24,Ingleside,Suspicious Occ,1,2023,5,2,1.0,2.0,0,0,2.0,0
+2022-02-02,Central,Burglary,2,2022,2,2,4.0,1.0,0,0,4.0,0
+2023-02-13,Bayview,Non-Criminal,1,2023,2,0,1.0,1.0,0,0,2.0,0
+2020-02-01,Park,Motor Vehicle Theft,2,2020,2,5,1.0,1.0,1,0,2.0,1
+2023-10-24,Central,Burglary,1,2023,10,1,2.0,1.0,0,0,2.0,0
+2021-05-15,Southern,Larceny Theft,5,2021,5,5,12.0,5.0,1,0,8.0,0
+2021-11-05,Out of SF,Fraud,2,2021,11,4,3.0,1.0,0,0,2.0,1
+2023-04-14,Tenderloin,Malicious Mischief,3,2023,4,4,2.0,2.0,0,0,3.0,1
+2023-01-19,Mission,Missing Person,3,2023,1,3,2.0,1.0,0,0,3.0,1
+2023-01-08,Bayview,Suspicious Occ,1,2023,1,6,3.0,1.0,1,0,2.0,0
+2021-08-06,Out of SF,Larceny Theft,1,2021,8,4,1.0,4.0,0,0,2.0,0
+2023-03-28,Mission,Larceny Theft,6,2023,3,1,12.0,10.0,0,0,11.0,0
+2020-11-07,Park,Traffic Violation Arrest,1,2020,11,5,1.0,3.0,1,0,1.0,1
+2024-10-13,Central,Malicious Mischief,3,2024,10,6,3.0,8.0,1,0,4.0,0
+2023-09-27,Central,Traffic Violation Arrest,1,2023,9,2,1.0,1.0,0,0,1.0,1
+2022-01-11,Southern,Assault,2,2022,1,1,4.0,4.0,0,0,4.0,0
+2021-10-08,Northern,Miscellaneous Investigation,2,2021,10,4,1.0,1.0,0,0,1.0,1
+2020-06-19,Southern,Non-Criminal,1,2020,6,4,2.0,1.0,0,0,2.0,0
+2021-07-23,Mission,Larceny Theft,19,2021,7,4,11.0,12.0,0,0,13.0,1
+2021-03-30,Central,Robbery,1,2021,3,1,1.0,4.0,0,0,2.0,0
+2024-01-24,Taraval,Motor Vehicle Theft,3,2024,1,2,1.0,5.0,0,0,4.25,0
+2022-02-14,Tenderloin,Warrant,2,2022,2,0,1.0,1.0,0,0,3.0,0
+2021-09-23,Park,Recovered Vehicle,2,2021,9,3,1.0,1.0,0,0,2.0,1
+2023-01-16,Ingleside,Missing Person,1,2023,1,0,1.0,1.0,0,1,2.0,0
+2020-08-28,Ingleside,Malicious Mischief,1,2020,8,4,2.0,1.0,0,0,3.25,0
+2024-09-15,Central,Robbery,1,2024,9,6,1.0,1.0,1,0,2.0,0
+2020-08-13,Richmond,Larceny Theft,14,2020,8,3,7.0,7.0,0,0,11.0,1
+2023-02-20,Northern,Miscellaneous Investigation,3,2023,2,0,1.0,1.0,0,1,1.0,1
+2022-12-06,Central,Larceny Theft,20,2022,12,1,43.0,29.0,0,0,35.5,0
+2021-09-05,Park,Other Miscellaneous,1,2021,9,6,2.0,1.0,1,0,2.0,0
+2023-01-14,Central,Motor Vehicle Theft,3,2023,1,5,1.0,2.0,1,0,2.0,1
+2021-09-21,Northern,Larceny Theft,12,2021,9,1,14.0,24.0,0,0,21.25,0
+2024-02-12,Northern,Burglary,2,2024,2,0,2.0,1.0,0,0,4.0,0
+2023-10-27,Southern,Assault,2,2023,10,4,1.0,6.0,0,0,5.0,0
+2020-10-25,Northern,Malicious Mischief,1,2020,10,6,4.0,1.0,1,0,5.0,0
+2021-05-22,Northern,Fraud,1,2021,5,5,2.0,1.0,1,0,3.0,0
+2024-10-23,Richmond,Assault,3,2024,10,2,3.0,1.0,0,0,2.0,1
+2023-07-31,Bayview,Robbery,1,2023,7,0,1.0,1.0,0,0,2.0,0
+2023-01-23,Tenderloin,Other Miscellaneous,2,2023,1,0,1.0,5.0,0,0,5.0,0
+2024-05-20,Ingleside,Warrant,2,2024,5,0,1.0,1.0,0,0,2.0,1
+2020-04-30,Bayview,Recovered Vehicle,1,2020,4,3,2.0,5.0,0,0,3.0,0
+2023-04-01,Southern,Fraud,11,2023,4,5,3.0,1.0,1,0,3.0,1
+2024-03-25,Tenderloin,Weapons Carrying Etc,3,2024,3,0,1.0,2.0,0,0,2.0,1
+2024-12-23,Southern,Weapons Offense,1,2024,12,0,1.0,1.0,0,0,2.0,0
+2020-09-18,Taraval,Malicious Mischief,2,2020,9,4,1.0,1.0,0,0,3.0,0
+2022-05-11,Bayview,Miscellaneous Investigation,2,2022,5,2,1.0,1.0,0,0,1.25,1
+2024-12-26,Southern,Burglary,1,2024,12,3,1.0,4.0,0,0,3.25,0
+2023-10-03,Southern,Suspicious Occ,1,2023,10,1,1.0,1.0,0,0,2.0,0
+2023-11-29,Central,Fraud,2,2023,11,2,3.0,1.0,0,0,3.0,0
+2024-07-03,Northern,Non-Criminal,3,2024,7,2,3.0,1.0,0,0,2.0,1
+2021-06-25,Southern,Larceny Theft,7,2021,6,4,9.0,26.0,0,0,11.25,0
+2023-10-29,Park,Other,1,2023,10,6,1.0,1.0,1,0,1.0,1
+2022-07-28,Central,Other Miscellaneous,7,2022,7,3,5.0,3.0,0,0,5.0,1
+2023-07-09,Mission,Other Miscellaneous,3,2023,7,6,6.0,3.0,1,0,4.0,0
+2022-05-13,Ingleside,Other,1,2022,5,4,1.0,1.0,0,0,1.0,1
+2021-01-17,Mission,Burglary,3,2021,1,6,6.0,5.0,1,0,5.25,0
+2022-11-16,Central,Sex Offense,1,2022,11,2,1.0,1.0,0,0,1.0,1
+2021-02-18,Taraval,Other Offenses,1,2021,2,3,1.0,2.0,0,0,1.0,1
+2024-12-06,Mission,Offences Against The Family And Children,2,2024,12,4,2.0,2.0,0,0,2.0,1
+2023-07-05,Tenderloin,Larceny Theft,1,2023,7,2,4.0,3.0,0,0,5.0,0
+2024-10-01,Southern,Disorderly Conduct,1,2024,10,1,1.0,1.0,0,0,2.25,0
+2024-11-09,Northern,Burglary,1,2024,11,5,2.0,1.0,1,0,2.0,0
+2021-05-01,Northern,Burglary,4,2021,5,5,3.0,7.0,1,0,6.0,0
+2021-02-23,Ingleside,Non-Criminal,1,2021,2,1,1.0,1.0,0,0,2.0,0
+2020-11-20,Out of SF,Other Offenses,1,2020,11,4,2.0,1.0,0,0,2.0,0
+2022-04-23,Bayview,Burglary,2,2022,4,5,3.0,2.0,1,0,2.0,1
+2022-09-17,Taraval,Suspicious Occ,1,2022,9,5,3.0,1.0,1,0,2.0,0
+2021-10-08,Southern,Other Miscellaneous,9,2021,10,4,2.0,3.0,0,0,6.25,1
+2022-11-21,Richmond,Larceny Theft,9,2022,11,0,7.0,13.0,0,0,13.0,0
+2022-03-05,Tenderloin,Larceny Theft,4,2022,3,5,2.0,2.0,1,0,6.0,0
+2020-09-14,Richmond,Case Closure,1,2020,9,0,1.0,1.0,0,0,1.0,1
+2024-08-18,Tenderloin,Malicious Mischief,2,2024,8,6,1.0,2.0,1,0,3.25,0
+2023-06-08,Bayview,Disorderly Conduct,2,2023,6,3,1.0,1.0,0,0,2.0,1
+2021-02-11,Southern,Miscellaneous Investigation,1,2021,2,3,2.0,1.0,0,0,1.0,1
+2023-03-22,Southern,Offences Against The Family And Children,2,2023,3,2,1.0,2.0,0,0,2.0,1
+2020-11-13,Central,Other,1,2020,11,4,2.0,1.0,0,0,2.0,0
+2021-08-04,Taraval,Larceny Theft,8,2021,8,2,5.0,7.0,0,0,9.25,0
+2023-04-14,Richmond,Other Miscellaneous,3,2023,4,4,2.0,2.0,0,0,2.0,1
+2023-12-22,Park,Drug Offense,1,2023,12,4,1.0,1.0,0,0,1.0,1
+2024-10-20,Mission,Forgery And Counterfeiting,3,2024,10,6,1.0,1.0,1,0,1.0,1
+2024-01-11,Taraval,Traffic Violation Arrest,1,2024,1,3,1.0,1.0,0,0,1.0,1
+2020-06-29,Bayview,Motor Vehicle Theft,4,2020,6,0,8.0,5.0,0,0,5.0,0
+2021-01-30,Mission,Malicious Mischief,3,2021,1,5,2.0,5.0,1,0,5.0,0
+2024-11-20,Southern,Other Offenses,1,2024,11,2,3.0,2.0,0,0,1.0,1
+2020-02-24,Tenderloin,Other Offenses,2,2020,2,0,1.0,1.0,0,0,1.0,1
+2023-10-05,Central,Lost Property,2,2023,10,3,4.0,2.0,0,0,2.25,0
+2023-11-18,Central,Suspicious Occ,1,2023,11,5,1.0,1.0,1,0,2.0,0
+2022-11-11,Southern,Warrant,1,2022,11,4,2.0,4.0,0,1,2.0,0
+2021-09-06,Tenderloin,Motor Vehicle Theft,2,2021,9,0,3.0,2.0,0,1,2.0,1
+2020-05-04,Southern,Burglary,1,2020,5,0,3.0,3.0,0,0,7.25,0
+2021-11-14,Ingleside,Malicious Mischief,2,2021,11,6,1.0,3.0,1,0,3.0,0
+2022-05-06,Taraval,Non-Criminal,2,2022,5,4,1.0,5.0,0,0,3.0,0
+2021-10-24,Bayview,Vandalism,1,2021,10,6,1.0,1.0,1,0,1.0,1
+2024-07-28,Northern,Robbery,3,2024,7,6,1.0,1.0,1,0,2.0,1
+2020-12-31,Mission,Weapons Carrying Etc,1,2020,12,3,1.0,3.0,0,0,2.0,0
+2021-01-18,Southern,Burglary,7,2021,1,0,1.0,2.0,0,1,6.25,1
+2023-01-28,Tenderloin,Other Miscellaneous,2,2023,1,5,5.0,3.0,1,0,5.0,0
+2022-10-28,Mission,Other Miscellaneous,1,2022,10,4,1.0,1.0,0,0,4.0,0
+2023-07-12,Northern,Other Miscellaneous,2,2023,7,2,5.0,13.0,0,0,5.0,0
+2020-11-09,Central,Drug Offense,1,2020,11,0,5.0,1.0,0,0,2.0,0
+2023-04-20,Mission,Malicious Mischief,6,2023,4,3,2.0,4.0,0,0,5.0,1
+2022-03-15,Taraval,Motor Vehicle Theft,1,2022,3,1,3.0,7.0,0,0,4.0,0
+2021-03-20,Central,Motor Vehicle Theft,1,2021,3,5,2.0,2.0,1,0,3.25,0
+2022-11-14,Out of SF,Lost Property,4,2022,11,0,6.0,2.0,0,0,3.0,1
+2020-10-13,Richmond,Miscellaneous Investigation,1,2020,10,1,1.0,1.0,0,0,1.0,1
+2023-07-27,Northern,Fraud,1,2023,7,3,2.0,1.0,0,0,2.0,0
+2022-11-08,Tenderloin,Non-Criminal,2,2022,11,1,2.0,1.0,0,0,2.25,0
+2021-09-30,Tenderloin,Larceny Theft,1,2021,9,3,7.0,3.0,0,0,5.25,0
+2020-08-30,Mission,Other Miscellaneous,2,2020,8,6,3.0,5.0,1,0,5.0,0
+2022-10-17,Southern,Weapons Offense,1,2022,10,0,1.0,1.0,0,0,1.0,1
+2022-11-14,Richmond,Traffic Violation Arrest,1,2022,11,0,1.0,1.0,0,0,1.0,1
+2023-07-15,Taraval,Warrant,1,2023,7,5,1.0,1.0,1,0,1.0,1
+2020-06-13,Tenderloin,Traffic Violation Arrest,1,2020,6,5,1.0,1.0,1,0,1.0,1
+2021-10-17,Out of SF,Larceny Theft,1,2021,10,6,1.0,1.0,1,0,2.0,0
+2023-06-30,Taraval,Miscellaneous Investigation,1,2023,6,4,1.0,2.0,0,0,2.0,0
+2021-02-28,Bayview,Other Miscellaneous,4,2021,2,6,9.0,4.0,1,0,5.0,0
+2023-11-30,Taraval,Non-Criminal,1,2023,11,3,1.0,1.0,0,0,2.0,0
+2021-08-02,Richmond,Offences Against The Family And Children,1,2021,8,0,1.0,1.0,0,0,1.25,0
+2023-06-07,Mission,Warrant,1,2023,6,2,1.0,5.0,0,0,2.25,0
+2024-06-26,Tenderloin,Other Miscellaneous,2,2024,6,2,2.0,3.0,0,0,4.0,0
+2022-06-02,Southern,Other Offenses,1,2022,6,3,1.0,1.0,0,0,1.0,1
+2022-01-26,Tenderloin,Warrant,3,2022,1,2,3.0,2.0,0,0,3.0,1
+2022-04-12,Park,Other,1,2022,4,1,1.0,1.0,0,0,1.0,1
+2024-01-25,Taraval,Larceny Theft,3,2024,1,3,17.0,6.0,0,0,8.25,0
+2022-03-14,Southern,Weapons Carrying Etc,1,2022,3,0,1.0,1.0,0,0,2.0,0
+2020-02-27,Central,Burglary,3,2020,2,3,4.0,6.0,0,0,5.0,0
+2020-01-23,Tenderloin,Suspicious Occ,1,2020,1,3,2.0,1.0,0,0,2.0,0
+2024-02-09,Southern,Other,1,2024,2,4,1.0,1.0,0,0,1.25,0
+2023-09-01,Ingleside,Larceny Theft,11,2023,9,4,7.0,8.0,0,0,8.0,1
+2022-10-01,Mission,Lost Property,3,2022,10,5,1.0,3.0,1,0,2.0,1
+2022-08-26,Richmond,Malicious Mischief,2,2022,8,4,3.0,1.0,0,0,2.25,0
+2024-09-28,Northern,Other,1,2024,9,5,1.0,1.0,1,0,1.0,1
+2024-09-17,Taraval,Fraud,2,2024,9,1,3.0,5.0,0,0,3.0,0
+2021-10-01,Richmond,Miscellaneous Investigation,2,2021,10,4,2.0,2.0,0,0,2.0,1
+2023-04-22,Richmond,Assault,3,2023,4,5,1.0,2.0,1,0,2.25,1
+2023-11-11,Central,Missing Person,1,2023,11,5,1.0,3.0,1,1,2.0,0
+2020-05-27,Tenderloin,Traffic Violation Arrest,1,2020,5,2,1.0,2.0,0,0,1.0,1
+2021-03-01,Central,Motor Vehicle Theft,5,2021,3,0,5.0,5.0,0,0,3.25,1
+2023-10-21,Taraval,Recovered Vehicle,1,2023,10,5,1.0,3.0,1,0,2.0,0
+2022-09-11,Central,Motor Vehicle Theft,1,2022,9,6,1.0,1.0,1,0,3.0,0
+2024-06-17,Ingleside,Assault,1,2024,6,0,1.0,2.0,0,0,3.0,0
+2020-08-15,Bayview,Miscellaneous Investigation,1,2020,8,5,1.0,1.0,1,0,1.0,1
+2022-03-18,Ingleside,Offences Against The Family And Children,2,2022,3,4,2.0,2.0,0,0,2.0,1
+2022-12-02,Tenderloin,Missing Person,1,2022,12,4,1.0,1.0,0,0,2.0,0
+2024-09-21,Northern,Disorderly Conduct,1,2024,9,5,2.0,2.0,1,0,2.0,0
+2023-01-18,Park,Assault,2,2023,1,2,1.0,1.0,0,0,2.0,1
+2020-10-29,Bayview,Motor Vehicle Theft,1,2020,10,3,1.0,1.0,0,0,4.0,0
+2022-03-09,Bayview,Miscellaneous Investigation,1,2022,3,2,1.0,2.0,0,0,2.0,0
+2024-12-13,Northern,Larceny Theft,10,2024,12,4,10.0,9.0,0,0,14.0,0
+2022-01-26,Bayview,Drug Offense,3,2022,1,2,1.0,1.0,0,0,2.0,1
+2022-01-25,Mission,Other,1,2022,1,1,1.0,1.0,0,0,1.0,1
+2022-05-22,Taraval,Motor Vehicle Theft,2,2022,5,6,3.0,3.0,1,0,3.0,0
+2020-07-26,Taraval,Miscellaneous Investigation,2,2020,7,6,1.0,1.0,1,0,2.0,1
+2024-03-14,Northern,Disorderly Conduct,1,2024,3,3,1.0,1.0,0,0,1.25,0
+2022-12-20,Northern,Malicious Mischief,4,2022,12,1,1.0,7.0,0,0,5.25,0
+2020-05-16,Mission,Disorderly Conduct,1,2020,5,5,2.0,2.0,1,0,2.0,0
+2024-02-24,Mission,Recovered Vehicle,1,2024,2,5,1.0,2.0,1,0,2.0,0
+2022-06-24,Richmond,Other Miscellaneous,1,2022,6,4,1.0,1.0,0,0,2.0,0
+2020-06-13,Tenderloin,Other,1,2020,6,5,1.0,1.0,1,0,2.0,0
+2022-12-07,Northern,Warrant,1,2022,12,2,1.0,1.0,0,0,2.0,0
+2024-08-25,Out of SF,Motor Vehicle Theft,1,2024,8,6,1.0,4.0,1,0,1.0,1
+2020-02-05,Out of SF,Fraud,1,2020,2,2,1.0,2.0,0,0,2.0,0
+2023-07-10,Mission,Drug Violation,1,2023,7,0,1.0,1.0,0,0,2.0,0
+2021-05-21,Ingleside,Drug Offense,1,2021,5,4,2.0,1.0,0,0,2.0,0
+2020-07-14,Tenderloin,Drug Offense,6,2020,7,1,6.0,3.0,0,0,10.0,0
+2023-04-29,Northern,Motor Vehicle Theft,2,2023,4,5,4.0,1.0,1,0,4.0,0
+2020-03-04,Tenderloin,Robbery,5,2020,3,2,1.0,1.0,0,0,2.25,1
+2024-09-13,Richmond,Other,1,2024,9,4,1.0,1.0,0,0,1.0,1
+2022-07-15,Out of SF,Larceny Theft,2,2022,7,4,1.0,3.0,0,0,2.0,1
+2024-08-20,Out of SF,Recovered Vehicle,9,2024,8,1,9.0,3.0,0,0,9.0,1
+2024-09-18,Southern,Vandalism,1,2024,9,2,1.0,1.0,0,0,1.0,1
+2024-12-09,Mission,Motor Vehicle Theft,2,2024,12,0,3.0,3.0,0,0,3.0,0
+2024-07-01,Central,Larceny Theft,20,2024,7,0,27.0,12.0,0,0,14.0,1
+2020-01-20,Southern,Motor Vehicle Theft,2,2020,1,0,1.0,1.0,0,1,3.0,0
+2023-06-26,Mission,Weapons Carrying Etc,2,2023,6,0,5.0,1.0,0,0,2.0,1
+2024-11-20,Northern,Assault,6,2024,11,2,3.0,3.0,0,0,3.25,1
+2023-07-14,Tenderloin,Miscellaneous Investigation,1,2023,7,4,2.0,1.0,0,0,2.0,0
+2020-12-09,Southern,Other Miscellaneous,5,2020,12,2,5.0,5.0,0,0,5.0,1
+2023-05-19,Central,Burglary,1,2023,5,4,3.0,1.0,0,0,4.0,0
+2022-08-13,Mission,Non-Criminal,1,2022,8,5,1.0,1.0,1,0,2.0,0
+2021-06-29,Out of SF,Larceny Theft,1,2021,6,1,3.0,1.0,0,0,2.0,0
+2024-05-29,Tenderloin,Other Miscellaneous,3,2024,5,2,6.0,4.0,0,0,4.25,0
+2023-12-28,Tenderloin,Other Miscellaneous,1,2023,12,3,10.0,3.0,0,0,4.0,0
+2021-11-05,Mission,Burglary,5,2021,11,4,4.0,6.0,0,0,4.0,1
+2021-01-07,Southern,Traffic Violation Arrest,1,2021,1,3,1.0,2.0,0,0,1.0,1
+2024-06-20,Ingleside,Disorderly Conduct,1,2024,6,3,1.0,2.0,0,0,1.25,0
+2021-03-29,Park,Assault,1,2021,3,0,1.0,1.0,0,0,1.25,0
+2024-06-24,Tenderloin,Burglary,1,2024,6,0,1.0,1.0,0,0,2.0,0
+2024-11-10,Mission,Missing Person,1,2024,11,6,1.0,4.0,1,0,2.0,0
+2023-08-24,Richmond,Case Closure,1,2023,8,3,1.0,1.0,0,0,1.0,1
+2022-09-07,Park,Other Miscellaneous,1,2022,9,2,3.0,2.0,0,0,2.0,0
+2021-04-11,Tenderloin,Malicious Mischief,3,2021,4,6,3.0,3.0,1,0,3.0,1
+2024-09-12,Tenderloin,Malicious Mischief,3,2024,9,3,2.0,1.0,0,0,2.0,1
+2024-08-27,Ingleside,Motor Vehicle Theft,1,2024,8,1,2.0,2.0,0,0,3.0,0
+2023-08-08,Central,Larceny Theft,23,2023,8,1,30.0,40.0,0,0,38.25,0
+2023-05-10,Park,Miscellaneous Investigation,1,2023,5,2,1.0,1.0,0,0,1.0,1
+2021-08-18,Richmond,Miscellaneous Investigation,1,2021,8,2,1.0,2.0,0,0,1.0,1
+2022-01-12,Richmond,Other,1,2022,1,2,1.0,1.0,0,0,1.0,1
+2022-08-09,Ingleside,Offences Against The Family And Children,1,2022,8,1,1.0,1.0,0,0,2.0,0
+2023-11-09,Ingleside,Fraud,1,2023,11,3,1.0,4.0,0,0,2.0,0
+2021-09-09,Southern,Assault,1,2021,9,3,3.0,3.0,0,0,4.0,0
+2022-03-22,Mission,Offences Against The Family And Children,2,2022,3,1,1.0,1.0,0,0,1.0,1
+2022-01-28,Southern,Disorderly Conduct,1,2022,1,4,1.0,1.0,0,0,1.25,0
+2024-02-20,Richmond,Burglary,2,2024,2,1,1.0,6.0,0,0,2.0,1
+2023-02-14,Central,Assault,2,2023,2,1,1.0,1.0,0,0,3.0,0
+2023-03-14,Southern,Lost Property,1,2023,3,1,1.0,2.0,0,0,2.0,0
+2023-01-06,Park,Disorderly Conduct,1,2023,1,4,1.0,1.0,0,0,1.0,1
+2020-09-13,Ingleside,Other,1,2020,9,6,1.0,1.0,1,0,1.0,1
+2024-09-05,Northern,Assault,2,2024,9,3,6.0,3.0,0,0,5.0,0
+2022-10-12,Taraval,Motor Vehicle Theft,2,2022,10,2,1.0,4.0,0,0,3.25,0
+2020-09-26,Southern,Fire Report,1,2020,9,5,1.0,1.0,1,0,1.0,1
+2024-04-25,Ingleside,Forgery And Counterfeiting,1,2024,4,3,2.0,1.0,0,0,2.0,0
+2020-05-01,Tenderloin,Drug Offense,4,2020,5,4,3.0,3.0,0,0,3.25,1
+2022-01-12,Northern,Lost Property,2,2022,1,2,1.0,1.0,0,0,2.0,1
+2024-11-10,Central,Other,3,2024,11,6,1.0,1.0,1,0,2.0,1
+2022-02-18,Southern,Motor Vehicle Theft,1,2022,2,4,1.0,7.0,0,0,5.0,0
+2021-02-23,Bayview,Missing Person,2,2021,2,1,2.0,1.0,0,0,2.0,1
+2023-08-23,Northern,Non-Criminal,3,2023,8,2,2.0,3.0,0,0,3.0,1
+2020-09-23,Mission,Missing Person,4,2020,9,2,1.0,3.0,0,0,2.0,1
+2021-06-10,Tenderloin,Larceny Theft,4,2021,6,3,3.0,7.0,0,0,5.0,0
+2021-12-28,Bayview,Burglary,1,2021,12,1,1.0,1.0,0,0,3.0,0
+2020-09-01,Northern,Robbery,2,2020,9,1,4.0,3.0,0,0,3.0,0
+2024-10-07,Mission,Missing Person,1,2024,10,0,4.0,2.0,0,0,2.0,0
+2020-09-24,Bayview,Fraud,1,2020,9,3,4.0,1.0,0,0,2.25,0
+2021-06-02,Central,Suspicious Occ,3,2021,6,2,3.0,1.0,0,0,2.0,1
+2023-06-15,Bayview,Weapons Offense,2,2023,6,3,1.0,2.0,0,0,1.0,1
+2021-06-20,Northern,Larceny Theft,21,2021,6,6,30.0,15.0,1,0,24.25,0
+2020-10-04,Taraval,Burglary,2,2020,10,6,1.0,1.0,1,0,3.0,0
+2024-02-26,Southern,Burglary,4,2024,2,0,4.0,2.0,0,0,4.0,1
+2024-10-23,Central,Warrant,4,2024,10,2,2.0,1.0,0,0,3.0,1
+2022-03-28,Mission,Burglary,4,2022,3,0,3.0,1.0,0,0,4.0,1
+2023-10-09,Richmond,Assault,2,2023,10,0,2.0,1.0,0,1,2.0,1
+2023-03-07,Richmond,Assault,3,2023,3,1,2.0,2.0,0,0,2.0,1
+2020-10-21,Ingleside,Fraud,3,2020,10,2,2.0,1.0,0,0,3.0,1
+2023-06-03,Tenderloin,Warrant,2,2023,6,5,1.0,2.0,1,0,3.0,0
+2023-07-28,Central,Traffic Violation Arrest,1,2023,7,4,1.0,1.0,0,0,1.0,1
+2020-12-09,Bayview,Larceny Theft,7,2020,12,2,4.0,7.0,0,0,8.0,0
+2020-07-09,Northern,Motor Vehicle Theft,3,2020,7,3,4.0,5.0,0,0,6.0,0
+2024-12-08,Bayview,Malicious Mischief,1,2024,12,6,2.0,5.0,1,0,3.0,0
+2022-03-28,Southern,Other Miscellaneous,3,2022,3,0,2.0,1.0,0,0,4.25,0
+2020-04-26,Taraval,Miscellaneous Investigation,1,2020,4,6,1.0,1.0,1,0,2.0,0
+2024-11-23,Taraval,Assault,2,2024,11,5,3.0,1.0,1,0,2.0,1
+2023-07-18,Tenderloin,Larceny Theft,1,2023,7,1,1.0,7.0,0,0,7.0,0
+2021-04-18,Tenderloin,Suspicious Occ,1,2021,4,6,4.0,1.0,1,0,2.0,0
+2020-08-08,Tenderloin,Other Miscellaneous,6,2020,8,5,1.0,2.0,1,0,3.0,1
+2022-05-03,Bayview,Arson,1,2022,5,1,1.0,1.0,0,0,1.0,1
+2023-03-16,Tenderloin,Non-Criminal,3,2023,3,3,1.0,2.0,0,0,3.0,1
+2020-07-13,Mission,Suspicious Occ,1,2020,7,0,1.0,1.0,0,0,2.0,0
+2023-10-06,Bayview,Stolen Property,1,2023,10,4,2.0,1.0,0,0,1.25,0
+2021-02-17,Southern,Other Miscellaneous,2,2021,2,2,4.0,1.0,0,0,4.0,0
+2020-09-03,Tenderloin,Warrant,3,2020,9,3,4.0,3.0,0,0,3.0,1
+2023-08-16,Central,Warrant,4,2023,8,2,1.0,2.0,0,0,2.0,1
+2020-10-10,Southern,Miscellaneous Investigation,1,2020,10,5,1.0,2.0,1,0,2.0,0
+2020-05-22,Taraval,Lost Property,1,2020,5,4,1.0,1.0,0,0,1.0,1
+2024-09-02,Bayview,Stolen Property,1,2024,9,0,1.0,1.0,0,1,1.0,1
+2021-01-14,Northern,Traffic Violation Arrest,1,2021,1,3,1.0,1.0,0,0,1.0,1
+2022-09-27,Taraval,Robbery,2,2022,9,1,1.0,1.0,0,0,1.0,1
+2022-02-10,Mission,Assault,4,2022,2,3,6.0,3.0,0,0,5.0,0
+2020-03-13,Tenderloin,Missing Person,1,2020,3,4,1.0,1.0,0,0,2.0,0
+2020-04-04,Northern,Malicious Mischief,6,2020,4,5,4.0,5.0,1,0,4.25,1
+2021-01-15,Taraval,Larceny Theft,8,2021,1,4,12.0,6.0,0,0,9.0,0
+2022-07-01,Taraval,Malicious Mischief,3,2022,7,4,6.0,3.0,0,0,3.0,1
+2021-06-14,Out of SF,Recovered Vehicle,3,2021,6,0,3.0,3.0,0,0,6.0,0
+2023-09-21,Bayview,Other Offenses,2,2023,9,3,1.0,2.0,0,0,2.0,1
+2023-07-18,Mission,Non-Criminal,1,2023,7,1,1.0,4.0,0,0,3.25,0
+2020-08-29,Park,Miscellaneous Investigation,2,2020,8,5,1.0,1.0,1,0,1.0,1
+2022-07-27,Ingleside,Larceny Theft,4,2022,7,2,9.0,10.0,0,0,9.0,0
+2023-11-07,Northern,Malicious Mischief,4,2023,11,1,7.0,4.0,0,0,5.0,0
+2024-04-17,Northern,Other Offenses,1,2024,4,2,1.0,1.0,0,0,1.0,1
+2022-05-23,Southern,Recovered Vehicle,1,2022,5,0,2.0,1.0,0,0,2.0,0
+2020-06-16,Richmond,Recovered Vehicle,1,2020,6,1,1.0,3.0,0,0,1.25,0
+2024-08-08,Tenderloin,Larceny Theft,4,2024,8,3,1.0,4.0,0,0,5.0,0
+2022-06-21,Tenderloin,Drug Offense,3,2022,6,1,1.0,7.0,0,0,4.0,0
+2020-11-25,Bayview,Traffic Collision,2,2020,11,2,1.0,1.0,0,0,1.0,1
+2022-06-22,Ingleside,Other Miscellaneous,3,2022,6,2,1.0,2.0,0,0,3.0,1
+2023-04-01,Northern,Missing Person,1,2023,4,5,2.0,1.0,1,0,2.0,0
+2022-08-25,Richmond,Malicious Mischief,3,2022,8,3,1.0,2.0,0,0,2.25,1
+2023-05-20,Taraval,Lost Property,1,2023,5,5,1.0,3.0,1,0,2.0,0
+2024-09-30,Taraval,Fraud,1,2024,9,0,1.0,1.0,0,0,3.0,0
+2024-07-02,Mission,Motor Vehicle Theft,3,2024,7,1,3.0,2.0,0,0,4.0,0
+2023-05-18,Ingleside,Non-Criminal,4,2023,5,3,1.0,5.0,0,0,2.0,1
+2022-04-10,Mission,Drug Offense,1,2022,4,6,4.0,2.0,1,0,1.25,0
+2022-01-20,Richmond,Malicious Mischief,2,2022,1,3,2.0,3.0,0,0,2.0,1
+2020-03-29,Tenderloin,Robbery,1,2020,3,6,4.0,2.0,1,0,2.25,0
+2024-01-20,Central,Drug Offense,1,2024,1,5,1.0,2.0,1,0,2.0,0
+2021-04-12,Park,Fraud,2,2021,4,0,1.0,2.0,0,0,2.0,1
+2021-04-19,Northern,Larceny Theft,20,2021,4,0,5.0,13.0,0,0,20.0,1
+2021-05-18,Southern,Motor Vehicle Theft,1,2021,5,1,1.0,3.0,0,0,3.25,0
+2022-02-01,Bayview,Fraud,3,2022,2,1,3.0,1.0,0,0,2.0,1
+2020-09-12,Tenderloin,Offences Against The Family And Children,1,2020,9,5,1.0,1.0,1,0,1.0,1
+2022-02-23,Northern,Larceny Theft,18,2022,2,2,11.0,13.0,0,0,22.0,0
+2020-09-04,Central,Offences Against The Family And Children,1,2020,9,4,2.0,1.0,0,0,2.0,0
+2021-10-15,Tenderloin,Lost Property,1,2021,10,4,3.0,1.0,0,0,2.0,0
+2023-05-10,Park,Offences Against The Family And Children,1,2023,5,2,2.0,1.0,0,0,1.0,1
+2024-12-12,Taraval,Miscellaneous Investigation,1,2024,12,3,4.0,1.0,0,0,1.0,1
+2020-11-07,Central,Burglary,4,2020,11,5,5.0,3.0,1,0,4.25,0
+2024-04-16,Richmond,Assault,1,2024,4,1,1.0,3.0,0,0,2.0,0
+2021-12-04,Central,Assault,3,2021,12,5,1.0,1.0,1,0,4.0,0
+2021-01-14,Southern,Embezzlement,1,2021,1,3,1.0,1.0,0,0,1.0,1
+2022-12-09,Taraval,Fraud,1,2022,12,4,1.0,6.0,0,0,4.0,0
+2024-04-18,Central,Larceny Theft,4,2024,4,3,7.0,14.0,0,0,14.0,0
+2021-11-04,Bayview,Motor Vehicle Theft,3,2021,11,3,6.0,4.0,0,0,5.25,0
+2022-12-26,Taraval,Recovered Vehicle,2,2022,12,0,2.0,3.0,0,1,2.0,1
+2021-01-19,Southern,Recovered Vehicle,3,2021,1,1,1.0,1.0,0,0,2.0,1
+2020-08-21,Bayview,Embezzlement,1,2020,8,4,1.0,1.0,0,0,1.0,1
+2023-06-18,Southern,Arson,1,2023,6,6,1.0,1.0,1,0,1.0,1
+2020-04-21,Tenderloin,Traffic Violation Arrest,1,2020,4,1,1.0,1.0,0,0,2.0,0
+2023-08-19,Southern,Non-Criminal,3,2023,8,5,3.0,3.0,1,0,3.0,1
+2022-06-07,Tenderloin,Other,1,2022,6,1,1.0,2.0,0,0,1.0,1
+2021-10-13,Northern,Burglary,2,2021,10,2,8.0,3.0,0,0,4.25,0
+2020-06-21,Ingleside,Fraud,3,2020,6,6,1.0,1.0,1,0,2.0,1
+2023-02-06,Southern,Warrant,1,2023,2,0,1.0,1.0,0,0,3.0,0
+2021-08-04,Taraval,Disorderly Conduct,1,2021,8,2,1.0,2.0,0,0,1.25,0
+2023-04-28,Mission,Suspicious Occ,2,2023,4,4,2.0,2.0,0,0,2.0,1
+2023-10-12,Southern,Disorderly Conduct,2,2023,10,3,1.0,1.0,0,0,4.0,0
+2024-04-12,Southern,Non-Criminal,1,2024,4,4,1.0,1.0,0,0,3.0,0
+2022-10-06,Tenderloin,Non-Criminal,2,2022,10,3,2.0,6.0,0,0,3.0,0
+2024-03-08,Southern,Missing Person,1,2024,3,4,2.0,1.0,0,0,1.0,1
+2021-04-06,Southern,Larceny Theft,11,2021,4,1,2.0,10.0,0,0,10.0,1
+2023-03-26,Southern,Warrant,1,2023,3,6,1.0,5.0,1,0,3.0,0
+2023-12-30,Richmond,Larceny Theft,8,2023,12,5,14.0,8.0,1,0,9.0,0
+2024-10-08,Tenderloin,Malicious Mischief,3,2024,10,1,1.0,1.0,0,0,3.0,1
+2020-12-06,Bayview,Recovered Vehicle,3,2020,12,6,3.0,3.0,1,0,5.0,0
+2021-08-25,Out of SF,Warrant,1,2021,8,2,1.0,1.0,0,0,2.0,0
+2023-12-22,Ingleside,Motor Vehicle Theft,2,2023,12,4,1.0,4.0,0,0,4.0,0
+2021-02-19,Central,Larceny Theft,13,2021,2,4,14.0,18.0,0,0,15.0,0
+2021-09-03,Tenderloin,Drug Offense,1,2021,9,4,7.0,1.0,0,0,5.0,0
+2023-07-31,Southern,Drug Offense,4,2023,7,0,9.0,6.0,0,0,5.0,0
+2023-07-11,Northern,Motor Vehicle Theft,3,2023,7,1,3.0,6.0,0,0,5.0,0
+2023-11-17,Taraval,Missing Person,1,2023,11,4,1.0,1.0,0,0,2.0,0
+2021-02-26,Mission,Offences Against The Family And Children,2,2021,2,4,1.0,1.0,0,0,1.25,1
+2020-07-25,Tenderloin,Malicious Mischief,3,2020,7,5,2.0,4.0,1,0,2.0,1
+2024-08-11,Park,Larceny Theft,4,2024,8,6,2.0,3.0,1,0,5.0,0
+2024-05-25,Richmond,Warrant,2,2024,5,5,1.0,3.0,1,0,1.25,1
+2021-04-10,Mission,Motor Vehicle Theft,2,2021,4,5,2.0,1.0,1,0,4.0,0
+2020-05-13,Park,Larceny Theft,4,2020,5,2,4.0,2.0,0,0,6.0,0
+2023-09-18,Out of SF,Motor Vehicle Theft,1,2023,9,0,2.0,2.0,0,0,1.0,1
+2024-04-05,Northern,Non-Criminal,1,2024,4,4,3.0,1.0,0,0,2.0,0
+2020-01-22,Tenderloin,Larceny Theft,7,2020,1,2,4.0,3.0,0,0,7.0,1
+2023-07-12,Taraval,Fraud,2,2023,7,2,1.0,1.0,0,0,2.25,0
+2022-08-08,Mission,Motor Vehicle Theft,4,2022,8,0,2.0,4.0,0,0,4.0,1
+2024-04-18,Park,Assault,2,2024,4,3,2.0,2.0,0,0,2.0,1
+2021-01-24,Mission,Lost Property,1,2021,1,6,1.0,2.0,1,0,2.0,0
+2021-01-10,Mission,Drug Offense,1,2021,1,6,1.0,1.0,1,0,2.0,0
+2022-01-25,Mission,Motor Vehicle Theft,1,2022,1,1,4.0,5.0,0,0,5.0,0
+2024-10-20,Southern,Vandalism,1,2024,10,6,1.0,1.0,1,0,1.0,1
+2023-10-06,Out of SF,Other Offenses,2,2023,10,4,2.0,1.0,0,0,2.0,1
+2024-06-05,Ingleside,Missing Person,1,2024,6,2,1.0,1.0,0,0,2.0,0
+2020-01-30,Mission,Larceny Theft,18,2020,1,3,14.0,21.0,0,0,16.25,1
+2020-12-31,Tenderloin,Other Offenses,1,2020,12,3,1.0,1.0,0,0,1.0,1
+2022-11-10,Northern,Recovered Vehicle,2,2022,11,3,5.0,1.0,0,0,2.0,1
+2021-03-14,Richmond,Assault,1,2021,3,6,1.0,1.0,1,0,1.25,0
+2023-02-26,Bayview,Offences Against The Family And Children,2,2023,2,6,3.0,1.0,1,0,2.0,1
+2024-01-08,Southern,Other,1,2024,1,0,1.0,1.0,0,0,2.0,0
+2021-03-28,Park,Burglary,3,2021,3,6,2.0,5.0,1,0,3.25,0
+2022-10-22,Central,Recovered Vehicle,2,2022,10,5,2.0,1.0,1,0,2.0,1
+2020-06-13,Out of SF,Assault,1,2020,6,5,1.0,1.0,1,0,1.0,1
+2023-05-12,Northern,Malicious Mischief,1,2023,5,4,2.0,3.0,0,0,5.0,0
+2023-05-05,Central,Case Closure,1,2023,5,4,1.0,5.0,0,0,1.0,1
+2022-12-13,Richmond,Larceny Theft,17,2022,12,1,25.0,8.0,0,0,15.0,1
+2022-10-12,Northern,Missing Person,4,2022,10,2,1.0,3.0,0,0,2.0,1
+2023-05-25,Northern,Forgery And Counterfeiting,1,2023,5,3,1.0,2.0,0,0,1.0,1
+2020-04-14,Tenderloin,Warrant,2,2020,4,1,1.0,1.0,0,0,3.25,0
+2022-12-07,Bayview,Fraud,2,2022,12,2,1.0,2.0,0,0,3.0,0
+2020-07-05,Ingleside,Recovered Vehicle,1,2020,7,6,1.0,4.0,1,0,3.0,0
+2021-02-17,Taraval,Larceny Theft,5,2021,2,2,7.0,6.0,0,0,7.0,0
+2024-02-27,Northern,Malicious Mischief,2,2024,2,1,4.0,4.0,0,0,5.0,0
+2024-07-23,Bayview,Burglary,3,2024,7,1,1.0,1.0,0,0,2.0,1
+2022-03-11,Northern,Robbery,3,2022,3,4,1.0,2.0,0,0,3.0,1
+2021-12-30,Mission,Traffic Violation Arrest,1,2021,12,3,1.0,1.0,0,0,1.0,1
+2022-09-20,Ingleside,Other,2,2022,9,1,1.0,1.0,0,0,1.0,1
+2020-04-08,Tenderloin,Larceny Theft,6,2020,4,2,3.0,2.0,0,0,4.0,1
+2024-12-29,Richmond,Offences Against The Family And Children,2,2024,12,6,2.0,1.0,1,0,2.0,1
+2021-06-02,Southern,Recovered Vehicle,1,2021,6,2,1.0,2.0,0,0,2.0,0
+2024-05-28,Southern,Assault,1,2024,5,1,1.0,3.0,0,0,4.0,0
+2024-09-01,Central,Other Miscellaneous,8,2024,9,6,2.0,5.0,1,0,4.25,1
+2020-10-22,Central,Suspicious Occ,1,2020,10,3,2.0,1.0,0,0,2.0,0
+2021-01-12,Central,Other Miscellaneous,2,2021,1,1,4.0,1.0,0,0,4.0,0
+2021-12-21,Ingleside,Assault,5,2021,12,1,1.0,3.0,0,0,3.0,1
+2021-12-17,Mission,Malicious Mischief,6,2021,12,4,2.0,3.0,0,0,5.25,1
+2022-05-18,Southern,Larceny Theft,8,2022,5,2,12.0,11.0,0,0,16.25,0
+2022-07-12,Southern,Lost Property,3,2022,7,1,2.0,1.0,0,0,2.0,1
+2020-05-07,Bayview,Other Offenses,1,2020,5,3,1.0,1.0,0,0,1.25,0
+2021-03-03,Tenderloin,Recovered Vehicle,3,2021,3,2,1.0,2.0,0,0,2.0,1
+2020-03-30,Northern,Offences Against The Family And Children,1,2020,3,0,2.0,1.0,0,0,1.0,1
+2023-07-25,Central,Fraud,4,2023,7,1,1.0,1.0,0,0,2.25,1
+2022-11-15,Bayview,Non-Criminal,2,2022,11,1,1.0,1.0,0,0,2.25,0
+2020-09-09,Central,Suspicious Occ,2,2020,9,2,1.0,2.0,0,0,2.0,1
+2021-03-10,Richmond,Assault,2,2021,3,2,1.0,1.0,0,0,1.25,1
+2022-08-23,Southern,Lost Property,1,2022,8,1,3.0,1.0,0,0,3.0,0
+2022-08-25,Mission,Motor Vehicle Theft,3,2022,8,3,2.0,1.0,0,0,4.0,0
+2021-04-15,Richmond,Burglary,1,2021,4,3,2.0,4.0,0,0,3.0,0
+2023-07-29,Southern,Assault,2,2023,7,5,7.0,2.0,1,0,4.25,0
+2022-02-02,Ingleside,Larceny Theft,8,2022,2,2,3.0,7.0,0,0,7.0,1
+2022-08-01,Central,Motor Vehicle Theft,1,2022,8,0,1.0,4.0,0,0,3.0,0
+2024-10-06,Tenderloin,Burglary,1,2024,10,6,1.0,1.0,1,0,1.25,0
+2021-11-14,Southern,Other Offenses,1,2021,11,6,1.0,1.0,1,0,1.0,1
+2021-06-25,Southern,Suicide,1,2021,6,4,1.0,1.0,0,0,1.0,1
+2023-12-29,Taraval,Robbery,2,2023,12,4,1.0,2.0,0,0,2.0,1
+2022-12-28,Taraval,Larceny Theft,7,2022,12,2,11.0,3.0,0,0,11.0,0
+2021-01-22,Mission,Miscellaneous Investigation,1,2021,1,4,1.0,1.0,0,0,1.0,1
+2022-11-25,Central,Assault,2,2022,11,4,3.0,4.0,0,0,4.0,0
+2022-12-21,Taraval,Larceny Theft,3,2022,12,2,9.0,9.0,0,0,11.25,0
+2023-09-17,Mission,Assault,2,2023,9,6,6.0,6.0,1,0,6.0,0
+2024-07-16,Northern,Burglary,3,2024,7,1,2.0,5.0,0,0,4.25,0
+2021-10-28,Mission,Disorderly Conduct,1,2021,10,3,1.0,1.0,0,0,2.0,0
+2020-09-25,Richmond,Motor Vehicle Theft,3,2020,9,4,1.0,1.0,0,0,3.0,1
+2020-08-12,Richmond,Robbery,1,2020,8,2,3.0,1.0,0,0,1.0,1
+2020-10-28,Park,Malicious Mischief,3,2020,10,2,1.0,3.0,0,0,3.0,1
+2024-01-19,Mission,Larceny Theft,4,2024,1,4,10.0,11.0,0,0,9.0,0
+2023-01-25,Bayview,Other,1,2023,1,2,2.0,1.0,0,0,1.0,1
+2023-11-20,Taraval,Missing Person,1,2023,11,0,1.0,3.0,0,0,2.0,0
+2023-04-13,Ingleside,Drug Offense,1,2023,4,3,1.0,1.0,0,0,1.25,0
+2024-01-07,Bayview,Missing Person,1,2024,1,6,2.0,2.0,1,0,2.0,0
+2021-06-28,Ingleside,Weapons Carrying Etc,2,2021,6,0,1.0,2.0,0,0,2.0,1
+2021-07-28,Northern,Fraud,1,2021,7,2,1.0,3.0,0,0,2.0,0
+2024-06-24,Mission,Disorderly Conduct,2,2024,6,0,2.0,1.0,0,0,2.0,1
+2023-03-08,Central,Robbery,1,2023,3,2,2.0,1.0,0,0,3.0,0
+2021-06-05,Ingleside,Larceny Theft,5,2021,6,5,1.0,2.0,1,0,8.25,0
+2023-05-22,Tenderloin,Burglary,1,2023,5,0,1.0,1.0,0,0,3.0,0
+2020-03-10,Central,Other Miscellaneous,6,2020,3,1,3.0,1.0,0,0,6.25,0
+2023-01-04,Out of SF,Weapons Carrying Etc,1,2023,1,2,3.0,1.0,0,0,2.0,0
+2020-04-27,Mission,Malicious Mischief,4,2020,4,0,3.0,4.0,0,0,4.0,1
+2023-11-06,Mission,Traffic Collision,1,2023,11,0,1.0,1.0,0,0,1.25,0
+2023-05-29,Mission,Weapons Carrying Etc,1,2023,5,0,1.0,1.0,0,1,2.0,0
+2021-04-13,Mission,Recovered Vehicle,2,2021,4,1,1.0,1.0,0,0,3.0,0
+2023-08-16,Tenderloin,Larceny Theft,3,2023,8,2,8.0,5.0,0,0,6.25,0
+2020-12-05,Southern,Traffic Violation Arrest,2,2020,12,5,1.0,1.0,1,0,1.0,1
+2023-08-11,Central,Drug Offense,1,2023,8,4,2.0,1.0,0,0,1.25,0
+2023-04-30,Mission,Burglary,1,2023,4,6,4.0,6.0,1,0,4.0,0
+2020-11-28,Taraval,Robbery,1,2020,11,5,1.0,2.0,1,0,2.0,0
+2023-05-28,Ingleside,Non-Criminal,2,2023,5,6,1.0,1.0,1,0,2.0,1
+2023-12-07,Bayview,Case Closure,1,2023,12,3,1.0,1.0,0,0,1.0,1
+2023-09-22,Tenderloin,Assault,3,2023,9,4,2.0,3.0,0,0,5.0,0
+2023-09-01,Ingleside,Assault,3,2023,9,4,3.0,3.0,0,0,3.0,1
+2021-03-03,Out of SF,Offences Against The Family And Children,1,2021,3,2,1.0,1.0,0,0,1.0,1
+2020-10-06,Central,Drug Offense,1,2020,10,1,1.0,1.0,0,0,2.0,0
+2022-04-17,Mission,Motor Vehicle Theft,3,2022,4,6,4.0,3.0,1,0,4.0,0
+2020-06-22,Tenderloin,Forgery And Counterfeiting,1,2020,6,0,1.0,1.0,0,0,1.0,1
+2023-03-13,Mission,Traffic Collision,1,2023,3,0,1.0,1.0,0,0,1.0,1
+2024-03-20,Tenderloin,Lost Property,1,2024,3,2,1.0,2.0,0,0,2.0,0
+2022-11-17,Tenderloin,Larceny Theft,7,2022,11,3,1.0,5.0,0,0,6.0,1
+2020-11-13,Mission,Motor Vehicle Theft,5,2020,11,4,3.0,3.0,0,0,4.0,1
+2021-02-05,Ingleside,Suspicious Occ,1,2021,2,4,1.0,2.0,0,0,1.0,1
+2023-12-07,Taraval,Other Miscellaneous,2,2023,12,3,3.0,1.0,0,0,3.0,0
+2024-04-23,Richmond,Warrant,1,2024,4,1,3.0,1.0,0,0,1.0,1
+2020-12-09,Northern,Malicious Mischief,2,2020,12,2,4.0,2.0,0,0,6.0,0
+2021-05-12,Richmond,Malicious Mischief,6,2021,5,2,4.0,6.0,0,0,3.0,1
+2022-01-24,Bayview,Non-Criminal,1,2022,1,0,1.0,2.0,0,0,2.25,0
+2022-03-16,Bayview,Other Miscellaneous,1,2022,3,2,2.0,1.0,0,0,2.0,0
+2024-07-05,Northern,Motor Vehicle Theft,2,2024,7,4,9.0,3.0,0,0,4.0,0
+2023-08-30,Central,Offences Against The Family And Children,2,2023,8,2,2.0,2.0,0,0,2.0,1
+2020-06-23,Park,Malicious Mischief,2,2020,6,1,1.0,1.0,0,0,2.0,1
+2023-06-27,Ingleside,Other Offenses,1,2023,6,1,1.0,1.0,0,0,1.0,1
+2024-04-08,Northern,Robbery,3,2024,4,0,1.0,1.0,0,0,1.25,1
+2020-11-05,Mission,Other Miscellaneous,4,2020,11,3,1.0,4.0,0,0,4.25,0
+2020-07-30,Southern,Vandalism,1,2020,7,3,1.0,1.0,0,0,1.0,1
+2024-09-19,Bayview,Motor Vehicle Theft,2,2024,9,3,3.0,3.0,0,0,5.0,0
+2021-09-29,Out of SF,Weapons Carrying Etc,2,2021,9,2,2.0,1.0,0,0,2.0,1
+2023-09-22,Northern,Burglary,4,2023,9,4,5.0,4.0,0,0,4.0,1
+2023-02-15,Ingleside,Motor Vehicle Theft,2,2023,2,2,4.0,2.0,0,0,4.0,0
+2024-06-29,Southern,Larceny Theft,13,2024,6,5,4.0,6.0,1,0,6.0,1
+2020-07-05,Central,Other Miscellaneous,2,2020,7,6,2.0,3.0,1,0,3.0,0
+2024-06-25,Tenderloin,Disorderly Conduct,3,2024,6,1,1.0,1.0,0,0,2.0,1
+2020-08-29,Central,Arson,1,2020,8,5,1.0,1.0,1,0,1.0,1
+2022-03-13,Richmond,Larceny Theft,6,2022,3,6,10.0,11.0,1,0,12.0,0
+2024-07-31,Central,Warrant,1,2024,7,2,1.0,2.0,0,0,2.25,0
+2024-10-20,Tenderloin,Disorderly Conduct,1,2024,10,6,1.0,3.0,1,0,3.0,0
+2022-05-25,Ingleside,Assault,1,2022,5,2,2.0,1.0,0,0,3.0,0
+2023-09-30,Southern,Disorderly Conduct,1,2023,9,5,2.0,4.0,1,0,4.0,0
+2024-12-02,Southern,Miscellaneous Investigation,1,2024,12,0,2.0,1.0,0,0,2.0,0
+2020-10-09,Northern,Malicious Mischief,5,2020,10,4,11.0,1.0,0,0,6.0,0
+2023-04-18,Park,Other Miscellaneous,1,2023,4,1,2.0,1.0,0,0,2.0,0
+2021-09-18,Northern,Vandalism,1,2021,9,5,1.0,1.0,1,0,1.0,1
+2022-10-30,Southern,Robbery,1,2022,10,6,1.0,2.0,1,0,2.25,0
+2021-02-23,Ingleside,Robbery,1,2021,2,1,2.0,1.0,0,0,2.0,0
+2021-10-23,Mission,Malicious Mischief,3,2021,10,5,6.0,3.0,1,0,5.25,0
+2020-10-29,Bayview,Assault,5,2020,10,3,2.0,3.0,0,0,4.0,1
+2022-05-08,Tenderloin,Burglary,1,2022,5,6,4.0,1.0,1,0,2.0,0
+2024-01-01,Central,Malicious Mischief,7,2024,1,0,6.0,1.0,0,1,6.25,1
+2021-12-12,Park,Other,1,2021,12,6,1.0,1.0,1,0,1.0,1
+2021-04-18,Northern,Sex Offense,1,2021,4,6,1.0,1.0,1,0,1.0,1
+2023-06-29,Ingleside,Warrant,1,2023,6,3,1.0,2.0,0,0,2.0,0
+2021-05-10,Tenderloin,Malicious Mischief,3,2021,5,0,3.0,2.0,0,0,3.0,1
+2020-11-01,Park,Missing Person,1,2020,11,6,2.0,1.0,1,0,1.25,0
+2021-04-22,Central,Burglary,2,2021,4,3,3.0,1.0,0,0,4.0,0
+2020-02-02,Northern,Assault,2,2020,2,6,6.0,2.0,1,0,3.75,0
+2022-07-19,Northern,Burglary,5,2022,7,1,1.0,3.0,0,0,5.0,1
+2022-04-24,Southern,Non-Criminal,1,2022,4,6,2.0,2.0,1,0,2.25,0
+2020-06-06,Southern,Malicious Mischief,2,2020,6,5,1.0,5.0,1,0,4.0,0
+2024-06-28,Taraval,Malicious Mischief,2,2024,6,4,1.0,2.0,0,0,3.0,0
+2024-11-14,Out of SF,Warrant,1,2024,11,3,1.0,1.0,0,0,1.25,0
+2023-01-14,Southern,Disorderly Conduct,1,2023,1,5,1.0,1.0,1,0,2.0,0
+2022-08-03,Northern,Disorderly Conduct,1,2022,8,2,2.0,1.0,0,0,2.0,0
+2022-09-25,Tenderloin,Non-Criminal,2,2022,9,6,7.0,3.0,1,0,3.0,0
+2023-04-07,Central,Other Offenses,1,2023,4,4,1.0,1.0,0,0,1.25,0
+2022-11-05,Southern,Non-Criminal,1,2022,11,5,3.0,1.0,1,0,2.0,0
+2021-06-24,Northern,Lost Property,2,2021,6,3,1.0,2.0,0,0,2.0,1
+2020-11-07,Southern,Burglary,3,2020,11,5,3.0,5.0,1,0,4.0,0
+2021-07-20,Northern,Suspicious Occ,1,2021,7,1,2.0,1.0,0,0,2.0,0
+2022-06-23,Northern,Forgery And Counterfeiting,1,2022,6,3,1.0,1.0,0,0,1.0,1
+2023-12-16,Mission,Assault,1,2023,12,5,2.0,3.0,1,0,4.0,0
+2024-12-05,Tenderloin,Drug Offense,6,2024,12,3,9.0,5.0,0,0,6.0,1
+2023-08-27,Taraval,Malicious Mischief,2,2023,8,6,4.0,3.0,1,0,4.0,0
+2023-05-06,Bayview,Assault,3,2023,5,5,5.0,2.0,1,0,4.0,0
+2020-04-04,Richmond,Other Miscellaneous,2,2020,4,5,1.0,1.0,1,0,2.0,1
+2023-08-07,Mission,Recovered Vehicle,1,2023,8,0,1.0,2.0,0,0,2.25,0
+2020-10-27,Mission,Fraud,2,2020,10,1,2.0,1.0,0,0,2.0,1
+2024-07-30,Central,Non-Criminal,1,2024,7,1,2.0,4.0,0,0,2.25,0
+2022-10-08,Southern,Arson,1,2022,10,5,1.0,1.0,1,0,1.25,0
+2022-12-02,Out of SF,Fraud,5,2022,12,4,1.0,2.0,0,0,2.0,1
+2022-08-21,Ingleside,Suspicious Occ,1,2022,8,6,1.0,1.0,1,0,1.0,1
+2024-08-28,Southern,Lost Property,2,2024,8,2,1.0,1.0,0,0,2.0,1
+2024-12-02,Mission,Non-Criminal,1,2024,12,0,2.0,2.0,0,0,2.0,0
+2024-01-08,Richmond,Lost Property,1,2024,1,0,1.0,1.0,0,0,1.0,1
+2021-10-16,Richmond,Larceny Theft,4,2021,10,5,23.0,13.0,1,0,16.0,0
+2022-10-25,Mission,Warrant,1,2022,10,1,2.0,3.0,0,0,2.25,0
+2023-05-04,Southern,Missing Person,1,2023,5,3,2.0,1.0,0,0,2.0,0
+2024-02-05,Tenderloin,Traffic Violation Arrest,1,2024,2,0,1.0,1.0,0,0,2.0,0
+2024-05-15,Bayview,Courtesy Report,1,2024,5,2,1.0,1.0,0,0,1.0,1
+2024-03-21,Richmond,Fraud,1,2024,3,3,2.0,1.0,0,0,2.0,0
+2023-03-21,Out of SF,Lost Property,2,2023,3,1,3.0,6.0,0,0,2.0,1
+2021-10-02,Mission,Assault,3,2021,10,5,5.0,1.0,1,0,5.25,0
+2023-09-28,Bayview,Traffic Violation Arrest,2,2023,9,3,1.0,1.0,0,0,1.0,1
+2024-01-19,Out of SF,Miscellaneous Investigation,1,2024,1,4,1.0,1.0,0,0,1.0,1
+2023-01-30,Park,Larceny Theft,4,2023,1,0,4.0,5.0,0,0,7.0,0
+2021-12-09,Ingleside,Vandalism,1,2021,12,3,1.0,1.0,0,0,1.0,1
+2023-12-07,Out of SF,Larceny Theft,1,2023,12,3,1.0,4.0,0,0,3.25,0
+2020-03-08,Richmond,Malicious Mischief,2,2020,3,6,1.0,1.0,1,0,2.0,1
+2023-09-13,Mission,Traffic Violation Arrest,1,2023,9,2,1.0,1.0,0,0,1.0,1
+2022-06-09,Out of SF,Case Closure,1,2022,6,3,1.0,1.0,0,0,1.0,1
+2020-06-10,Mission,Non-Criminal,1,2020,6,2,1.0,2.0,0,0,2.0,0
+2020-02-21,Central,Disorderly Conduct,2,2020,2,4,1.0,1.0,0,0,2.0,1
+2022-02-05,Richmond,Other Miscellaneous,1,2022,2,5,1.0,1.0,1,0,3.0,0
+2020-11-11,Central,Robbery,2,2020,11,2,1.0,4.0,0,1,2.25,0
+2020-08-03,Northern,Robbery,3,2020,8,0,4.0,2.0,0,0,2.0,1
+2020-10-17,Mission,Warrant,1,2020,10,5,1.0,1.0,1,0,2.25,0
+2023-04-24,Bayview,Burglary,2,2023,4,0,1.0,1.0,0,0,3.0,0
+2021-07-01,Taraval,Malicious Mischief,1,2021,7,3,2.0,1.0,0,0,4.0,0
+2024-07-28,Mission,Disorderly Conduct,2,2024,7,6,1.0,2.0,1,0,2.0,1
+2022-08-10,Taraval,Weapons Offense,1,2022,8,2,1.0,1.0,0,0,1.0,1
+2023-09-05,Tenderloin,Warrant,4,2023,9,1,6.0,2.0,0,0,6.0,0
+2021-03-01,Bayview,Miscellaneous Investigation,1,2021,3,0,1.0,1.0,0,0,1.0,1
+2024-05-01,Southern,Miscellaneous Investigation,1,2024,5,2,3.0,1.0,0,0,2.0,0
+2020-10-09,Central,Burglary,4,2020,10,4,7.0,4.0,0,0,3.25,1
+2022-08-05,Mission,Fraud,4,2022,8,4,1.0,2.0,0,0,4.0,1
+2020-01-21,Central,Robbery,1,2020,1,1,3.0,1.0,0,0,3.0,0
+2023-07-05,Mission,Fraud,1,2023,7,2,3.0,1.0,0,0,2.25,0
+2020-01-18,Southern,Burglary,1,2020,1,5,4.0,2.0,1,0,3.75,0
+2024-11-30,Northern,Non-Criminal,2,2024,11,5,2.0,1.0,1,0,2.0,1
+2022-07-04,Bayview,Motor Vehicle Theft,8,2022,7,0,4.0,1.0,0,1,5.0,1
+2021-02-16,Bayview,Other Offenses,1,2021,2,1,1.0,3.0,0,0,2.0,0
+2021-01-22,Richmond,Burglary,5,2021,1,4,2.0,2.0,0,0,5.0,1
+2020-06-25,Northern,Malicious Mischief,1,2020,6,3,2.0,5.0,0,0,5.0,0
+2021-07-27,Bayview,Assault,1,2021,7,1,3.0,2.0,0,0,3.0,0
+2024-12-02,Southern,Robbery,1,2024,12,0,2.0,1.0,0,0,2.0,0
+2021-11-16,Southern,Other Miscellaneous,1,2021,11,1,1.0,3.0,0,0,6.0,0
+2023-08-30,Southern,Non-Criminal,2,2023,8,2,1.0,3.0,0,0,3.0,0
+2020-11-25,Bayview,Traffic Violation Arrest,2,2020,11,2,2.0,1.0,0,0,2.0,1
+2021-08-02,Tenderloin,Other Miscellaneous,5,2021,8,0,3.0,2.0,0,0,4.25,1
+2023-04-29,Bayview,Malicious Mischief,1,2023,4,5,6.0,2.0,1,0,4.0,0
+2022-10-17,Richmond,Malicious Mischief,2,2022,10,0,1.0,1.0,0,0,2.0,1
+2020-11-15,Mission,Recovered Vehicle,2,2020,11,6,2.0,2.0,1,0,3.0,0
+2023-07-21,Southern,Burglary,4,2023,7,4,3.0,2.0,0,0,3.0,1
+2024-10-11,Central,Drug Offense,2,2024,10,4,1.0,1.0,0,0,1.25,1
+2023-07-31,Tenderloin,Assault,2,2023,7,0,5.0,7.0,0,0,7.0,0
+2024-01-13,Ingleside,Fraud,1,2024,1,5,1.0,1.0,1,0,2.0,0
+2021-02-23,Northern,Burglary,6,2021,2,1,4.0,5.0,0,0,6.0,1
+2023-06-27,Central,Non-Criminal,2,2023,6,1,3.0,2.0,0,0,3.25,0
+2022-03-22,Ingleside,Missing Person,1,2022,3,1,2.0,1.0,0,0,2.0,0
+2023-02-24,Central,Stolen Property,1,2023,2,4,1.0,1.0,0,0,1.0,1
+2024-04-30,Taraval,Lost Property,2,2024,4,1,2.0,2.0,0,0,2.0,1
+2023-11-21,Northern,Burglary,1,2023,11,1,4.0,1.0,0,0,3.25,0
+2024-09-17,Park,Burglary,1,2024,9,1,1.0,2.0,0,0,2.0,0
+2022-09-01,Out of SF,Malicious Mischief,1,2022,9,3,1.0,1.0,0,0,1.0,1
+2022-05-23,Southern,Offences Against The Family And Children,1,2022,5,0,3.0,1.0,0,0,2.0,0
+2023-06-24,Central,Suspicious Occ,1,2023,6,5,1.0,2.0,1,0,2.0,0
+2023-02-10,Central,Drug Offense,3,2023,2,4,2.0,1.0,0,0,3.0,1
+2023-08-01,Central,Missing Person,3,2023,8,1,2.0,1.0,0,0,2.0,1
+2024-12-08,Bayview,Assault,1,2024,12,6,1.0,1.0,1,0,3.0,0
+2024-10-30,Mission,Assault,3,2024,10,2,4.0,2.0,0,0,5.25,0
+2023-11-06,Bayview,Larceny Theft,1,2023,11,0,3.0,5.0,0,0,6.0,0
+2020-02-04,Southern,Offences Against The Family And Children,2,2020,2,1,1.0,2.0,0,0,2.0,1
+2021-11-27,Bayview,Offences Against The Family And Children,1,2021,11,5,1.0,1.0,1,0,2.0,0
+2020-12-01,Mission,Drug Offense,1,2020,12,1,1.0,1.0,0,0,2.0,0
+2023-03-06,Ingleside,Disorderly Conduct,1,2023,3,0,1.0,2.0,0,0,1.0,1
+2020-11-25,Tenderloin,Suspicious Occ,3,2020,11,2,1.0,2.0,0,0,2.0,1
+2021-04-18,Northern,Suspicious Occ,2,2021,4,6,2.0,2.0,1,0,2.0,1
+2021-10-14,Park,Larceny Theft,6,2021,10,3,9.0,5.0,0,0,9.25,0
+2024-07-28,Richmond,Missing Person,1,2024,7,6,1.0,1.0,1,0,2.0,0
+2024-02-01,Ingleside,Malicious Mischief,7,2024,2,3,1.0,2.0,0,0,3.0,1
+2021-03-05,Tenderloin,Fraud,1,2021,3,4,2.0,1.0,0,0,2.0,0
+2022-12-31,Taraval,Fraud,1,2022,12,5,4.0,4.0,1,0,3.25,0
+2023-08-28,Mission,Other,2,2023,8,0,1.0,1.0,0,0,1.0,1
+2022-06-14,Tenderloin,Warrant,1,2022,6,1,2.0,2.0,0,0,3.0,0
+2021-09-10,Ingleside,Motor Vehicle Theft,3,2021,9,4,4.0,4.0,0,0,4.0,0
+2024-08-25,Tenderloin,Warrant,3,2024,8,6,1.0,3.0,1,0,5.5,0
+2022-08-04,Northern,Motor Vehicle Theft,3,2022,8,3,1.0,3.0,0,0,3.25,0
+2022-02-02,Bayview,Traffic Collision,1,2022,2,2,1.0,1.0,0,0,1.0,1
+2021-04-18,Park,Recovered Vehicle,1,2021,4,6,1.0,1.0,1,0,1.0,1
+2023-06-08,Northern,Motor Vehicle Theft,3,2023,6,3,2.0,1.0,0,0,4.0,0
+2022-03-31,Out of SF,Recovered Vehicle,3,2022,3,3,5.0,7.0,0,0,7.25,0
+2021-07-04,Out of SF,Offences Against The Family And Children,1,2021,7,6,1.0,1.0,1,1,1.0,1
+2020-05-16,Southern,Motor Vehicle Theft,5,2020,5,5,5.0,1.0,1,0,3.0,1
+2024-04-01,Mission,Warrant,1,2024,4,0,2.0,3.0,0,0,3.0,0
+2020-12-11,Park,Burglary,1,2020,12,4,5.0,4.0,0,0,3.0,0
+2022-11-30,Bayview,Other Miscellaneous,2,2022,11,2,3.0,1.0,0,0,3.0,0
+2021-09-28,Out of SF,Non-Criminal,1,2021,9,1,2.0,1.0,0,0,2.0,0
+2022-12-03,Southern,Lost Property,1,2022,12,5,2.0,2.0,1,0,2.0,0
+2024-08-01,Southern,Forgery And Counterfeiting,2,2024,8,3,1.0,1.0,0,0,1.0,1
+2024-05-20,Tenderloin,Larceny Theft,4,2024,5,0,7.0,2.0,0,0,4.0,1
+2021-11-14,Central,Warrant,1,2021,11,6,2.0,1.0,1,0,2.0,0
+2023-05-10,Northern,Assault,5,2023,5,2,1.0,3.0,0,0,3.0,1
+2024-03-23,Taraval,Assault,5,2024,3,5,1.0,1.0,1,0,2.0,1
+2023-08-27,Southern,Other Miscellaneous,3,2023,8,6,4.0,4.0,1,0,5.0,0
+2022-08-12,Mission,Drug Violation,1,2022,8,4,1.0,2.0,0,0,2.0,0
+2021-09-24,Tenderloin,Other Miscellaneous,3,2021,9,4,1.0,3.0,0,0,4.25,0
+2021-05-08,Northern,Malicious Mischief,3,2021,5,5,5.0,3.0,1,0,5.0,0
+2024-06-17,Southern,Other,1,2024,6,0,1.0,2.0,0,0,1.0,1
+2021-03-12,Richmond,Larceny Theft,7,2021,3,4,5.0,9.0,0,0,8.25,0
+2021-09-22,Taraval,Offences Against The Family And Children,1,2021,9,2,1.0,1.0,0,0,2.0,0
+2022-01-18,Northern,Disorderly Conduct,1,2022,1,1,2.0,1.0,0,0,2.0,0
+2020-09-27,Tenderloin,Suspicious Occ,1,2020,9,6,1.0,2.0,1,0,2.0,0
+2023-09-13,Out of SF,Fraud,1,2023,9,2,1.0,3.0,0,0,2.0,0
+2023-12-29,Central,Other,1,2023,12,4,1.0,1.0,0,0,1.0,1
+2024-03-02,Southern,Non-Criminal,3,2024,3,5,2.0,1.0,1,0,3.0,1
+2023-12-05,Central,Assault,1,2023,12,1,3.0,1.0,0,0,4.0,0
+2023-03-03,Taraval,Assault,1,2023,3,4,3.0,2.0,0,0,2.0,0
+2023-05-11,Mission,Burglary,2,2023,5,3,2.0,1.0,0,0,3.25,0
+2020-05-15,Central,Other Offenses,1,2020,5,4,1.0,1.0,0,0,1.0,1
+2024-02-02,Tenderloin,Warrant,4,2024,2,4,6.0,8.0,0,0,7.0,0
+2022-08-20,Central,Other Miscellaneous,6,2022,8,5,5.0,5.0,1,0,5.0,1
+2024-11-30,Mission,Suspicious Occ,3,2024,11,5,3.0,3.0,1,0,2.25,1
+2020-04-06,Central,Disorderly Conduct,2,2020,4,0,1.0,1.0,0,0,2.0,1
+2020-07-27,Northern,Fraud,1,2020,7,0,1.0,2.0,0,0,3.0,0
+2020-03-09,Northern,Recovered Vehicle,1,2020,3,0,3.0,1.0,0,0,2.0,0
+2021-02-13,Tenderloin,Non-Criminal,5,2021,2,5,3.0,3.0,1,0,3.0,1
+2021-04-15,Mission,Larceny Theft,13,2021,4,3,12.0,10.0,0,0,8.25,1
+2024-02-14,Taraval,Robbery,2,2024,2,2,1.0,1.0,0,0,2.0,1
+2023-05-19,Southern,Suspicious Occ,1,2023,5,4,2.0,1.0,0,0,2.0,0
+2023-03-15,Bayview,Warrant,1,2023,3,2,1.0,1.0,0,0,2.0,0
+2022-03-25,Richmond,Motor Vehicle Theft,1,2022,3,4,2.0,2.0,0,0,2.0,0
+2022-08-07,Northern,Non-Criminal,2,2022,8,6,1.0,4.0,1,0,3.0,0
+2023-08-26,Central,Missing Person,1,2023,8,5,3.0,1.0,1,0,2.0,0
+2020-07-10,Central,Warrant,1,2020,7,4,1.0,1.0,0,0,1.0,1
+2024-04-12,Mission,Larceny Theft,10,2024,4,4,7.0,9.0,0,0,9.0,1
+2024-02-06,Tenderloin,Drug Offense,7,2024,2,1,4.0,3.0,0,0,8.25,0
+2022-08-30,Southern,Lost Property,1,2022,8,1,1.0,3.0,0,0,3.0,0
+2023-02-28,Southern,Assault,1,2023,2,1,5.0,5.0,0,0,5.0,0
+2021-04-24,Park,Motor Vehicle Theft,1,2021,4,5,1.0,1.0,1,0,2.0,0
+2023-04-11,Southern,Motor Vehicle Theft,1,2023,4,1,1.0,2.0,0,0,3.0,0
+2022-12-25,Southern,Assault,3,2022,12,6,2.0,5.0,1,1,4.0,0
+2021-07-14,Northern,Offences Against The Family And Children,1,2021,7,2,1.0,2.0,0,0,2.0,0
+2024-08-27,Central,Warrant,2,2024,8,1,5.0,1.0,0,0,2.25,0
+2023-11-07,Richmond,Motor Vehicle Theft,1,2023,11,1,1.0,1.0,0,0,2.0,0
+2023-05-02,Park,Suspicious Occ,3,2023,5,1,1.0,1.0,0,0,1.0,1
+2023-06-03,Southern,Suspicious Occ,1,2023,6,5,2.0,1.0,1,0,2.0,0
+2020-09-01,Richmond,Drug Offense,1,2020,9,1,2.0,1.0,0,0,2.0,0
+2021-09-17,Southern,Assault,3,2021,9,4,2.0,5.0,0,0,4.0,0
+2024-01-29,Northern,Sex Offense,1,2024,1,0,1.0,1.0,0,0,1.0,1
+2022-01-06,Out of SF,Recovered Vehicle,5,2022,1,3,8.0,3.0,0,0,6.25,0
+2024-02-08,Tenderloin,Malicious Mischief,2,2024,2,3,1.0,2.0,0,0,2.0,1
+2020-05-12,Mission,Burglary,4,2020,5,1,5.0,7.0,0,0,5.0,0
+2020-03-05,Park,Other Miscellaneous,1,2020,3,3,2.0,1.0,0,0,2.0,0
+2024-02-20,Southern,Robbery,1,2024,2,1,1.0,4.0,0,0,2.0,0
+2020-11-03,Richmond,Missing Person,2,2020,11,1,1.0,1.0,0,0,2.0,1
+2021-07-05,Richmond,Suspicious Occ,1,2021,7,0,1.0,1.0,0,1,1.0,1
+2021-02-07,Central,Case Closure,3,2021,2,6,1.0,2.0,1,0,1.0,1
+2020-12-09,Central,Burglary,2,2020,12,2,4.0,2.0,0,0,4.0,0
+2023-07-30,Park,Assault,3,2023,7,6,1.0,1.0,1,0,2.0,1
+2024-05-16,Northern,Fraud,1,2024,5,3,1.0,2.0,0,0,2.0,0
+2022-12-20,Out of SF,Miscellaneous Investigation,1,2022,12,1,1.0,1.0,0,0,1.0,1
+2020-02-25,Tenderloin,Warrant,2,2020,2,1,3.0,5.0,0,0,4.0,0
+2023-07-29,Mission,Robbery,2,2023,7,5,2.0,1.0,1,0,2.25,0
+2022-03-10,Central,Missing Person,3,2022,3,3,3.0,1.0,0,0,2.0,1
+2023-09-15,Ingleside,Offences Against The Family And Children,1,2023,9,4,2.0,5.0,0,0,1.0,1
+2023-03-07,Taraval,Disorderly Conduct,1,2023,3,1,2.0,1.0,0,0,1.0,1
+2020-11-05,Bayview,Warrant,2,2020,11,3,1.0,3.0,0,0,2.0,1
+2022-09-06,Park,Burglary,3,2022,9,1,1.0,2.0,0,0,2.25,1
+2021-08-14,Tenderloin,Offences Against The Family And Children,1,2021,8,5,3.0,1.0,1,0,2.0,0
+2022-02-19,Bayview,Assault,2,2022,2,5,2.0,4.0,1,0,2.25,0
+2020-10-17,Mission,Disorderly Conduct,2,2020,10,5,1.0,2.0,1,0,2.0,1
+2020-12-08,Southern,Missing Person,2,2020,12,1,4.0,4.0,0,0,2.0,1
+2023-06-15,Bayview,Miscellaneous Investigation,1,2023,6,3,1.0,1.0,0,0,2.0,0
+2023-08-08,Taraval,Malicious Mischief,5,2023,8,1,1.0,1.0,0,0,3.0,1
+2020-11-03,Ingleside,Assault,3,2020,11,1,3.0,3.0,0,0,3.25,0
+2023-04-17,Park,Other Miscellaneous,2,2023,4,0,1.0,1.0,0,0,2.0,1
+2022-08-25,Southern,Miscellaneous Investigation,2,2022,8,3,1.0,1.0,0,0,2.0,1
+2024-01-01,Northern,Forgery And Counterfeiting,1,2024,1,0,1.0,1.0,0,1,1.0,1
+2023-04-21,Northern,Motor Vehicle Theft,1,2023,4,4,5.0,4.0,0,0,4.0,0
+2024-11-25,Richmond,Weapons Offense,3,2024,11,0,1.0,1.0,0,0,1.0,1
+2020-05-27,Taraval,Warrant,1,2020,5,2,1.0,1.0,0,0,2.0,0
+2024-02-19,Ingleside,Burglary,2,2024,2,0,5.0,5.0,0,1,3.0,0
+2023-02-20,Mission,Recovered Vehicle,1,2023,2,0,1.0,1.0,0,1,1.25,0
+2020-04-13,Tenderloin,Malicious Mischief,3,2020,4,0,1.0,3.0,0,0,3.0,1
+2020-10-04,Richmond,Burglary,1,2020,10,6,2.0,3.0,1,0,3.0,0
+2020-09-18,Northern,Other Offenses,1,2020,9,4,1.0,1.0,0,0,2.0,0
+2021-01-11,Ingleside,Disorderly Conduct,1,2021,1,0,1.0,3.0,0,0,1.0,1
+2024-01-17,Ingleside,Stolen Property,1,2024,1,2,1.0,1.0,0,0,1.0,1
+2020-11-07,Richmond,Case Closure,1,2020,11,5,1.0,1.0,1,0,1.0,1
+2024-04-03,Central,Drug Offense,2,2024,4,2,2.0,1.0,0,0,2.0,1
+2022-10-19,Central,Missing Person,1,2022,10,2,2.0,1.0,0,0,2.0,0
+2021-09-03,Southern,Suspicious Occ,2,2021,9,4,3.0,1.0,0,0,2.0,1
+2021-08-15,Southern,Vandalism,2,2021,8,6,1.0,1.0,1,0,1.0,1
+2023-03-11,Tenderloin,Stolen Property,1,2023,3,5,1.0,1.0,1,0,1.0,1
+2020-08-07,Mission,Recovered Vehicle,2,2020,8,4,3.0,1.0,0,0,2.0,1
+2023-12-07,Bayview,Other Miscellaneous,1,2023,12,3,3.0,3.0,0,0,3.0,0
+2020-03-03,Taraval,Malicious Mischief,1,2020,3,1,1.0,7.0,0,0,4.0,0
+2024-11-14,Mission,Assault,1,2024,11,3,3.0,4.0,0,0,5.25,0
+2023-04-25,Northern,Assault,1,2023,4,1,1.0,1.0,0,0,3.25,0
+2024-12-30,Tenderloin,Disorderly Conduct,1,2024,12,0,2.0,4.0,0,0,3.0,0
+2021-11-29,Taraval,Fraud,1,2021,11,0,1.0,2.0,0,0,3.0,0
+2020-01-17,Mission,Lost Property,4,2020,1,4,1.0,1.0,0,0,3.0,1
+2023-06-02,Bayview,Embezzlement,1,2023,6,4,1.0,1.0,0,0,1.0,1
+2022-06-14,Tenderloin,Other Miscellaneous,2,2022,6,1,1.0,2.0,0,0,4.0,0
+2023-05-09,Mission,Assault,4,2023,5,1,4.0,4.0,0,0,5.25,0
+2024-10-18,Park,Sex Offense,1,2024,10,4,1.0,1.0,0,0,1.0,1
+2022-01-26,Park,Larceny Theft,7,2022,1,2,5.0,2.0,0,0,7.0,1
+2020-09-07,Ingleside,Warrant,3,2020,9,0,1.0,2.0,0,1,2.0,1
+2021-10-07,Out of SF,Other Miscellaneous,1,2021,10,3,1.0,1.0,0,0,1.0,1
+2023-05-07,Northern,Assault,3,2023,5,6,2.0,2.0,1,0,3.25,0
+2021-06-29,Richmond,Larceny Theft,14,2021,6,1,28.0,18.0,0,0,18.0,0
+2021-07-06,Central,Missing Person,1,2021,7,1,2.0,4.0,0,0,2.25,0
+2022-05-26,Taraval,Recovered Vehicle,1,2022,5,3,1.0,1.0,0,0,2.0,0
+2024-09-19,Bayview,Other Miscellaneous,1,2024,9,3,4.0,4.0,0,0,3.25,0
+2021-09-14,Southern,Robbery,1,2021,9,1,2.0,1.0,0,0,2.0,0
+2020-05-09,Richmond,Disorderly Conduct,1,2020,5,5,1.0,1.0,1,0,1.0,1
+2021-07-03,Mission,Lost Property,1,2021,7,5,1.0,1.0,1,0,2.0,0
+2020-06-07,Southern,Disorderly Conduct,1,2020,6,6,1.0,1.0,1,0,2.0,0
+2022-05-28,Ingleside,Burglary,1,2022,5,5,2.0,1.0,1,0,4.0,0
+2021-01-16,Park,Assault,5,2021,1,5,1.0,1.0,1,0,2.0,1
+2024-08-17,Park,Missing Person,1,2024,8,5,4.0,2.0,1,0,2.0,0
+2021-10-07,Tenderloin,Other,1,2021,10,3,1.0,1.0,0,0,2.0,0
+2024-12-20,Tenderloin,Assault,3,2024,12,4,9.0,1.0,0,0,3.25,0
+2020-06-29,Ingleside,Larceny Theft,7,2020,6,0,5.0,8.0,0,0,8.0,0
+2020-06-27,Central,Other Miscellaneous,3,2020,6,5,3.0,1.0,1,0,5.25,0
+2023-08-30,Bayview,Warrant,5,2023,8,2,1.0,1.0,0,0,2.25,1
+2020-10-30,Bayview,Larceny Theft,5,2020,10,4,4.0,5.0,0,0,5.25,0
+2023-04-29,Tenderloin,Offences Against The Family And Children,1,2023,4,5,1.0,1.0,1,0,1.0,1
+2022-05-14,Southern,Warrant,2,2022,5,5,2.0,1.0,1,0,3.0,0
+2023-03-05,Central,Miscellaneous Investigation,1,2023,3,6,1.0,1.0,1,0,1.25,0
+2024-06-20,Ingleside,Warrant,1,2024,6,3,1.0,1.0,0,0,2.0,0
+2022-08-08,Ingleside,Miscellaneous Investigation,2,2022,8,0,1.0,2.0,0,0,1.0,1
+2024-10-11,Southern,Burglary,1,2024,10,4,2.0,1.0,0,0,3.0,0
+2022-05-27,Tenderloin,Weapons Carrying Etc,2,2022,5,4,3.0,1.0,0,0,2.0,1
+2023-08-16,Northern,Larceny Theft,19,2023,8,2,24.0,28.0,0,0,29.25,0
+2023-08-06,Mission,Robbery,1,2023,8,6,1.0,2.0,1,0,2.0,0
+2023-09-06,Mission,Weapons Carrying Etc,1,2023,9,2,1.0,3.0,0,0,2.0,0
+2024-03-11,Central,Malicious Mischief,3,2024,3,0,3.0,7.0,0,0,5.0,0
+2023-07-14,Southern,Lost Property,1,2023,7,4,1.0,1.0,0,0,2.0,0
+2024-07-13,Richmond,Other Miscellaneous,2,2024,7,5,1.0,1.0,1,0,2.0,1
+2023-08-12,Park,Non-Criminal,1,2023,8,5,1.0,3.0,1,0,2.25,0
+2020-07-29,Southern,Assault,3,2020,7,2,2.0,2.0,0,0,3.0,1
+2023-12-19,Southern,Case Closure,1,2023,12,1,1.0,1.0,0,0,1.0,1
+2022-12-28,Bayview,Traffic Collision,1,2022,12,2,1.0,1.0,0,0,1.0,1
+2024-05-14,Mission,Other Miscellaneous,2,2024,5,1,9.0,6.0,0,0,6.0,0
+2024-12-20,Mission,Larceny Theft,8,2024,12,4,2.0,10.0,0,0,10.25,0
+2020-11-27,Richmond,Motor Vehicle Theft,2,2020,11,4,2.0,1.0,0,0,2.0,1
+2020-07-06,Southern,Malicious Mischief,4,2020,7,0,7.0,3.0,0,0,4.0,1
+2020-05-30,Northern,Other Miscellaneous,3,2020,5,5,3.0,6.0,1,0,6.0,0
+2020-12-19,Ingleside,Weapons Carrying Etc,4,2020,12,5,4.0,2.0,1,0,2.0,1
+2022-12-04,Tenderloin,Malicious Mischief,3,2022,12,6,1.0,1.0,1,0,2.0,1
+2021-07-18,Taraval,Other Miscellaneous,1,2021,7,6,1.0,1.0,1,0,3.0,0
+2024-01-12,Tenderloin,Warrant,7,2024,1,4,8.0,9.0,0,0,8.0,0
+2022-04-13,Southern,Other Miscellaneous,4,2022,4,2,2.0,4.0,0,0,5.0,0
+2024-06-25,Northern,Recovered Vehicle,1,2024,6,1,1.0,1.0,0,0,1.0,1
+2023-02-11,Bayview,Assault,4,2023,2,5,1.0,3.0,1,0,4.0,1
+2024-01-24,Northern,Recovered Vehicle,1,2024,1,2,1.0,1.0,0,0,2.0,0
+2021-08-12,Richmond,Burglary,4,2021,8,3,3.0,9.0,0,0,3.0,1
+2021-10-24,Ingleside,Suspicious Occ,1,2021,10,6,1.0,1.0,1,0,2.0,0
+2022-05-07,Mission,Recovered Vehicle,1,2022,5,5,4.0,1.0,1,0,2.25,0
+2024-08-26,Bayview,Larceny Theft,7,2024,8,0,7.0,5.0,0,0,6.0,1
+2023-05-04,Out of SF,Warrant,1,2023,5,3,2.0,2.0,0,0,2.0,0
+2023-08-03,Richmond,Other,1,2023,8,3,1.0,1.0,0,0,1.0,1
+2022-09-26,Bayview,Assault,1,2022,9,0,6.0,1.0,0,0,4.0,0
+2023-11-12,Taraval,Larceny Theft,7,2023,11,6,3.0,13.0,1,0,9.0,0
+2024-05-31,Tenderloin,Disorderly Conduct,1,2024,5,4,2.0,2.0,0,0,2.0,0
+2022-04-12,Ingleside,Warrant,1,2022,4,1,1.0,1.0,0,0,2.0,0
+2024-02-19,Northern,Vehicle Misplaced,1,2024,2,0,1.0,1.0,0,1,1.0,1
+2022-03-07,Park,Burglary,1,2022,3,0,1.0,1.0,0,0,2.0,0
+2020-09-22,Northern,Motor Vehicle Theft,2,2020,9,1,3.0,2.0,0,0,4.0,0
+2021-09-27,Richmond,Non-Criminal,1,2021,9,0,1.0,1.0,0,0,2.0,0
+2022-11-21,Central,Assault,4,2022,11,0,7.0,4.0,0,0,4.0,1
+2021-12-11,Mission,Lost Property,2,2021,12,5,2.0,1.0,1,0,3.0,0
+2023-03-31,Northern,Suspicious Occ,1,2023,3,4,1.0,4.0,0,0,2.0,0
+2024-11-06,Southern,Miscellaneous Investigation,4,2024,11,2,1.0,1.0,0,0,2.0,1
+2020-07-21,Mission,Malicious Mischief,5,2020,7,1,2.0,7.0,0,0,4.25,1
+2022-12-14,Northern,Traffic Violation Arrest,1,2022,12,2,1.0,2.0,0,0,1.25,0
+2022-03-30,Northern,Other,2,2022,3,2,1.0,1.0,0,0,1.0,1
+2024-07-31,Mission,Motor Vehicle Theft,3,2024,7,2,3.0,4.0,0,0,4.0,0
+2020-10-03,Central,Other Miscellaneous,2,2020,10,5,2.0,4.0,1,0,4.0,0
+2021-01-08,Southern,Suspicious Occ,1,2021,1,4,1.0,1.0,0,0,1.0,1
+2022-01-29,Mission,Missing Person,1,2022,1,5,1.0,1.0,1,0,2.0,0
+2021-05-23,Southern,Robbery,1,2021,5,6,1.0,1.0,1,0,1.0,1
+2021-11-05,Tenderloin,Other Miscellaneous,8,2021,11,4,3.0,5.0,0,0,5.0,1
+2022-06-17,Central,Missing Person,1,2022,6,4,2.0,1.0,0,0,2.25,0
+2024-06-10,Mission,Assault,4,2024,6,0,4.0,4.0,0,0,5.25,0
+2023-04-25,Central,Assault,5,2023,4,1,4.0,5.0,0,0,3.25,1
+2024-12-01,Out of SF,Larceny Theft,4,2024,12,6,1.0,1.0,1,0,3.0,1
+2023-03-09,Tenderloin,Burglary,5,2023,3,3,1.0,1.0,0,0,2.0,1
+2021-08-02,Ingleside,Larceny Theft,8,2021,8,0,6.0,6.0,0,0,8.0,1
+2023-09-08,Mission,Warrant,1,2023,9,4,5.0,1.0,0,0,2.0,0
+2024-02-14,Mission,Forgery And Counterfeiting,1,2024,2,2,1.0,4.0,0,0,2.0,0
+2024-03-19,Richmond,Fraud,1,2024,3,1,1.0,1.0,0,0,2.0,0
+2020-08-14,Park,Motor Vehicle Theft,3,2020,8,4,2.0,1.0,0,0,3.0,1
+2024-02-29,Northern,Recovered Vehicle,2,2024,2,3,3.0,1.0,0,0,2.0,1
+2024-12-23,Southern,Drug Offense,2,2024,12,0,1.0,1.0,0,0,3.0,0
+2024-10-12,Out of SF,Other Offenses,1,2024,10,5,1.0,1.0,1,0,2.0,0
+2022-08-15,Bayview,Burglary,1,2022,8,0,3.0,2.0,0,0,3.0,0
+2023-03-24,Northern,Case Closure,1,2023,3,4,1.0,1.0,0,0,1.0,1
+2021-03-31,Taraval,Suspicious Occ,1,2021,3,2,1.0,1.0,0,0,2.0,0
+2021-12-03,Park,Burglary,1,2021,12,4,3.0,1.0,0,0,2.0,0
+2021-08-25,Out of SF,Larceny Theft,2,2021,8,2,1.0,1.0,0,0,2.0,1
+2022-09-29,Southern,Motor Vehicle Theft,1,2022,9,3,1.0,2.0,0,0,3.0,0
+2024-01-11,Out of SF,Lost Property,3,2024,1,3,2.0,4.0,0,0,3.0,1
+2024-01-30,Park,Larceny Theft,2,2024,1,1,3.0,5.0,0,0,4.0,0
+2021-02-13,Mission,Recovered Vehicle,1,2021,2,5,3.0,1.0,1,0,3.0,0
+2022-08-30,Northern,Other,3,2022,8,1,1.0,1.0,0,0,1.0,1
+2024-11-02,Tenderloin,Fraud,2,2024,11,5,2.0,1.0,1,0,2.0,1
+2022-02-23,Southern,Fraud,3,2022,2,2,2.0,6.0,0,0,3.0,1
+2022-04-05,Tenderloin,Other Miscellaneous,5,2022,4,1,7.0,2.0,0,0,5.25,0
+2022-02-23,Mission,Robbery,3,2022,2,2,3.0,3.0,0,0,3.0,1
+2024-06-07,Bayview,Lost Property,1,2024,6,4,1.0,2.0,0,0,2.0,0
+2022-04-28,Taraval,Offences Against The Family And Children,1,2022,4,3,3.0,1.0,0,0,1.25,0
+2022-06-09,Taraval,Malicious Mischief,3,2022,6,3,1.0,4.0,0,0,3.0,1
+2023-11-24,Northern,Non-Criminal,1,2023,11,4,1.0,1.0,0,0,2.0,0
+2024-05-09,Taraval,Lost Property,1,2024,5,3,1.0,2.0,0,0,2.0,0
+2024-04-27,Southern,Malicious Mischief,2,2024,4,5,1.0,6.0,1,0,3.0,0
+2020-12-17,Mission,Missing Person,1,2020,12,3,2.0,1.0,0,0,2.0,0
+2024-07-06,Out of SF,Non-Criminal,1,2024,7,5,1.0,1.0,1,0,1.0,1
+2024-03-24,Bayview,Offences Against The Family And Children,1,2024,3,6,1.0,1.0,1,0,2.0,0
+2020-04-29,Bayview,Other Miscellaneous,2,2020,4,2,6.0,1.0,0,0,3.0,0
+2020-05-19,Richmond,Lost Property,3,2020,5,1,2.0,2.0,0,0,1.0,1
+2020-10-05,Park,Larceny Theft,5,2020,10,0,7.0,10.0,0,0,8.25,0
+2024-06-30,Tenderloin,Other,2,2024,6,6,1.0,1.0,1,0,2.0,1
+2021-11-15,Southern,Recovered Vehicle,1,2021,11,0,2.0,3.0,0,0,3.0,0
+2022-08-13,Bayview,Weapons Offense,3,2022,8,5,1.0,1.0,1,0,2.0,1
+2020-02-29,Park,Motor Vehicle Theft,2,2020,2,5,2.0,1.0,1,0,2.0,1
+2021-11-16,Out of SF,Case Closure,1,2021,11,1,1.0,1.0,0,0,1.0,1
+2024-09-04,Tenderloin,Suspicious Occ,2,2024,9,2,3.0,2.0,0,0,2.0,1
+2020-03-22,Taraval,Larceny Theft,4,2020,3,6,9.0,6.0,1,0,9.0,0
+2022-01-04,Southern,Embezzlement,1,2022,1,1,2.0,1.0,0,0,1.0,1
+2020-01-21,Park,Non-Criminal,1,2020,1,1,1.0,1.0,0,0,1.0,1
+2020-05-31,Mission,Disorderly Conduct,1,2020,5,6,1.0,1.0,1,0,2.0,0
+2020-12-18,Taraval,Missing Person,1,2020,12,4,1.0,1.0,0,0,1.0,1
+2022-11-11,Bayview,Burglary,1,2022,11,4,1.0,1.0,0,1,3.0,0
+2020-12-30,Southern,Recovered Vehicle,1,2020,12,2,1.0,2.0,0,0,2.0,0
+2024-05-07,Southern,Assault,5,2024,5,1,8.0,4.0,0,0,5.0,1
+2022-09-25,Mission,Assault,6,2022,9,6,4.0,4.0,1,0,5.0,1
+2022-06-27,Southern,Non-Criminal,1,2022,6,0,1.0,1.0,0,0,3.0,0
+2022-05-15,Tenderloin,Non-Criminal,1,2022,5,6,1.0,2.0,1,0,3.0,0
+2024-01-04,Taraval,Missing Person,1,2024,1,3,3.0,1.0,0,0,1.25,0
+2022-11-24,Taraval,Larceny Theft,5,2022,11,3,12.0,8.0,0,1,11.25,0
+2024-05-08,Mission,Prostitution,1,2024,5,2,4.0,4.0,0,0,3.0,0
+2021-11-03,Central,Missing Person,2,2021,11,2,1.0,1.0,0,0,2.0,1
+2023-01-08,Park,Offences Against The Family And Children,1,2023,1,6,1.0,1.0,1,0,1.0,1
+2022-04-02,Richmond,Fraud,1,2022,4,5,5.0,2.0,1,0,2.25,0
+2024-08-07,Tenderloin,Other,2,2024,8,2,2.0,1.0,0,0,2.0,1
+2022-03-09,Ingleside,Lost Property,1,2022,3,2,1.0,1.0,0,0,1.0,1
+2021-10-02,Mission,Offences Against The Family And Children,1,2021,10,5,1.0,1.0,1,0,1.0,1
+2021-02-26,Northern,Motor Vehicle Theft,1,2021,2,4,2.0,1.0,0,0,3.0,0
+2024-08-17,Bayview,Vandalism,1,2024,8,5,1.0,1.0,1,0,1.0,1
+2021-06-14,Park,Motor Vehicle Theft,1,2021,6,0,1.0,1.0,0,0,2.0,0
+2021-04-14,Taraval,Offences Against The Family And Children,2,2021,4,2,2.0,1.0,0,0,2.0,1
+2022-06-28,Southern,Malicious Mischief,6,2022,6,1,5.0,3.0,0,0,5.25,1
+2021-08-27,Southern,Other Miscellaneous,2,2021,8,4,4.0,5.0,0,0,5.25,0
+2022-08-15,Mission,Non-Criminal,1,2022,8,0,1.0,1.0,0,0,2.0,0
+2023-01-26,Park,Arson,1,2023,1,3,1.0,1.0,0,0,1.0,1
+2020-08-16,Mission,Other,1,2020,8,6,1.0,1.0,1,0,2.0,0
+2021-08-31,Richmond,Recovered Vehicle,3,2021,8,1,1.0,2.0,0,0,2.0,1
+2024-06-14,Southern,Disorderly Conduct,3,2024,6,4,1.0,1.0,0,0,2.0,1
+2024-07-11,Taraval,Larceny Theft,5,2024,7,3,7.0,5.0,0,0,7.0,0
+2021-12-24,Bayview,Weapons Offense,1,2021,12,4,1.0,1.0,0,1,2.0,0
+2023-04-15,Southern,Burglary,2,2023,4,5,4.0,4.0,1,0,3.25,0
+2022-09-12,Richmond,Other,1,2022,9,0,1.0,1.0,0,0,1.0,1
+2021-05-28,Mission,Malicious Mischief,1,2021,5,4,3.0,5.0,0,0,5.0,0
+2022-03-23,Southern,Larceny Theft,13,2022,3,2,17.0,16.0,0,0,17.0,0
+2024-04-30,Northern,Assault,3,2024,4,1,2.0,1.0,0,0,4.0,0
+2020-09-25,Park,Suspicious Occ,2,2020,9,4,1.0,1.0,0,0,1.0,1
+2020-05-26,Taraval,Lost Property,1,2020,5,1,1.0,1.0,0,0,1.0,1
+2024-06-28,Northern,Case Closure,1,2024,6,4,1.0,1.0,0,0,1.0,1
+2021-04-13,Mission,Traffic Violation Arrest,1,2021,4,1,1.0,2.0,0,0,1.25,0
+2021-03-09,Park,Larceny Theft,4,2021,3,1,2.0,9.0,0,0,8.0,0
+2024-02-09,Bayview,Recovered Vehicle,2,2024,2,4,2.0,5.0,0,0,4.0,0
+2020-04-27,Ingleside,Fraud,1,2020,4,0,1.0,2.0,0,0,2.0,0
+2023-06-28,Ingleside,Larceny Theft,8,2023,6,2,7.0,5.0,0,0,8.25,0
+2020-09-08,Northern,Motor Vehicle Theft,2,2020,9,1,5.0,3.0,0,0,4.25,0
+2022-01-21,Bayview,Other Offenses,2,2022,1,4,2.0,1.0,0,0,2.0,1
+2022-07-09,Northern,Missing Person,1,2022,7,5,1.0,1.0,1,0,2.0,0
+2021-06-24,Out of SF,Lost Property,1,2021,6,3,4.0,1.0,0,0,2.0,0
+2023-07-19,Tenderloin,Burglary,2,2023,7,2,1.0,1.0,0,0,2.0,1
+2021-06-30,Tenderloin,Suspicious Occ,1,2021,6,2,1.0,4.0,0,0,3.0,0
+2022-08-03,Richmond,Assault,1,2022,8,2,1.0,1.0,0,0,1.25,0
+2020-11-16,Northern,Offences Against The Family And Children,1,2020,11,0,2.0,1.0,0,0,2.0,0
+2021-12-18,Tenderloin,Lost Property,1,2021,12,5,1.0,1.0,1,0,2.0,0
+2020-10-01,Southern,Fraud,2,2020,10,3,1.0,1.0,0,0,2.0,1
+2023-04-08,Mission,Drug Offense,2,2023,4,5,1.0,1.0,1,0,2.0,1
+2020-03-08,Tenderloin,Weapons Offense,1,2020,3,6,1.0,1.0,1,0,1.0,1
+2022-09-02,Central,Other Miscellaneous,3,2022,9,4,1.0,3.0,0,0,4.0,0
+2020-12-18,Mission,Burglary,3,2020,12,4,3.0,2.0,0,0,4.0,0
+2024-05-25,Mission,Lost Property,3,2024,5,5,2.0,1.0,1,0,3.0,1
+2024-05-31,Mission,Malicious Mischief,6,2024,5,4,1.0,7.0,0,0,5.0,1
+2024-01-10,Ingleside,Other Miscellaneous,1,2024,1,2,3.0,2.0,0,0,3.0,0
+2023-01-01,Richmond,Other Miscellaneous,1,2023,1,6,2.0,2.0,1,1,2.0,0
+2022-07-01,Northern,Disorderly Conduct,1,2022,7,4,3.0,2.0,0,0,2.0,0
+2024-12-20,Northern,Offences Against The Family And Children,2,2024,12,4,3.0,1.0,0,0,2.0,1
+2024-10-29,Mission,Fraud,2,2024,10,1,1.0,2.0,0,0,2.0,1
+2021-10-15,Northern,Other Miscellaneous,1,2021,10,4,4.0,5.0,0,0,5.0,0
+2024-01-12,Mission,Lost Property,1,2024,1,4,2.0,2.0,0,0,2.0,0
+2023-09-25,Southern,Other Miscellaneous,4,2023,9,0,4.0,1.0,0,0,5.0,0
+2020-08-19,Mission,Drug Offense,3,2020,8,2,3.0,2.0,0,0,2.0,1
+2022-09-10,Ingleside,Recovered Vehicle,1,2022,9,5,1.0,2.0,1,0,2.0,0
+2023-02-06,Taraval,Motor Vehicle Theft,3,2023,2,0,3.0,1.0,0,0,3.0,1
+2021-05-27,Bayview,Weapons Offense,2,2021,5,3,1.0,2.0,0,0,2.0,1
+2023-05-18,Central,Malicious Mischief,3,2023,5,3,4.0,5.0,0,0,4.0,0
+2024-02-27,Mission,Offences Against The Family And Children,1,2024,2,1,1.0,1.0,0,0,1.25,0
+2024-05-06,Taraval,Recovered Vehicle,1,2024,5,0,1.0,3.0,0,0,2.0,0
+2024-01-30,Northern,Larceny Theft,16,2024,1,1,8.0,7.0,0,0,16.0,1
+2020-05-01,Ingleside,Disorderly Conduct,3,2020,5,4,1.0,1.0,0,0,1.0,1
+2023-01-10,Taraval,Other,1,2023,1,1,1.0,1.0,0,0,1.0,1
+2022-03-14,Mission,Recovered Vehicle,2,2022,3,0,1.0,2.0,0,0,2.0,1
+2024-06-10,Tenderloin,Weapons Offense,2,2024,6,0,1.0,1.0,0,0,2.0,1
+2021-05-18,Central,Non-Criminal,4,2021,5,1,1.0,1.0,0,0,4.0,1
+2022-09-25,Tenderloin,Traffic Violation Arrest,3,2022,9,6,2.0,1.0,1,0,1.25,1
+2021-08-01,Taraval,Larceny Theft,8,2021,8,6,7.0,5.0,1,0,10.0,0
+2024-02-09,Ingleside,Miscellaneous Investigation,2,2024,2,4,1.0,1.0,0,0,2.0,1
+2023-07-03,Taraval,Motor Vehicle Theft,2,2023,7,0,1.0,1.0,0,0,3.0,0
+2020-02-06,Bayview,Larceny Theft,10,2020,2,3,7.0,13.0,0,0,10.25,0
+2020-04-06,Taraval,Malicious Mischief,2,2020,4,0,1.0,1.0,0,0,3.0,0
+2020-01-23,Taraval,Larceny Theft,11,2020,1,3,10.0,13.0,0,0,11.0,1
+2020-06-15,Bayview,Other Offenses,1,2020,6,0,1.0,1.0,0,0,1.0,1
+2023-02-07,Richmond,Offences Against The Family And Children,1,2023,2,1,1.0,1.0,0,0,1.0,1
+2024-08-03,Northern,Other Miscellaneous,4,2024,8,5,6.0,7.0,1,0,4.0,1
+2024-08-01,Ingleside,Lost Property,1,2024,8,3,1.0,1.0,0,0,1.25,0
+2022-08-01,Mission,Assault,4,2022,8,0,4.0,5.0,0,0,5.0,0
+2021-12-13,Park,Other,1,2021,12,0,1.0,1.0,0,0,1.0,1
+2021-04-30,Northern,Fraud,1,2021,4,4,1.0,1.0,0,0,2.25,0
+2021-03-02,Ingleside,Motor Vehicle Theft,3,2021,3,1,1.0,2.0,0,0,4.0,0
+2020-02-19,Park,Motor Vehicle Theft,1,2020,2,2,2.0,2.0,0,0,2.0,0
+2023-09-27,Mission,Motor Vehicle Theft,2,2023,9,2,3.0,4.0,0,0,4.0,0
+2022-03-08,Southern,Malicious Mischief,2,2022,3,1,4.0,1.0,0,0,6.0,0
+2022-06-01,Tenderloin,Non-Criminal,3,2022,6,2,2.0,5.0,0,0,3.0,1
+2020-07-16,Park,Missing Person,2,2020,7,3,1.0,1.0,0,0,2.0,1
+2024-07-19,Taraval,Assault,1,2024,7,4,2.0,2.0,0,0,2.0,0
+2020-02-18,Ingleside,Other Miscellaneous,1,2020,2,1,3.0,3.0,0,0,3.0,0
+2023-04-26,Central,Assault,1,2023,4,2,5.0,1.0,0,0,3.25,0
+2021-12-09,Taraval,Burglary,1,2021,12,3,3.0,2.0,0,0,2.0,0
+2024-08-10,Central,Fraud,1,2024,8,5,3.0,2.0,1,0,2.25,0
+2023-01-31,Bayview,Forgery And Counterfeiting,1,2023,1,1,2.0,1.0,0,0,1.0,1
+2020-08-24,Southern,Motor Vehicle Theft,3,2020,8,0,1.0,5.0,0,0,3.0,1
+2024-09-07,Ingleside,Motor Vehicle Theft,2,2024,9,5,2.0,4.0,1,0,3.0,0
+2020-10-19,Tenderloin,Malicious Mischief,2,2020,10,0,2.0,1.0,0,0,3.0,0
+2024-11-20,Park,Motor Vehicle Theft,1,2024,11,2,1.0,2.0,0,0,2.0,0
+2022-07-15,Ingleside,Suspicious Occ,1,2022,7,4,1.0,1.0,0,0,1.0,1
+2020-07-22,Tenderloin,Other,1,2020,7,2,2.0,2.0,0,0,2.0,0
+2022-12-24,Northern,Other Miscellaneous,3,2022,12,5,3.0,5.0,1,0,4.25,0
+2023-09-13,Southern,Drug Offense,1,2023,9,2,2.0,1.0,0,0,4.0,0
+2021-01-12,Mission,Suspicious Occ,2,2021,1,1,3.0,2.0,0,0,2.0,1
+2023-06-27,Park,Other Offenses,1,2023,6,1,1.0,1.0,0,0,1.0,1
+2020-09-10,Mission,Lost Property,2,2020,9,3,1.0,3.0,0,0,2.0,1
+2020-04-21,Bayview,Suspicious Occ,1,2020,4,1,1.0,1.0,0,0,2.0,0
+2023-12-17,Central,Fire Report,1,2023,12,6,1.0,1.0,1,0,1.0,1
+2021-02-09,Southern,Vandalism,1,2021,2,1,1.0,2.0,0,0,1.0,1
+2022-06-28,Northern,Robbery,2,2022,6,1,2.0,1.0,0,0,2.0,1
+2020-02-20,Ingleside,Missing Person,1,2020,2,3,1.0,1.0,0,0,2.0,0
+2024-08-23,Central,Suspicious Occ,1,2024,8,4,1.0,2.0,0,0,2.0,0
+2024-09-03,Central,Robbery,1,2024,9,1,1.0,1.0,0,0,2.0,0
+2021-08-23,Tenderloin,Non-Criminal,3,2021,8,0,3.0,4.0,0,0,3.0,1
+2023-04-05,Southern,Larceny Theft,12,2023,4,2,7.0,6.0,0,0,13.25,0
+2021-01-08,Southern,Robbery,1,2021,1,4,1.0,1.0,0,0,1.0,1
+2020-06-01,Tenderloin,Recovered Vehicle,3,2020,6,0,1.0,1.0,0,0,1.25,1
+2024-03-07,Out of SF,Fraud,1,2024,3,3,1.0,1.0,0,0,2.0,0
+2024-10-17,Park,Burglary,1,2024,10,3,3.0,1.0,0,0,2.0,0
+2023-07-18,Park,Burglary,3,2023,7,1,3.0,1.0,0,0,3.0,1
+2024-01-12,Ingleside,Traffic Violation Arrest,1,2024,1,4,1.0,1.0,0,0,1.0,1
+2020-11-04,Bayview,Recovered Vehicle,2,2020,11,2,2.0,5.0,0,0,3.25,0
+2020-11-01,Northern,Malicious Mischief,2,2020,11,6,2.0,1.0,1,0,4.0,0
+2024-07-09,Central,Assault,3,2024,7,1,1.0,2.0,0,0,3.0,1
+2024-11-08,Central,Other Miscellaneous,2,2024,11,4,8.0,3.0,0,0,3.0,0
+2023-05-28,Richmond,Warrant,1,2023,5,6,4.0,1.0,1,0,1.25,0
+2024-11-27,Park,Suspicious Occ,1,2024,11,2,1.0,2.0,0,0,1.25,0
+2020-09-22,Central,Assault,1,2020,9,1,3.0,1.0,0,0,3.0,0
+2020-04-14,Central,Assault,1,2020,4,1,1.0,1.0,0,0,3.0,0
+2023-07-06,Park,Burglary,3,2023,7,3,1.0,1.0,0,0,3.0,1
+2022-10-15,Out of SF,Miscellaneous Investigation,1,2022,10,5,1.0,1.0,1,0,1.0,1
+2023-08-31,Tenderloin,Other Offenses,1,2023,8,3,1.0,2.0,0,0,1.0,1
+2022-03-30,Northern,Lost Property,2,2022,3,2,1.0,1.0,0,0,2.0,1
+2020-04-25,Tenderloin,Other Miscellaneous,1,2020,4,5,2.0,1.0,1,0,3.0,0
+2021-07-13,Central,Larceny Theft,26,2021,7,1,20.0,40.0,0,0,39.25,0
+2020-04-14,Ingleside,Malicious Mischief,2,2020,4,1,4.0,3.0,0,0,3.25,0
+2021-02-24,Richmond,Fraud,2,2021,2,2,1.0,1.0,0,0,2.0,1
+2020-08-24,Northern,Warrant,3,2020,8,0,2.0,1.0,0,0,2.0,1
+2023-05-27,Out of SF,Lost Property,3,2023,5,5,1.0,2.0,1,0,2.0,1
+2022-11-10,Ingleside,Missing Person,1,2022,11,3,1.0,2.0,0,0,2.0,0
+2022-02-22,Richmond,Other Miscellaneous,1,2022,2,1,1.0,1.0,0,0,2.0,0
+2020-11-11,Southern,Drug Offense,1,2020,11,2,1.0,3.0,0,1,3.0,0
+2023-03-23,Out of SF,Courtesy Report,1,2023,3,3,1.0,1.0,0,0,1.0,1
+2024-09-19,Tenderloin,Assault,3,2024,9,3,2.0,7.0,0,0,5.0,0
+2021-07-14,Southern,Non-Criminal,2,2021,7,2,5.0,2.0,0,0,2.0,1
+2020-06-25,Mission,Stolen Property,2,2020,6,3,1.0,1.0,0,0,1.0,1
+2024-10-23,Out of SF,Non-Criminal,5,2024,10,2,1.0,1.0,0,0,2.0,1
+2021-04-12,Northern,Suspicious Occ,1,2021,4,0,2.0,1.0,0,0,2.0,0
+2021-07-01,Bayview,Motor Vehicle Theft,2,2021,7,3,1.0,2.0,0,0,6.0,0
+2023-02-22,Mission,Recovered Vehicle,1,2023,2,2,1.0,1.0,0,0,1.25,0
+2023-05-29,Bayview,Warrant,2,2023,5,0,1.0,2.0,0,1,2.0,1
+2024-06-01,Bayview,Suspicious Occ,2,2024,6,5,2.0,3.0,1,0,2.0,1
+2024-05-07,Central,Malicious Mischief,3,2024,5,1,1.0,3.0,0,0,3.0,1
+2022-05-30,Ingleside,Robbery,1,2022,5,0,2.0,1.0,0,1,1.25,0
+2021-05-06,Tenderloin,Weapons Carrying Etc,3,2021,5,3,1.0,1.0,0,0,2.0,1
+2020-10-30,Mission,Burglary,3,2020,10,4,3.0,6.0,0,0,4.0,0
+2022-04-13,Bayview,Non-Criminal,1,2022,4,2,1.0,2.0,0,0,2.0,0
+2021-11-16,Mission,Warrant,1,2021,11,1,1.0,2.0,0,0,2.25,0
+2020-04-07,Richmond,Malicious Mischief,2,2020,4,1,2.0,1.0,0,0,2.0,1
+2021-04-18,Bayview,Other Offenses,1,2021,4,6,1.0,3.0,1,0,2.0,0
+2022-04-11,Mission,Burglary,3,2022,4,0,2.0,4.0,0,0,4.0,0
+2024-08-11,Southern,Malicious Mischief,4,2024,8,6,3.0,2.0,1,0,4.0,1
+2021-05-07,Taraval,Weapons Offense,1,2021,5,4,1.0,1.0,0,0,1.0,1
+2023-09-15,Taraval,Assault,4,2023,9,4,2.0,3.0,0,0,2.0,1
+2023-12-13,Central,Warrant,1,2023,12,2,1.0,1.0,0,0,2.0,0
+2021-03-15,Northern,Robbery,2,2021,3,0,2.0,1.0,0,0,3.0,0
+2024-02-16,Bayview,Other,1,2024,2,4,1.0,1.0,0,0,1.0,1
+2023-12-09,Central,Other,1,2023,12,5,2.0,1.0,1,0,2.0,0
+2022-11-30,Central,Other Miscellaneous,6,2022,11,2,8.0,1.0,0,0,3.25,1
+2022-08-16,Northern,Robbery,3,2022,8,1,1.0,1.0,0,0,2.0,1
+2022-08-12,Northern,Malicious Mischief,6,2022,8,4,4.0,3.0,0,0,5.0,1
+2022-02-10,Central,Offences Against The Family And Children,1,2022,2,3,1.0,1.0,0,0,2.0,0
+2024-12-22,Northern,Other Miscellaneous,3,2024,12,6,1.0,2.0,1,0,3.0,1
+2022-03-11,Ingleside,Larceny Theft,4,2022,3,4,4.0,9.0,0,0,7.25,0
+2020-11-07,Southern,Traffic Violation Arrest,1,2020,11,5,1.0,1.0,1,0,1.0,1
+2021-11-03,Bayview,Motor Vehicle Theft,6,2021,11,2,4.0,3.0,0,0,5.25,1
+2022-04-04,Mission,Assault,1,2022,4,0,5.0,3.0,0,0,5.0,0
+2020-05-26,Northern,Other,1,2020,5,1,1.0,1.0,0,0,1.0,1
+2022-04-26,Tenderloin,Weapons Carrying Etc,2,2022,4,1,1.0,2.0,0,0,2.0,1
+2024-06-25,Ingleside,Offences Against The Family And Children,1,2024,6,1,1.0,1.0,0,0,1.0,1
+2021-10-13,Southern,Disorderly Conduct,1,2021,10,2,1.0,1.0,0,0,2.0,0
+2022-06-05,Bayview,Motor Vehicle Theft,5,2022,6,6,6.0,2.0,1,0,5.0,1
+2023-07-02,Taraval,Other,1,2023,7,6,1.0,1.0,1,0,1.0,1
+2022-01-03,Taraval,Disorderly Conduct,1,2022,1,0,1.0,1.0,0,0,1.25,0
+2023-11-29,Park,Recovered Vehicle,1,2023,11,2,1.0,1.0,0,0,1.0,1
+2024-03-07,Taraval,Suspicious Occ,1,2024,3,3,1.0,1.0,0,0,2.0,0
+2023-02-26,Southern,Robbery,2,2023,2,6,1.0,3.0,1,0,2.0,1
+2022-02-04,Richmond,Non-Criminal,3,2022,2,4,2.0,1.0,0,0,1.0,1
+2024-12-13,Mission,Disorderly Conduct,1,2024,12,4,3.0,2.0,0,0,2.0,0
+2023-10-22,Southern,Missing Person,2,2023,10,6,1.0,1.0,1,0,2.0,1
+2024-12-26,Ingleside,Drug Offense,1,2024,12,3,1.0,2.0,0,0,2.0,0
+2020-12-12,Northern,Recovered Vehicle,2,2020,12,5,1.0,1.0,1,0,2.0,1
+2022-02-11,Northern,Other Miscellaneous,2,2022,2,4,6.0,4.0,0,0,5.0,0
+2024-11-19,Bayview,Warrant,2,2024,11,1,1.0,3.0,0,0,2.0,1
+2024-12-08,Tenderloin,Malicious Mischief,1,2024,12,6,2.0,1.0,1,0,2.0,0
+2024-03-06,Tenderloin,Malicious Mischief,3,2024,3,2,2.0,1.0,0,0,2.0,1
+2023-11-21,Southern,Arson,1,2023,11,1,1.0,1.0,0,0,1.0,1
+2024-09-11,Richmond,Motor Vehicle Theft,2,2024,9,2,1.0,1.0,0,0,2.0,1
+2020-02-16,Mission,Disorderly Conduct,1,2020,2,6,3.0,1.0,1,0,2.0,0
+2023-09-05,Tenderloin,Drug Offense,9,2023,9,1,9.0,3.0,0,0,12.25,0
+2023-05-13,Taraval,Disorderly Conduct,1,2023,5,5,2.0,1.0,1,0,1.0,1
+2023-04-09,Park,Assault,2,2023,4,6,1.0,2.0,1,0,2.0,1
+2023-08-18,Mission,Prostitution,1,2023,8,4,1.0,1.0,0,0,2.0,0
+2021-07-26,Bayview,Other Offenses,2,2021,7,0,1.0,1.0,0,0,2.0,1
+2022-03-26,Richmond,Malicious Mischief,2,2022,3,5,1.0,2.0,1,0,3.0,0
+2023-04-10,Southern,Missing Person,1,2023,4,0,1.0,1.0,0,0,1.25,0
+2024-09-04,Northern,Fraud,3,2024,9,2,1.0,2.0,0,0,2.0,1
+2021-06-23,Taraval,Recovered Vehicle,1,2021,6,2,1.0,1.0,0,0,1.0,1
+2023-09-13,Bayview,Larceny Theft,6,2023,9,2,6.0,7.0,0,0,7.25,0
+2024-01-31,Bayview,Other Offenses,2,2024,1,2,1.0,1.0,0,0,2.0,1
+2021-04-27,Taraval,Warrant,1,2021,4,1,1.0,2.0,0,0,2.0,0
+2021-08-25,Park,Larceny Theft,3,2021,8,2,8.0,1.0,0,0,8.0,0
+2022-01-23,Ingleside,Robbery,1,2022,1,6,1.0,1.0,1,0,1.0,1
+2022-11-21,Mission,Suspicious Occ,1,2022,11,0,3.0,2.0,0,0,2.0,0
+2022-03-22,Central,Lost Property,1,2022,3,1,2.0,1.0,0,0,3.0,0
+2020-05-09,Southern,Suspicious Occ,1,2020,5,5,1.0,1.0,1,0,2.0,0
+2023-05-02,Ingleside,Recovered Vehicle,1,2023,5,1,1.0,1.0,0,0,2.25,0
+2023-02-15,Bayview,Robbery,2,2023,2,2,1.0,9.0,0,0,2.25,0
+2020-01-21,Taraval,Fraud,4,2020,1,1,2.0,2.0,0,0,3.0,1
+2020-05-21,Ingleside,Case Closure,1,2020,5,3,2.0,1.0,0,0,1.75,0
+2024-12-03,Richmond,Drug Offense,1,2024,12,1,1.0,2.0,0,0,1.25,0
+2021-01-04,Bayview,Motor Vehicle Theft,9,2021,1,0,6.0,8.0,0,0,7.0,1
+2023-04-21,Taraval,Larceny Theft,14,2023,4,4,7.0,21.0,0,0,13.0,1
+2020-04-12,Bayview,Larceny Theft,1,2020,4,6,7.0,9.0,1,0,7.0,0
+2022-04-13,Tenderloin,Other Miscellaneous,5,2022,4,2,2.0,7.0,0,0,5.25,0
+2023-03-17,Taraval,Larceny Theft,10,2023,3,4,12.0,12.0,0,0,14.0,0
+2024-11-21,Mission,Warrant,3,2024,11,3,1.0,1.0,0,0,3.0,1
+2023-04-09,Mission,Assault,6,2023,4,6,4.0,5.0,1,0,5.0,1
+2020-10-01,Taraval,Miscellaneous Investigation,2,2020,10,3,1.0,1.0,0,0,1.25,1
+2024-10-22,Out of SF,Other Offenses,2,2024,10,1,1.0,1.0,0,0,2.0,1
+2021-04-13,Central,Stolen Property,1,2021,4,1,1.0,1.0,0,0,1.0,1
+2020-05-29,Tenderloin,Larceny Theft,3,2020,5,4,4.0,3.0,0,0,3.0,1
+2021-04-06,Taraval,Malicious Mischief,2,2021,4,1,1.0,2.0,0,0,2.0,1
+2024-05-10,Richmond,Malicious Mischief,2,2024,5,4,2.0,2.0,0,0,2.0,1
+2022-03-15,Richmond,Non-Criminal,3,2022,3,1,1.0,2.0,0,0,2.0,1
+2024-02-26,Mission,Non-Criminal,1,2024,2,0,3.0,1.0,0,0,1.25,0
+2023-07-11,Tenderloin,Non-Criminal,4,2023,7,1,1.0,1.0,0,0,3.0,1
+2021-08-23,Bayview,Larceny Theft,3,2021,8,0,6.0,15.0,0,0,7.0,0
+2021-01-20,Tenderloin,Motor Vehicle Theft,5,2021,1,2,1.0,1.0,0,0,2.0,1
+2021-01-30,Out of SF,Courtesy Report,1,2021,1,5,1.0,1.0,1,0,2.0,0
+2022-01-11,Northern,Larceny Theft,18,2022,1,1,15.0,12.0,0,0,21.0,0
+2021-11-03,Mission,Fraud,4,2021,11,2,3.0,2.0,0,0,3.0,1
+2022-12-24,Ingleside,Suspicious Occ,1,2022,12,5,1.0,1.0,1,0,2.0,0
+2021-05-23,Central,Suspicious Occ,3,2021,5,6,1.0,2.0,1,0,2.0,1
+2023-06-02,Bayview,Recovered Vehicle,6,2023,6,4,4.0,5.0,0,0,5.25,1
+2021-04-14,Northern,Suspicious Occ,2,2021,4,2,1.0,1.0,0,0,2.0,1
+2020-07-09,Central,Drug Offense,1,2020,7,3,1.0,1.0,0,0,1.0,1
+2022-10-17,Mission,Courtesy Report,2,2022,10,0,2.0,1.0,0,0,1.0,1
+2021-11-20,Tenderloin,Missing Person,1,2021,11,5,1.0,1.0,1,0,2.0,0
+2024-05-16,Tenderloin,Burglary,2,2024,5,3,1.0,1.0,0,0,2.0,1
+2023-02-19,Southern,Burglary,2,2023,2,6,4.0,3.0,1,0,4.0,0
+2022-09-17,Northern,Traffic Violation Arrest,1,2022,9,5,2.0,1.0,1,0,1.0,1
+2022-03-06,Southern,Miscellaneous Investigation,1,2022,3,6,3.0,1.0,1,0,2.0,0
+2022-11-20,Mission,Other Miscellaneous,7,2022,11,6,4.0,7.0,1,0,6.0,1
+2023-05-16,Central,Motor Vehicle Theft,2,2023,5,1,3.0,2.0,0,0,2.0,1
+2021-08-07,Tenderloin,Weapons Offense,2,2021,8,5,1.0,1.0,1,0,1.0,1
+2023-04-05,Bayview,Non-Criminal,1,2023,4,2,2.0,1.0,0,0,2.0,0
+2024-10-26,Central,Weapons Offense,1,2024,10,5,3.0,2.0,1,0,1.0,1
+2020-11-21,Ingleside,Warrant,2,2020,11,5,1.0,1.0,1,0,2.0,1
+2020-02-10,Richmond,Larceny Theft,10,2020,2,0,16.0,7.0,0,0,18.5,0
+2021-08-07,Northern,Malicious Mischief,9,2021,8,5,2.0,1.0,1,0,6.0,1
+2020-08-31,Central,Non-Criminal,2,2020,8,0,1.0,3.0,0,0,2.0,1
+2020-09-18,Ingleside,Larceny Theft,9,2020,9,4,3.0,10.0,0,0,7.0,1
+2024-09-25,Southern,Larceny Theft,7,2024,9,2,6.0,6.0,0,0,10.0,0
+2020-11-01,Tenderloin,Other Miscellaneous,4,2020,11,6,4.0,6.0,1,0,3.25,1
+2022-04-30,Ingleside,Suspicious Occ,1,2022,4,5,1.0,2.0,1,0,2.0,0
+2023-01-31,Taraval,Motor Vehicle Theft,2,2023,1,1,1.0,1.0,0,0,3.0,0
+2024-02-16,Bayview,Assault,2,2024,2,4,2.0,2.0,0,0,3.0,0
+2022-12-27,Southern,Drug Offense,1,2022,12,1,1.0,3.0,0,0,4.0,0
+2022-12-01,Tenderloin,Robbery,1,2022,12,3,2.0,2.0,0,0,2.0,0
+2022-10-02,Park,Non-Criminal,3,2022,10,6,1.0,1.0,1,0,2.0,1
+2023-02-28,Bayview,Non-Criminal,3,2023,2,1,1.0,1.0,0,0,2.0,1
+2021-11-16,Ingleside,Disorderly Conduct,2,2021,11,1,1.0,2.0,0,0,2.0,1
+2020-01-21,Tenderloin,Other Miscellaneous,1,2020,1,1,4.0,4.0,0,0,4.5,0
+2022-10-01,Bayview,Drug Offense,4,2022,10,5,2.0,1.0,1,0,1.25,1
+2022-06-08,Bayview,Recovered Vehicle,3,2022,6,2,7.0,3.0,0,0,4.25,0
+2020-07-28,Taraval,Motor Vehicle Theft,2,2020,7,1,2.0,4.0,0,0,4.0,0
+2023-02-21,Northern,Motor Vehicle Theft,1,2023,2,1,3.0,3.0,0,0,3.0,0
+2024-02-11,Tenderloin,Other Miscellaneous,4,2024,2,6,6.0,3.0,1,0,5.0,0
+2022-04-12,Park,Motor Vehicle Theft,1,2022,4,1,2.0,1.0,0,0,2.0,0
+2023-09-01,Mission,Recovered Vehicle,1,2023,9,4,1.0,1.0,0,0,2.0,0
+2024-10-12,Southern,Traffic Violation Arrest,1,2024,10,5,1.0,1.0,1,0,1.0,1
+2024-01-11,Northern,Motor Vehicle Theft,4,2024,1,3,2.0,4.0,0,0,3.0,1
+2020-06-17,Northern,Lost Property,1,2020,6,2,1.0,2.0,0,0,1.0,1
+2020-09-22,Central,Fraud,1,2020,9,1,2.0,1.0,0,0,2.0,0
+2024-03-09,Richmond,Motor Vehicle Theft,1,2024,3,5,1.0,1.0,1,0,2.0,0
+2020-10-23,Northern,Disorderly Conduct,1,2020,10,4,1.0,1.0,0,0,1.0,1
+2024-07-20,Tenderloin,Warrant,2,2024,7,5,2.0,3.0,1,0,5.25,0
+2021-04-24,Southern,Drug Offense,2,2021,4,5,1.0,3.0,1,0,2.0,1
+2020-10-02,Tenderloin,Fraud,1,2020,10,4,1.0,1.0,0,0,2.0,0
+2024-10-24,Taraval,Malicious Mischief,1,2024,10,3,2.0,2.0,0,0,2.25,0
+2020-01-16,Northern,Larceny Theft,18,2020,1,3,24.0,22.0,0,0,32.25,0
+2024-04-25,Tenderloin,Suspicious Occ,1,2024,4,3,3.0,4.0,0,0,2.0,0
+2022-01-28,Northern,Forgery And Counterfeiting,1,2022,1,4,1.0,1.0,0,0,1.0,1
+2022-05-11,Central,Motor Vehicle Theft,3,2022,5,2,2.0,1.0,0,0,3.0,1
+2023-05-19,Richmond,Non-Criminal,2,2023,5,4,2.0,1.0,0,0,2.0,1
+2023-06-03,Central,Sex Offense,2,2023,6,5,1.0,1.0,1,0,1.0,1
+2024-04-17,Bayview,Motor Vehicle Theft,4,2024,4,2,1.0,1.0,0,0,4.0,1
+2024-03-26,Park,Malicious Mischief,2,2024,3,1,1.0,2.0,0,0,2.0,1
+2023-07-07,Central,Larceny Theft,34,2023,7,4,22.0,54.0,0,0,39.0,0
+2023-02-05,Taraval,Motor Vehicle Theft,3,2023,2,6,6.0,7.0,1,0,3.0,1
+2022-08-27,Ingleside,Non-Criminal,1,2022,8,5,1.0,1.0,1,0,3.0,0
+2022-02-17,Central,Other,2,2022,2,3,1.0,1.0,0,0,1.0,1
+2024-06-26,Tenderloin,Missing Person,1,2024,6,2,3.0,3.0,0,0,2.0,0
+2024-09-11,Southern,Other,1,2024,9,2,1.0,2.0,0,0,1.0,1
+2021-05-08,Mission,Weapons Offense,1,2021,5,5,1.0,1.0,1,0,1.25,0
+2022-02-19,Ingleside,Other Offenses,1,2022,2,5,1.0,1.0,1,0,2.0,0
+2024-07-21,Richmond,Offences Against The Family And Children,1,2024,7,6,1.0,1.0,1,0,1.0,1
+2022-11-08,Tenderloin,Drug Offense,8,2022,11,1,6.0,7.0,0,0,7.0,1
+2020-03-12,Northern,Motor Vehicle Theft,6,2020,3,3,4.0,1.0,0,0,3.0,1
+2022-07-12,Taraval,Robbery,1,2022,7,1,1.0,2.0,0,0,1.25,0
+2023-04-08,Park,Larceny Theft,4,2023,4,5,7.0,4.0,1,0,6.0,0
+2020-10-22,Southern,Stolen Property,1,2020,10,3,1.0,1.0,0,0,1.0,1
+2022-02-08,Southern,Missing Person,2,2022,2,1,1.0,1.0,0,0,2.0,1
+2020-09-18,Southern,Traffic Violation Arrest,1,2020,9,4,1.0,1.0,0,0,1.0,1
+2021-03-07,Richmond,Recovered Vehicle,1,2021,3,6,1.0,1.0,1,0,1.0,1
+2023-01-04,Mission,Other Miscellaneous,3,2023,1,2,1.0,4.0,0,0,4.0,0
+2020-05-01,Southern,Malicious Mischief,2,2020,5,4,1.0,3.0,0,0,5.0,0
+2022-12-19,Southern,Recovered Vehicle,2,2022,12,0,1.0,2.0,0,0,2.0,1
+2023-07-18,Northern,Robbery,1,2023,7,1,1.0,2.0,0,0,2.0,0
+2022-08-18,Mission,Disorderly Conduct,2,2022,8,3,2.0,2.0,0,0,2.0,1
+2024-08-06,Mission,Malicious Mischief,3,2024,8,1,2.0,4.0,0,0,3.25,0
+2021-06-11,Taraval,Recovered Vehicle,1,2021,6,4,1.0,1.0,0,0,1.25,0
+2021-02-10,Southern,Other Offenses,1,2021,2,2,2.0,3.0,0,0,2.0,0
+2024-08-06,Central,Disorderly Conduct,3,2024,8,1,2.0,2.0,0,0,2.0,1
+2022-07-20,Tenderloin,Burglary,1,2022,7,2,3.0,1.0,0,0,1.0,1
+2024-04-08,Out of SF,Larceny Theft,5,2024,4,0,4.0,5.0,0,0,3.0,1
+2021-06-25,Southern,Fraud,2,2021,6,4,1.0,1.0,0,0,2.0,1
+2023-03-28,Northern,Recovered Vehicle,1,2023,3,1,2.0,2.0,0,0,2.0,0
+2020-07-15,Ingleside,Malicious Mischief,2,2020,7,2,1.0,2.0,0,0,4.0,0
+2020-09-12,Mission,Stolen Property,1,2020,9,5,1.0,1.0,1,0,1.0,1
+2021-02-10,Park,Malicious Mischief,4,2021,2,2,2.0,1.0,0,0,3.0,1
+2021-09-19,Central,Weapons Offense,1,2021,9,6,1.0,2.0,1,0,1.0,1
+2020-12-19,Mission,Burglary,3,2020,12,5,3.0,3.0,1,0,4.0,0
+2021-02-27,Park,Burglary,5,2021,2,5,1.0,1.0,1,0,3.25,1
+2022-02-11,Mission,Forgery And Counterfeiting,1,2022,2,4,1.0,1.0,0,0,1.0,1
+2021-10-25,Bayview,Forgery And Counterfeiting,1,2021,10,0,1.0,2.0,0,0,1.0,1
+2023-01-01,Out of SF,Missing Person,1,2023,1,6,1.0,1.0,1,1,1.0,1
+2022-12-24,Richmond,Other Miscellaneous,2,2022,12,5,1.0,2.0,1,0,2.0,1
+2021-10-22,Southern,Stolen Property,2,2021,10,4,1.0,1.0,0,0,1.0,1
+2023-08-24,Central,Malicious Mischief,1,2023,8,3,6.0,6.0,0,0,6.0,0
+2020-12-04,Ingleside,Missing Person,1,2020,12,4,2.0,1.0,0,0,2.0,0
+2020-02-24,Bayview,Weapons Offense,1,2020,2,0,1.0,2.0,0,0,1.5,0
+2023-05-23,Taraval,Larceny Theft,4,2023,5,1,9.0,4.0,0,0,10.25,0
+2024-05-03,Mission,Suspicious Occ,1,2024,5,4,1.0,1.0,0,0,2.0,0
+2022-12-09,Northern,Non-Criminal,1,2022,12,4,2.0,3.0,0,0,3.25,0
+2020-07-08,Southern,Other Miscellaneous,3,2020,7,2,3.0,4.0,0,0,4.0,0
+2024-12-16,Northern,Malicious Mischief,1,2024,12,0,5.0,6.0,0,0,4.0,0
+2021-06-21,Bayview,Robbery,1,2021,6,0,1.0,2.0,0,0,2.0,0
+2024-06-02,Ingleside,Missing Person,1,2024,6,6,1.0,1.0,1,0,2.0,0
+2021-09-22,Park,Larceny Theft,4,2021,9,2,6.0,4.0,0,0,8.0,0
+2023-05-19,Central,Disorderly Conduct,1,2023,5,4,1.0,3.0,0,0,2.0,0
+2023-11-05,Tenderloin,Drug Offense,6,2023,11,6,1.0,3.0,1,0,7.0,0
+2024-11-15,Mission,Larceny Theft,12,2024,11,4,11.0,6.0,0,0,10.0,1
+2024-01-09,Bayview,Forgery And Counterfeiting,1,2024,1,1,1.0,1.0,0,0,1.0,1
+2024-09-05,Southern,Other Miscellaneous,9,2024,9,3,4.0,6.0,0,0,5.0,1
+2023-02-25,Southern,Larceny Theft,25,2023,2,5,6.0,9.0,1,0,11.5,1
+2021-05-07,Tenderloin,Other Offenses,1,2021,5,4,1.0,1.0,0,0,1.0,1
+2024-05-18,Mission,Larceny Theft,5,2024,5,5,5.0,8.0,1,0,10.25,0
+2023-09-30,Ingleside,Missing Person,1,2023,9,5,2.0,3.0,1,0,2.0,0
+2021-04-05,Central,Larceny Theft,32,2021,4,0,22.0,23.0,0,0,23.25,1
+2020-03-13,Mission,Robbery,1,2020,3,4,3.0,6.0,0,0,3.0,0
+2021-05-19,Richmond,Fraud,1,2021,5,2,1.0,3.0,0,0,2.0,0
+2020-07-14,Northern,Recovered Vehicle,1,2020,7,1,4.0,1.0,0,0,2.25,0
+2023-08-23,Southern,Miscellaneous Investigation,1,2023,8,2,1.0,1.0,0,0,2.0,0
+2023-06-12,Mission,Robbery,1,2023,6,0,1.0,2.0,0,0,1.0,1
+2022-08-02,Tenderloin,Recovered Vehicle,2,2022,8,1,2.0,2.0,0,0,2.0,1
+2022-02-18,Out of SF,Other Offenses,1,2022,2,4,2.0,1.0,0,0,2.0,0
+2020-11-29,Southern,Burglary,5,2020,11,6,2.0,3.0,1,0,3.0,1
+2022-02-14,Bayview,Embezzlement,2,2022,2,0,1.0,1.0,0,0,1.0,1
+2024-08-31,Mission,Fire Report,1,2024,8,5,1.0,1.0,1,0,1.0,1
+2020-04-30,Tenderloin,Malicious Mischief,2,2020,4,3,8.0,3.0,0,0,3.0,0
+2021-06-22,Central,Larceny Theft,19,2021,6,1,32.0,28.0,0,0,41.0,0
+2023-11-26,Central,Disorderly Conduct,1,2023,11,6,2.0,1.0,1,0,2.0,0
+2021-09-09,Tenderloin,Lost Property,1,2021,9,3,2.0,1.0,0,0,2.0,0
+2022-01-12,Bayview,Non-Criminal,1,2022,1,2,1.0,1.0,0,0,2.25,0
+2022-03-19,Central,Motor Vehicle Theft,2,2022,3,5,4.0,3.0,1,0,3.25,0
+2021-01-08,Out of SF,Recovered Vehicle,1,2021,1,4,5.0,2.0,0,0,6.0,0
+2024-06-08,Northern,Warrant,1,2024,6,5,1.0,2.0,1,0,2.0,0
+2022-08-31,Northern,Assault,3,2022,8,2,1.0,5.0,0,0,3.25,0
+2024-05-02,Mission,Assault,5,2024,5,3,7.0,1.0,0,0,6.0,0
+2024-10-17,Tenderloin,Suspicious Occ,2,2024,10,3,1.0,1.0,0,0,2.0,1
+2021-02-16,Southern,Burglary,1,2021,2,1,1.0,3.0,0,0,4.25,0
+2023-12-24,Central,Disorderly Conduct,1,2023,12,6,1.0,2.0,1,0,2.0,0
+2023-08-30,Richmond,Stolen Property,1,2023,8,2,2.0,1.0,0,0,1.0,1
+2022-08-17,Bayview,Malicious Mischief,6,2022,8,2,4.0,8.0,0,0,3.25,1
+2020-05-21,Tenderloin,Other,3,2020,5,3,3.0,2.0,0,0,2.0,1
+2022-07-23,Ingleside,Non-Criminal,4,2022,7,5,1.0,3.0,1,0,2.25,1
+2021-08-16,Ingleside,Burglary,3,2021,8,0,2.0,1.0,0,0,4.0,0
+2021-01-31,Northern,Malicious Mischief,3,2021,1,6,5.0,1.0,1,0,8.0,0
+2023-02-02,Park,Burglary,1,2023,2,3,1.0,2.0,0,0,2.0,0
+2022-07-01,Central,Larceny Theft,27,2022,7,4,24.0,35.0,0,0,30.5,0
+2020-03-12,Tenderloin,Missing Person,1,2020,3,3,1.0,3.0,0,0,2.0,0
+2023-01-18,Northern,Other Miscellaneous,5,2023,1,2,4.0,4.0,0,0,4.0,1
+2023-05-04,Bayview,Disorderly Conduct,1,2023,5,3,2.0,2.0,0,0,1.25,0
+2023-04-16,Taraval,Suspicious Occ,2,2023,4,6,1.0,3.0,1,0,1.25,1
+2024-02-18,Ingleside,Burglary,5,2024,2,6,1.0,2.0,1,0,3.0,1
+2024-12-31,Central,Other,1,2024,12,1,1.0,1.0,0,0,1.0,1
+2023-11-16,Central,Non-Criminal,2,2023,11,3,1.0,1.0,0,0,3.0,0
+2020-02-03,Southern,Motor Vehicle Theft,1,2020,2,0,1.0,2.0,0,0,2.25,0
+2022-04-10,Park,Recovered Vehicle,1,2022,4,6,1.0,1.0,1,0,1.0,1
+2023-07-30,Mission,Disorderly Conduct,1,2023,7,6,1.0,1.0,1,0,2.0,0
+2022-04-02,Central,Lost Property,1,2022,4,5,3.0,3.0,1,0,3.0,0
+2021-06-17,Tenderloin,Assault,5,2021,6,3,5.0,4.0,0,0,5.0,1
+2021-05-09,Mission,Larceny Theft,11,2021,5,6,10.0,13.0,1,0,12.25,0
+2021-12-23,Taraval,Assault,2,2021,12,3,1.0,2.0,0,0,3.0,0
+2020-07-12,Taraval,Larceny Theft,1,2020,7,6,5.0,4.0,1,0,7.0,0
+2024-07-01,Mission,Missing Person,1,2024,7,0,1.0,2.0,0,0,2.0,0
+2024-01-01,Mission,Recovered Vehicle,1,2024,1,0,1.0,1.0,0,1,2.0,0
+2023-01-06,Taraval,Assault,1,2023,1,4,1.0,1.0,0,0,2.0,0
+2021-03-21,Bayview,Lost Property,2,2021,3,6,1.0,2.0,1,0,1.0,1
+2023-11-05,Ingleside,Assault,2,2023,11,6,1.0,1.0,1,0,3.0,0
+2024-09-17,Southern,Recovered Vehicle,2,2024,9,1,2.0,3.0,0,0,2.0,1
+2023-05-24,Mission,Fraud,3,2023,5,2,3.0,1.0,0,0,3.0,1
+2024-06-10,Park,Malicious Mischief,1,2024,6,0,1.0,1.0,0,0,2.0,0
+2024-04-28,Tenderloin,Other Miscellaneous,3,2024,4,6,8.0,4.0,1,0,5.0,0
+2022-07-07,Southern,Other Miscellaneous,9,2022,7,3,5.0,7.0,0,0,5.0,1
+2023-06-25,Mission,Weapons Carrying Etc,5,2023,6,6,4.0,2.0,1,0,2.0,1
+2022-09-08,Mission,Malicious Mischief,2,2022,9,3,4.0,4.0,0,0,4.0,0
+2021-02-01,Tenderloin,Missing Person,2,2021,2,0,1.0,1.0,0,0,2.0,1
+2024-10-24,Northern,Disorderly Conduct,1,2024,10,3,1.0,1.0,0,0,2.0,0
+2020-11-20,Central,Vandalism,1,2020,11,4,2.0,2.0,0,0,1.0,1
+2024-03-18,Northern,Disorderly Conduct,1,2024,3,0,1.0,2.0,0,0,1.25,0
+2020-02-03,Central,Suspicious Occ,2,2020,2,0,2.0,1.0,0,0,2.0,1
+2022-11-13,Southern,Suspicious Occ,2,2022,11,6,1.0,3.0,1,0,2.0,1
+2023-10-04,Mission,Lost Property,1,2023,10,2,1.0,2.0,0,0,2.0,0
+2023-07-31,Northern,Traffic Violation Arrest,1,2023,7,0,2.0,2.0,0,0,2.0,0
+2020-09-16,Southern,Assault,7,2020,9,2,3.0,3.0,0,0,4.0,1
+2023-06-05,Taraval,Lost Property,2,2023,6,0,2.0,1.0,0,0,2.0,1
+2021-05-08,Richmond,Burglary,1,2021,5,5,3.0,1.0,1,0,3.0,0
+2020-10-09,Ingleside,Burglary,2,2020,10,4,2.0,2.0,0,0,2.0,1
+2022-02-02,Tenderloin,Stolen Property,2,2022,2,2,1.0,1.0,0,0,2.0,1
+2024-12-26,Central,Assault,4,2024,12,3,2.0,1.0,0,0,4.0,1
+2020-07-10,Park,Assault,1,2020,7,4,1.0,1.0,0,0,2.0,0
+2022-12-12,Central,Malicious Mischief,2,2022,12,0,8.0,4.0,0,0,5.25,0
+2020-12-07,Northern,Offences Against The Family And Children,2,2020,12,0,6.0,1.0,0,0,2.0,1
+2024-01-19,Park,Lost Property,1,2024,1,4,1.0,1.0,0,0,1.0,1
+2020-05-10,Central,Case Closure,1,2020,5,6,1.0,1.0,1,0,1.0,1
+2024-08-02,Ingleside,Motor Vehicle Theft,6,2024,8,4,5.0,3.0,0,0,5.0,1
+2020-10-08,Central,Burglary,7,2020,10,3,2.0,5.0,0,0,3.0,1
+2024-05-01,Richmond,Recovered Vehicle,3,2024,5,2,1.0,2.0,0,0,1.0,1
+2021-08-30,Richmond,Other Miscellaneous,1,2021,8,0,2.0,1.0,0,0,2.0,0
+2022-05-26,Northern,Weapons Offense,1,2022,5,3,1.0,1.0,0,0,1.0,1
+2023-09-08,Richmond,Other,1,2023,9,4,1.0,1.0,0,0,1.0,1
+2024-02-18,Ingleside,Offences Against The Family And Children,4,2024,2,6,2.0,1.0,1,0,1.0,1
+2021-04-12,Southern,Burglary,6,2021,4,0,1.0,4.0,0,0,4.0,1
+2022-08-08,Northern,Suspicious Occ,1,2022,8,0,1.0,1.0,0,0,2.0,0
+2024-05-27,Richmond,Larceny Theft,4,2024,5,0,8.0,11.0,0,1,7.0,0
+2022-09-25,Richmond,Drug Offense,1,2022,9,6,1.0,1.0,1,0,1.0,1
+2020-12-27,Northern,Traffic Violation Arrest,1,2020,12,6,1.0,2.0,1,0,1.0,1
+2022-10-06,Northern,Offences Against The Family And Children,1,2022,10,3,1.0,1.0,0,0,2.0,0
+2020-08-21,Central,Miscellaneous Investigation,1,2020,8,4,1.0,1.0,0,0,1.0,1
+2024-11-07,Southern,Malicious Mischief,2,2024,11,3,3.0,3.0,0,0,4.0,0
+2020-06-20,Tenderloin,Lost Property,1,2020,6,5,2.0,1.0,1,0,2.0,0
+2024-12-06,Mission,Malicious Mischief,3,2024,12,4,2.0,3.0,0,0,3.0,1
+2024-04-20,Southern,Assault,5,2024,4,5,6.0,2.0,1,0,5.0,1
+2024-08-01,Northern,Fraud,2,2024,8,3,3.0,1.0,0,0,2.0,1
+2023-05-18,Mission,Assault,2,2023,5,3,6.0,7.0,0,0,5.25,0
+2024-03-30,Ingleside,Weapons Offense,1,2024,3,5,1.0,2.0,1,0,2.0,0
+2020-05-21,Mission,Missing Person,2,2020,5,3,1.0,1.0,0,0,2.0,1
+2023-07-20,Central,Missing Person,1,2023,7,3,1.0,1.0,0,0,2.0,0
+2021-09-14,Northern,Malicious Mischief,5,2021,9,1,3.0,1.0,0,0,5.0,1
+2023-09-13,Southern,Non-Criminal,1,2023,9,2,6.0,4.0,0,0,3.0,0
+2020-10-02,Northern,Malicious Mischief,1,2020,10,4,4.0,6.0,0,0,5.25,0
+2021-09-30,Bayview,Lost Property,3,2021,9,3,1.0,1.0,0,0,1.0,1
+2022-12-16,Tenderloin,Drug Offense,3,2022,12,4,10.0,2.0,0,0,9.0,0
+2021-06-24,Bayview,Weapons Carrying Etc,2,2021,6,3,1.0,1.0,0,0,2.0,1
+2021-05-24,Park,Non-Criminal,1,2021,5,0,3.0,3.0,0,0,2.0,0
+2022-08-06,Central,Burglary,1,2022,8,5,2.0,2.0,1,0,3.0,0
+2022-12-19,Tenderloin,Recovered Vehicle,1,2022,12,0,1.0,2.0,0,0,2.0,0
+2023-07-15,Mission,Lost Property,1,2023,7,5,1.0,2.0,1,0,2.0,0
+2020-08-17,Bayview,Burglary,1,2020,8,0,2.0,3.0,0,0,3.0,0
+2023-10-08,Mission,Weapons Offense,1,2023,10,6,1.0,1.0,1,0,1.25,0
+2023-01-06,Bayview,Burglary,4,2023,1,4,6.0,3.0,0,0,3.0,1
+2021-12-08,Northern,Case Closure,1,2021,12,2,1.0,2.0,0,0,1.0,1
+2020-11-14,Ingleside,Other Miscellaneous,4,2020,11,5,1.0,2.0,1,0,3.0,1
+2023-06-25,Mission,Other,1,2023,6,6,1.0,1.0,1,0,1.0,1
+2021-08-02,Richmond,Larceny Theft,4,2021,8,0,9.0,15.0,0,0,12.0,0
+2023-02-02,Northern,Disorderly Conduct,1,2023,2,3,1.0,2.0,0,0,2.0,0
+2020-03-09,Central,Other Miscellaneous,3,2020,3,0,2.0,2.0,0,0,6.25,0
+2022-07-21,Mission,Other,1,2022,7,3,1.0,2.0,0,0,1.0,1
+2020-04-21,Ingleside,Fraud,1,2020,4,1,2.0,1.0,0,0,2.0,0
+2020-03-30,Northern,Burglary,2,2020,3,0,1.0,3.0,0,0,4.0,0
+2023-03-16,Taraval,Suspicious Occ,1,2023,3,3,1.0,1.0,0,0,1.0,1
+2020-01-23,Mission,Larceny Theft,21,2020,1,3,24.0,11.0,0,0,15.5,1
+2024-08-05,Central,Non-Criminal,1,2024,8,0,3.0,2.0,0,0,2.25,0
+2021-09-22,Bayview,Other Miscellaneous,5,2021,9,2,2.0,2.0,0,0,5.0,1
+2021-12-04,Northern,Lost Property,1,2021,12,5,1.0,2.0,1,0,2.0,0
+2020-10-05,Taraval,Traffic Collision,1,2020,10,0,1.0,1.0,0,0,1.0,1
+2021-09-15,Taraval,Other Miscellaneous,1,2021,9,2,1.0,1.0,0,0,2.0,0
+2020-03-23,Southern,Robbery,2,2020,3,0,2.0,4.0,0,0,2.0,1
+2023-08-30,Central,Warrant,2,2023,8,2,1.0,1.0,0,0,2.0,1
+2021-09-20,Richmond,Offences Against The Family And Children,3,2021,9,0,1.0,1.0,0,0,2.0,1
+2022-12-16,Northern,Arson,1,2022,12,4,1.0,1.0,0,0,1.0,1
+2022-12-25,Northern,Disorderly Conduct,1,2022,12,6,2.0,1.0,1,1,2.0,0
+2020-10-25,Richmond,Larceny Theft,6,2020,10,6,16.0,8.0,1,0,8.0,0
+2023-10-08,Northern,Suspicious Occ,1,2023,10,6,2.0,1.0,1,0,2.0,0
+2021-01-21,Taraval,Miscellaneous Investigation,1,2021,1,3,1.0,2.0,0,0,1.25,0
+2024-06-22,Tenderloin,Malicious Mischief,3,2024,6,5,3.0,1.0,1,0,3.0,1
+2022-05-26,Southern,Missing Person,2,2022,5,3,1.0,1.0,0,0,2.0,1
+2022-06-14,Bayview,Malicious Mischief,3,2022,6,1,1.0,2.0,0,0,4.0,0
+2020-02-10,Bayview,Disorderly Conduct,2,2020,2,0,1.0,2.0,0,0,2.0,1
+2020-01-30,Southern,Drug Offense,1,2020,1,3,3.0,1.0,0,0,4.0,0
+2021-05-01,Bayview,Miscellaneous Investigation,1,2021,5,5,1.0,2.0,1,0,1.0,1
+2021-03-08,Taraval,Missing Person,1,2021,3,0,1.0,1.0,0,0,2.0,0
+2021-08-01,Southern,Other Miscellaneous,8,2021,8,6,5.0,3.0,1,0,4.0,1
+2020-02-06,Southern,Burglary,3,2020,2,3,1.0,3.0,0,0,4.0,0
+2023-04-20,Central,Offences Against The Family And Children,2,2023,4,3,1.0,1.0,0,0,1.0,1
+2024-04-14,Tenderloin,Malicious Mischief,2,2024,4,6,1.0,3.0,1,0,2.0,1
+2022-01-18,Ingleside,Burglary,1,2022,1,1,1.0,1.0,0,0,4.0,0
+2021-07-16,Bayview,Non-Criminal,1,2021,7,4,1.0,2.0,0,0,2.0,0
+2023-01-27,Tenderloin,Other Offenses,1,2023,1,4,1.0,1.0,0,0,1.0,1
+2022-10-10,Southern,Other Miscellaneous,2,2022,10,0,5.0,1.0,0,1,5.0,0
+2024-08-09,Ingleside,Burglary,5,2024,8,4,5.0,1.0,0,0,5.0,1
+2021-10-28,Northern,Motor Vehicle Theft,1,2021,10,3,2.0,4.0,0,0,4.0,0
+2020-08-08,Mission,Burglary,5,2020,8,5,5.0,1.0,1,0,4.0,1
+2021-07-21,Southern,Motor Vehicle Theft,1,2021,7,2,2.0,1.0,0,0,2.0,0
+2023-05-13,Park,Larceny Theft,7,2023,5,5,6.0,3.0,1,0,7.5,0
+2022-07-04,Mission,Malicious Mischief,6,2022,7,0,1.0,2.0,0,1,4.0,1
+2020-10-25,Mission,Suspicious Occ,1,2020,10,6,1.0,3.0,1,0,2.0,0
+2020-11-11,Central,Larceny Theft,14,2020,11,2,11.0,11.0,0,1,15.25,0
+2023-11-15,Out of SF,Larceny Theft,4,2023,11,2,1.0,3.0,0,0,3.0,1
+2022-10-11,Mission,Robbery,2,2022,10,1,1.0,2.0,0,0,3.0,0
+2020-06-18,Taraval,Suspicious Occ,3,2020,6,3,3.0,1.0,0,0,2.0,1
+2023-08-13,Bayview,Assault,2,2023,8,6,5.0,1.0,1,0,4.0,0
+2023-06-23,Northern,Malicious Mischief,2,2023,6,4,7.0,2.0,0,0,4.25,0
+2021-09-05,Tenderloin,Malicious Mischief,1,2021,9,6,2.0,3.0,1,0,3.0,0
+2024-11-16,Mission,Warrant,1,2024,11,5,2.0,2.0,1,0,2.25,0
+2023-03-10,Ingleside,Burglary,3,2023,3,4,1.0,4.0,0,0,4.0,0
+2024-09-17,Mission,Malicious Mischief,3,2024,9,1,4.0,3.0,0,0,4.0,0
+2023-12-26,Taraval,Forgery And Counterfeiting,1,2023,12,1,1.0,1.0,0,0,1.0,1
+2024-06-21,Southern,Motor Vehicle Theft,1,2024,6,4,2.0,1.0,0,0,4.25,0
+2023-03-16,Mission,Disorderly Conduct,1,2023,3,3,2.0,6.0,0,0,2.0,0
+2022-05-11,Mission,Burglary,4,2022,5,2,2.0,4.0,0,0,4.0,1
+2020-04-11,Bayview,Assault,6,2020,4,5,3.0,2.0,1,0,3.0,1
+2024-09-12,Out of SF,Fraud,2,2024,9,3,1.0,2.0,0,0,1.25,1
+2021-05-09,Central,Other Miscellaneous,4,2021,5,6,2.0,4.0,1,0,4.0,1
+2021-01-29,Southern,Motor Vehicle Theft,4,2021,1,4,1.0,1.0,0,0,3.0,1
+2021-04-07,Park,Motor Vehicle Theft,1,2021,4,2,1.0,1.0,0,0,2.0,0
+2023-03-24,Southern,Offences Against The Family And Children,2,2023,3,4,2.0,1.0,0,0,2.0,1
+2020-10-08,Ingleside,Burglary,2,2020,10,3,1.0,2.0,0,0,2.0,1
+2024-09-11,Bayview,Arson,1,2024,9,2,1.0,1.0,0,0,1.0,1
+2020-03-06,Southern,Burglary,5,2020,3,4,4.0,7.0,0,0,4.0,1
+2023-03-18,Out of SF,Motor Vehicle Theft,1,2023,3,5,1.0,2.0,1,0,2.0,0
+2021-01-29,Northern,Larceny Theft,15,2021,1,4,16.0,10.0,0,0,19.0,0
+2024-11-04,Out of SF,Case Closure,1,2024,11,0,1.0,1.0,0,0,1.0,1
+2021-06-03,Taraval,Suspicious Occ,2,2021,6,3,2.0,1.0,0,0,2.0,1
+2020-12-26,Out of SF,Recovered Vehicle,4,2020,12,5,7.0,3.0,1,0,5.0,0
+2024-11-06,Central,Burglary,1,2024,11,2,1.0,3.0,0,0,3.25,0
+2023-04-26,Park,Other Offenses,1,2023,4,2,1.0,1.0,0,0,1.0,1
+2020-11-05,Taraval,Lost Property,1,2020,11,3,1.0,1.0,0,0,2.0,0
+2023-01-07,Central,Fraud,1,2023,1,5,3.0,1.0,1,0,3.0,0
+2021-12-08,Taraval,Offences Against The Family And Children,1,2021,12,2,2.0,1.0,0,0,2.0,0
+2021-03-23,Central,Suspicious Occ,2,2021,3,1,1.0,1.0,0,0,2.0,1
+2020-08-11,Tenderloin,Warrant,1,2020,8,1,3.0,1.0,0,0,2.25,0
+2021-04-25,Southern,Missing Person,2,2021,4,6,2.0,1.0,1,0,2.0,1
+2020-05-20,Out of SF,Larceny Theft,1,2020,5,2,1.0,2.0,0,0,2.0,0
+2023-12-19,Richmond,Warrant,1,2023,12,1,1.0,1.0,0,0,2.0,0
+2021-09-27,Central,Burglary,11,2021,9,0,6.0,1.0,0,0,4.25,1
+2021-03-04,Mission,Vandalism,1,2021,3,3,1.0,1.0,0,0,1.0,1
+2023-09-04,Central,Disorderly Conduct,1,2023,9,0,1.0,1.0,0,1,1.0,1
+2024-09-13,Tenderloin,Traffic Violation Arrest,1,2024,9,4,1.0,1.0,0,0,1.25,0
+2024-01-12,Richmond,Disorderly Conduct,2,2024,1,4,1.0,1.0,0,0,1.25,1
+2024-10-24,Southern,Larceny Theft,6,2024,10,3,8.0,13.0,0,0,12.0,0
+2023-08-31,Northern,Burglary,3,2023,8,3,2.0,4.0,0,0,4.0,0
+2024-05-11,Southern,Larceny Theft,1,2024,5,5,1.0,2.0,1,0,5.0,0
+2021-05-02,Ingleside,Traffic Violation Arrest,1,2021,5,6,1.0,1.0,1,0,1.0,1
+2024-07-26,Southern,Motor Vehicle Theft,4,2024,7,4,2.0,1.0,0,0,4.0,1
+2021-11-07,Ingleside,Malicious Mischief,1,2021,11,6,3.0,3.0,1,0,3.0,0
+2021-09-08,Southern,Larceny Theft,10,2021,9,2,7.0,14.0,0,0,14.0,0
+2020-02-19,Bayview,Other Miscellaneous,5,2020,2,2,1.0,2.0,0,0,3.25,1
+2022-04-04,Park,Malicious Mischief,1,2022,4,0,2.0,3.0,0,0,2.0,0
+2021-08-16,Mission,Other Miscellaneous,3,2021,8,0,3.0,7.0,0,0,7.0,0
+2024-01-13,Taraval,Fraud,2,2024,1,5,3.0,1.0,1,0,3.0,0
+2022-08-29,Northern,Miscellaneous Investigation,1,2022,8,0,3.0,1.0,0,0,1.25,0
+2022-05-23,Ingleside,Malicious Mischief,1,2022,5,0,2.0,3.0,0,0,3.0,0
+2022-12-26,Tenderloin,Burglary,3,2022,12,0,1.0,3.0,0,1,2.0,1
+2020-08-16,Mission,Burglary,5,2020,8,6,1.0,5.0,1,0,4.0,1
+2021-10-13,Tenderloin,Offences Against The Family And Children,2,2021,10,2,3.0,4.0,0,0,2.0,1
+2022-12-21,Taraval,Other Miscellaneous,2,2022,12,2,2.0,2.0,0,0,2.0,1
+2022-12-29,Tenderloin,Other Miscellaneous,2,2022,12,3,2.0,3.0,0,0,4.0,0
+2024-01-02,Tenderloin,Weapons Carrying Etc,1,2024,1,1,1.0,3.0,0,0,2.0,0
+2024-08-27,Bayview,Larceny Theft,3,2024,8,1,7.0,3.0,0,0,6.0,0
+2023-05-03,Taraval,Robbery,2,2023,5,2,1.0,1.0,0,0,2.0,1
+2023-08-22,Taraval,Other Miscellaneous,1,2023,8,1,5.0,1.0,0,0,2.0,0
+2020-01-31,Northern,Non-Criminal,3,2020,1,4,2.0,3.0,0,0,3.0,1
+2021-05-17,Bayview,Larceny Theft,3,2021,5,0,4.0,6.0,0,0,7.25,0
+2021-01-14,Bayview,Offences Against The Family And Children,2,2021,1,3,2.0,2.0,0,0,2.0,1
+2023-12-23,Tenderloin,Offences Against The Family And Children,1,2023,12,5,2.0,2.0,1,0,2.0,0
+2020-07-11,Ingleside,Miscellaneous Investigation,1,2020,7,5,1.0,1.0,1,0,1.0,1
+2023-10-29,Central,Burglary,1,2023,10,6,2.0,3.0,1,0,2.0,0
+2020-11-23,Ingleside,Larceny Theft,7,2020,11,0,8.0,12.0,0,0,10.0,0
+2020-04-08,Bayview,Miscellaneous Investigation,1,2020,4,2,1.0,1.0,0,0,1.0,1
+2024-05-04,Park,Missing Person,2,2024,5,5,1.0,2.0,1,0,2.0,1
+2023-01-04,Central,Other Miscellaneous,7,2023,1,2,4.0,2.0,0,0,4.0,1
+2024-04-05,Northern,Traffic Violation Arrest,1,2024,4,4,4.0,1.0,0,0,1.0,1
+2021-12-01,Taraval,Suspicious Occ,5,2021,12,2,2.0,1.0,0,0,2.0,1
+2021-10-18,Ingleside,Disorderly Conduct,2,2021,10,0,1.0,1.0,0,0,2.0,1
+2020-02-29,Park,Missing Person,4,2020,2,5,2.0,1.0,1,0,2.0,1
+2020-11-19,Out of SF,Other Offenses,2,2020,11,3,1.0,3.0,0,0,2.0,1
+2023-02-13,Mission,Assault,2,2023,2,0,10.0,1.0,0,0,6.0,0
+2024-01-29,Southern,Burglary,1,2024,1,0,2.0,1.0,0,0,2.0,0
+2020-09-17,Southern,Robbery,1,2020,9,3,1.0,2.0,0,0,2.0,0
+2023-03-22,Richmond,Offences Against The Family And Children,2,2023,3,2,1.0,1.0,0,0,1.0,1
+2024-07-23,Ingleside,Arson,1,2024,7,1,1.0,1.0,0,0,1.0,1
+2024-02-08,Mission,Robbery,4,2024,2,3,1.0,1.0,0,0,3.25,1
+2021-07-11,Tenderloin,Malicious Mischief,1,2021,7,6,3.0,3.0,1,0,2.25,0
+2020-06-10,Southern,Non-Criminal,2,2020,6,2,1.0,2.0,0,0,2.0,1
+2020-07-05,Ingleside,Malicious Mischief,2,2020,7,6,7.0,1.0,1,0,4.0,0
+2020-11-21,Southern,Recovered Vehicle,2,2020,11,5,1.0,1.0,1,0,2.0,1
+2024-05-08,Tenderloin,Traffic Violation Arrest,2,2024,5,2,1.0,2.0,0,0,2.0,1
+2021-12-31,Park,Other Offenses,1,2021,12,4,1.0,1.0,0,1,1.0,1
+2020-04-14,Central,Missing Person,1,2020,4,1,1.0,1.0,0,0,2.0,0
+2024-05-15,Southern,Motor Vehicle Theft,1,2024,5,2,2.0,2.0,0,0,3.0,0
+2022-12-01,Park,Missing Person,1,2022,12,3,1.0,2.0,0,0,1.0,1
+2020-12-05,Mission,Larceny Theft,9,2020,12,5,6.0,6.0,1,0,8.0,1
+2023-03-12,Park,Assault,2,2023,3,6,2.0,3.0,1,0,2.0,1
+2021-03-27,Southern,Disorderly Conduct,3,2021,3,5,1.0,1.0,1,0,2.0,1
+2022-09-27,Northern,Traffic Violation Arrest,2,2022,9,1,2.0,1.0,0,0,1.25,1
+2021-05-14,Park,Larceny Theft,7,2021,5,4,8.0,5.0,0,0,5.25,1
+2024-06-08,Southern,Non-Criminal,2,2024,6,5,1.0,2.0,1,0,3.0,0
+2022-07-31,Southern,Warrant,1,2022,7,6,2.0,1.0,1,0,3.0,0
+2023-02-07,Taraval,Miscellaneous Investigation,1,2023,2,1,2.0,1.0,0,0,2.0,0
+2023-07-25,Ingleside,Robbery,1,2023,7,1,1.0,2.0,0,0,2.0,0
+2021-09-09,Out of SF,Non-Criminal,2,2021,9,3,1.0,1.0,0,0,2.0,1
+2021-09-19,Bayview,Miscellaneous Investigation,1,2021,9,6,2.0,1.0,1,0,1.0,1
+2020-12-01,Taraval,Fraud,5,2020,12,1,4.0,1.0,0,0,3.0,1
+2021-04-04,Bayview,Larceny Theft,8,2021,4,6,7.0,3.0,1,0,8.0,1
+2022-07-03,Ingleside,Warrant,1,2022,7,6,1.0,1.0,1,0,2.0,0
+2020-12-22,Tenderloin,Malicious Mischief,3,2020,12,1,4.0,4.0,0,0,3.0,1
+2020-03-25,Mission,Fraud,1,2020,3,2,1.0,3.0,0,0,3.0,0
+2021-10-04,Ingleside,Offences Against The Family And Children,4,2021,10,0,1.0,1.0,0,0,2.0,1
+2024-11-09,Tenderloin,Fraud,1,2024,11,5,1.0,1.0,1,0,2.0,0
+2023-05-04,Park,Malicious Mischief,1,2023,5,3,1.0,1.0,0,0,2.0,0
+2023-04-28,Tenderloin,Missing Person,3,2023,4,4,1.0,1.0,0,0,1.0,1
+2021-12-29,Tenderloin,Recovered Vehicle,1,2021,12,2,1.0,2.0,0,0,2.0,0
+2020-09-07,Tenderloin,Lost Property,1,2020,9,0,1.0,1.0,0,1,1.0,1
+2023-02-07,Bayview,Lost Property,3,2023,2,1,2.0,1.0,0,0,1.25,1
+2020-03-29,Mission,Non-Criminal,2,2020,3,6,1.0,1.0,1,0,2.0,1
+2020-04-14,Taraval,Burglary,3,2020,4,1,2.0,2.0,0,0,2.25,1
+2023-07-09,Ingleside,Larceny Theft,4,2023,7,6,7.0,7.0,1,0,9.0,0
+2021-03-19,Taraval,Burglary,1,2021,3,4,1.0,1.0,0,0,3.0,0
+2020-09-09,Tenderloin,Other,2,2020,9,2,2.0,3.0,0,0,2.0,1
+2024-03-12,Mission,Fraud,1,2024,3,1,1.0,5.0,0,0,2.25,0
+2021-02-26,Ingleside,Malicious Mischief,3,2021,2,4,1.0,1.0,0,0,3.25,0
+2022-12-18,Ingleside,Recovered Vehicle,2,2022,12,6,1.0,2.0,1,0,2.25,0
+2023-07-13,Northern,Robbery,2,2023,7,3,1.0,2.0,0,0,2.0,1
+2024-11-13,Park,Larceny Theft,3,2024,11,2,4.0,2.0,0,0,5.0,0
+2022-07-25,Tenderloin,Assault,2,2022,7,0,5.0,3.0,0,0,6.0,0
+2021-11-27,Park,Fraud,2,2021,11,5,2.0,1.0,1,0,2.0,1
+2021-08-31,Taraval,Motor Vehicle Theft,1,2021,8,1,2.0,2.0,0,0,3.0,0
+2024-07-10,Northern,Larceny Theft,12,2024,7,2,7.0,7.0,0,0,13.25,0
+2021-11-22,Tenderloin,Burglary,1,2021,11,0,1.0,2.0,0,0,2.0,0
+2021-02-16,Tenderloin,Other Miscellaneous,5,2021,2,1,3.0,6.0,0,0,4.0,1
+2020-03-16,Southern,Stolen Property,1,2020,3,0,1.0,1.0,0,0,1.0,1
+2022-07-22,Ingleside,Missing Person,2,2022,7,4,1.0,2.0,0,0,2.0,1
+2020-09-04,Ingleside,Disorderly Conduct,1,2020,9,4,1.0,1.0,0,0,1.0,1
+2021-01-11,Northern,Recovered Vehicle,1,2021,1,0,3.0,1.0,0,0,2.25,0
+2020-04-13,Southern,Other,1,2020,4,0,1.0,2.0,0,0,1.25,0
+2023-07-31,Bayview,Traffic Violation Arrest,1,2023,7,0,1.0,1.0,0,0,1.0,1
+2023-07-20,Bayview,Miscellaneous Investigation,1,2023,7,3,1.0,2.0,0,0,2.0,0
+2020-05-30,Central,Robbery,4,2020,5,5,1.0,1.0,1,0,2.0,1
+2023-02-07,Out of SF,Courtesy Report,1,2023,2,1,1.0,1.0,0,0,2.0,0
+2021-03-27,Park,Lost Property,1,2021,3,5,1.0,1.0,1,0,1.0,1
+2024-12-26,Park,Recovered Vehicle,1,2024,12,3,1.0,1.0,0,0,1.0,1
+2023-07-08,Southern,Non-Criminal,1,2023,7,5,1.0,2.0,1,0,2.0,0
+2020-08-26,Bayview,Motor Vehicle Theft,1,2020,8,2,2.0,3.0,0,0,5.0,0
+2022-02-13,Central,Missing Person,1,2022,2,6,1.0,1.0,1,0,2.0,0
+2020-09-23,Out of SF,Courtesy Report,1,2020,9,2,1.0,1.0,0,0,2.0,0
+2021-06-08,Southern,Larceny Theft,12,2021,6,1,5.0,8.0,0,0,12.0,1
+2021-07-05,Northern,Malicious Mischief,3,2021,7,0,2.0,2.0,0,1,5.0,0
+2020-05-08,Northern,Other Miscellaneous,4,2020,5,4,5.0,8.0,0,0,5.0,0
+2022-06-04,Northern,Other Miscellaneous,3,2022,6,5,4.0,3.0,1,0,3.0,1
+2023-01-13,Northern,Burglary,3,2023,1,4,4.0,3.0,0,0,7.0,0
+2020-10-04,Park,Malicious Mischief,2,2020,10,6,2.0,2.0,1,0,3.0,0
+2021-11-12,Southern,Assault,6,2021,11,4,1.0,6.0,0,0,4.0,1
+2022-12-23,Mission,Assault,5,2022,12,4,5.0,1.0,0,0,5.0,1
+2021-12-09,Central,Lost Property,1,2021,12,3,1.0,2.0,0,0,2.0,0
+2024-09-23,Tenderloin,Courtesy Report,1,2024,9,0,1.0,1.0,0,0,1.0,1
+2024-02-14,Central,Vehicle Impounded,1,2024,2,2,1.0,2.0,0,0,1.0,1
+2022-02-26,Out of SF,Recovered Vehicle,9,2022,2,5,4.0,2.0,1,0,8.0,1
+2024-03-17,Northern,Other Offenses,1,2024,3,6,1.0,1.0,1,0,1.0,1
+2022-11-08,Ingleside,Robbery,2,2022,11,1,1.0,1.0,0,0,2.0,1
+2020-02-05,Mission,Disorderly Conduct,1,2020,2,2,1.0,2.0,0,0,2.0,0
+2020-12-11,Northern,Other,1,2020,12,4,1.0,1.0,0,0,1.0,1
+2021-11-08,Ingleside,Weapons Offense,1,2021,11,0,2.0,1.0,0,0,2.0,0
+2021-05-11,Central,Larceny Theft,21,2021,5,1,28.0,16.0,0,0,24.0,0
+2023-11-10,Bayview,Larceny Theft,2,2023,11,4,5.0,5.0,0,1,6.0,0
+2021-07-16,Park,Assault,2,2021,7,4,3.0,2.0,0,0,2.0,1
+2021-09-22,Central,Warrant,1,2021,9,2,1.0,1.0,0,0,2.0,0
+2020-10-18,Ingleside,Offences Against The Family And Children,2,2020,10,6,2.0,2.0,1,0,2.0,1
+2021-03-02,Out of SF,Recovered Vehicle,3,2021,3,1,4.0,7.0,0,0,7.0,0
+2023-05-16,Ingleside,Larceny Theft,6,2023,5,1,9.0,6.0,0,0,10.25,0
+2022-10-11,Mission,Malicious Mischief,1,2022,10,1,5.0,5.0,0,0,4.25,0
+2023-10-18,Northern,Malicious Mischief,8,2023,10,2,3.0,2.0,0,0,4.25,1
+2022-09-24,Central,Recovered Vehicle,1,2022,9,5,1.0,1.0,1,0,1.25,0
+2020-01-30,Richmond,Fraud,2,2020,1,3,6.0,1.0,0,0,2.25,0
+2023-12-20,Mission,Fire Report,1,2023,12,2,1.0,1.0,0,0,1.0,1
+2023-11-06,Taraval,Other Miscellaneous,3,2023,11,0,2.0,1.0,0,0,3.0,1
+2023-05-29,Richmond,Non-Criminal,3,2023,5,0,1.0,1.0,0,1,2.0,1
+2020-02-06,Ingleside,Offences Against The Family And Children,1,2020,2,3,1.0,1.0,0,0,1.0,1
+2021-10-07,Park,Burglary,1,2021,10,3,3.0,3.0,0,0,3.25,0
+2020-03-08,Southern,Other Offenses,1,2020,3,6,1.0,1.0,1,0,1.0,1
+2022-11-28,Ingleside,Assault,1,2022,11,0,3.0,2.0,0,0,3.0,0
+2020-09-28,Central,Motor Vehicle Theft,1,2020,9,0,1.0,1.0,0,0,2.0,0
+2024-12-24,Southern,Suspicious Occ,1,2024,12,1,1.0,1.0,0,0,2.0,0
+2022-09-10,Park,Recovered Vehicle,1,2022,9,5,1.0,1.0,1,0,1.0,1
+2020-07-09,Tenderloin,Offences Against The Family And Children,1,2020,7,3,1.0,1.0,0,0,1.0,1
+2020-04-29,Ingleside,Burglary,1,2020,4,2,2.0,1.0,0,0,2.0,0
+2023-03-15,Northern,Drug Offense,3,2023,3,2,5.0,1.0,0,0,3.0,1
+2021-04-06,Richmond,Arson,2,2021,4,1,4.0,1.0,0,0,1.0,1
+2022-12-22,Tenderloin,Offences Against The Family And Children,1,2022,12,3,1.0,1.0,0,0,1.25,0
+2020-07-02,Northern,Disorderly Conduct,1,2020,7,3,1.0,2.0,0,0,1.25,0
+2023-10-12,Out of SF,Assault,1,2023,10,3,1.0,1.0,0,0,1.0,1
+2024-10-11,Ingleside,Assault,2,2024,10,4,4.0,2.0,0,0,4.0,0
+2020-02-21,Northern,Robbery,1,2020,2,4,3.0,1.0,0,0,2.25,0
+2021-07-08,Taraval,Lost Property,2,2021,7,3,1.0,1.0,0,0,2.0,1
+2024-03-29,Tenderloin,Burglary,1,2024,3,4,1.0,2.0,0,0,2.0,0
+2024-09-20,Taraval,Drug Offense,1,2024,9,4,1.0,1.0,0,0,1.25,0
+2020-05-29,Richmond,Other,1,2020,5,4,1.0,1.0,0,0,1.0,1
+2023-04-18,Mission,Suspicious Occ,2,2023,4,1,1.0,2.0,0,0,2.0,1
+2023-11-14,Mission,Lost Property,1,2023,11,1,1.0,4.0,0,0,2.0,0
+2022-06-16,Taraval,Assault,1,2022,6,3,4.0,1.0,0,0,2.0,0
+2022-02-13,Bayview,Motor Vehicle Theft,3,2022,2,6,2.0,3.0,1,0,6.0,0
+2024-06-14,Out of SF,Lost Property,1,2024,6,4,1.0,1.0,0,0,2.0,0
+2024-03-17,Tenderloin,Warrant,2,2024,3,6,7.0,2.0,1,0,7.0,0
+2023-07-30,Park,Non-Criminal,3,2023,7,6,2.0,3.0,1,0,3.0,1
+2023-01-15,Ingleside,Recovered Vehicle,3,2023,1,6,2.0,2.0,1,0,3.0,1
+2022-10-10,Tenderloin,Assault,5,2022,10,0,2.0,3.0,0,1,7.0,0
+2021-12-13,Mission,Motor Vehicle Theft,1,2021,12,0,4.0,3.0,0,0,4.0,0
+2024-03-16,Taraval,Disorderly Conduct,1,2024,3,5,1.0,1.0,1,0,1.0,1
+2020-02-24,Park,Missing Person,4,2020,2,0,1.0,1.0,0,0,2.0,1
+2023-09-19,Bayview,Assault,4,2023,9,1,4.0,3.0,0,0,5.0,0
+2024-06-17,Park,Burglary,1,2024,6,0,3.0,2.0,0,0,2.0,0
+2021-05-17,Northern,Offences Against The Family And Children,1,2021,5,0,1.0,3.0,0,0,2.0,0
+2021-01-03,Southern,Traffic Violation Arrest,2,2021,1,6,1.0,1.0,1,0,1.0,1
+2022-03-10,Ingleside,Fraud,1,2022,3,3,2.0,1.0,0,0,2.0,0
+2020-07-11,Park,Motor Vehicle Theft,1,2020,7,5,2.0,2.0,1,0,3.0,0
+2021-07-22,Northern,Offences Against The Family And Children,1,2021,7,3,2.0,1.0,0,0,2.0,0
+2021-04-24,Southern,Malicious Mischief,5,2021,4,5,5.0,3.0,1,0,5.0,1
+2023-06-14,Tenderloin,Lost Property,1,2023,6,2,2.0,1.0,0,0,2.0,0
+2022-11-26,Mission,Motor Vehicle Theft,1,2022,11,5,11.0,4.0,1,0,4.25,0
+2021-10-07,Mission,Non-Criminal,2,2021,10,3,2.0,3.0,0,0,3.0,0
+2023-05-17,Bayview,Malicious Mischief,1,2023,5,2,6.0,2.0,0,0,4.0,0
+2022-07-10,Tenderloin,Offences Against The Family And Children,1,2022,7,6,3.0,4.0,1,0,2.0,0
+2021-06-09,Central,Other Miscellaneous,4,2021,6,2,2.0,1.0,0,0,3.0,1
+2023-12-26,Richmond,Case Closure,1,2023,12,1,1.0,2.0,0,0,1.0,1
+2020-11-01,Southern,Other Miscellaneous,1,2020,11,6,2.0,4.0,1,0,3.25,0
+2022-02-04,Out of SF,Fraud,2,2022,2,4,2.0,2.0,0,0,2.0,1
+2024-02-05,Northern,Lost Property,1,2024,2,0,1.0,1.0,0,0,2.0,0
+2024-07-27,Southern,Other Miscellaneous,4,2024,7,5,5.0,1.0,1,0,4.0,1
+2023-11-05,Ingleside,Burglary,3,2023,11,6,2.0,2.0,1,0,3.0,1
+2021-01-12,Bayview,Assault,3,2021,1,1,6.0,1.0,0,0,4.0,0
+2023-01-11,Tenderloin,Weapons Carrying Etc,1,2023,1,2,1.0,1.0,0,0,2.0,0
+2024-04-05,Ingleside,Traffic Violation Arrest,1,2024,4,4,1.0,2.0,0,0,1.0,1
+2022-10-27,Central,Motor Vehicle Theft,2,2022,10,3,2.0,2.0,0,0,2.0,1
+2020-06-05,Southern,Non-Criminal,3,2020,6,4,3.0,1.0,0,0,2.0,1
+2021-04-30,Central,Robbery,1,2021,4,4,1.0,3.0,0,0,2.0,0
+2024-06-03,Mission,Assault,8,2024,6,0,4.0,4.0,0,0,6.0,1
+2022-02-24,Mission,Robbery,2,2022,2,3,3.0,2.0,0,0,3.0,0
+2020-03-13,Bayview,Malicious Mischief,3,2020,3,4,5.0,4.0,0,0,4.0,0
+2020-06-06,Northern,Offences Against The Family And Children,2,2020,6,5,1.0,1.0,1,0,2.0,1
+2021-07-23,Northern,Malicious Mischief,7,2021,7,4,6.0,4.0,0,0,5.25,1
+2024-07-30,Central,Offences Against The Family And Children,2,2024,7,1,1.0,1.0,0,0,2.0,1
+2020-03-01,Mission,Weapons Carrying Etc,2,2020,3,6,1.0,3.0,1,0,3.0,0
+2022-10-31,Northern,Missing Person,1,2022,10,0,1.0,4.0,0,0,2.0,0
+2024-09-03,Tenderloin,Motor Vehicle Theft,2,2024,9,1,3.0,2.0,0,0,2.0,1
+2020-11-03,Central,Robbery,3,2020,11,1,4.0,1.0,0,0,2.0,1
+2021-06-24,Park,Larceny Theft,9,2021,6,3,7.0,1.0,0,0,8.25,1
+2021-11-04,Bayview,Offences Against The Family And Children,1,2021,11,3,2.0,1.0,0,0,2.0,0
+2021-07-15,Richmond,Vandalism,1,2021,7,3,1.0,1.0,0,0,1.0,1
+2024-09-20,Taraval,Lost Property,2,2024,9,4,1.0,1.0,0,0,1.0,1
+2020-10-07,Southern,Traffic Violation Arrest,1,2020,10,2,1.0,1.0,0,0,1.0,1
+2021-11-20,Tenderloin,Larceny Theft,2,2021,11,5,4.0,4.0,1,0,8.0,0
+2021-06-27,Taraval,Motor Vehicle Theft,1,2021,6,6,1.0,1.0,1,0,2.25,0
+2023-12-09,Tenderloin,Fraud,2,2023,12,5,1.0,1.0,1,0,2.0,1
+2021-04-02,Out of SF,Larceny Theft,1,2021,4,4,1.0,1.0,0,0,1.0,1
+2023-02-16,Bayview,Miscellaneous Investigation,1,2023,2,3,2.0,1.0,0,0,2.0,0
+2021-07-12,Bayview,Burglary,1,2021,7,0,4.0,2.0,0,0,3.0,0
+2023-12-29,Southern,Drug Offense,2,2023,12,4,1.0,1.0,0,0,2.0,1
+2022-03-05,Southern,Robbery,1,2022,3,5,1.0,2.0,1,0,2.0,0
+2021-06-29,Mission,Burglary,2,2021,6,1,2.0,1.0,0,0,4.25,0
+2024-03-19,Bayview,Offences Against The Family And Children,1,2024,3,1,2.0,1.0,0,0,2.0,0
+2020-11-22,Central,Suspicious Occ,1,2020,11,6,1.0,1.0,1,0,2.0,0
+2023-06-25,Northern,Burglary,1,2023,6,6,3.0,6.0,1,0,4.0,0
+2022-05-19,Central,Warrant,1,2022,5,3,1.0,1.0,0,0,2.0,0
+2022-02-16,Northern,Robbery,1,2022,2,2,1.0,3.0,0,0,3.0,0
+2022-03-14,Central,Larceny Theft,21,2022,3,0,20.0,15.0,0,0,27.0,0
+2020-03-28,Out of SF,Missing Person,2,2020,3,5,1.0,2.0,1,0,1.25,1
+2020-02-22,Central,Fraud,3,2020,2,5,4.0,3.0,1,0,3.0,1
+2022-07-06,Tenderloin,Fraud,5,2022,7,2,2.0,1.0,0,0,4.0,1
+2023-12-25,Central,Recovered Vehicle,1,2023,12,0,1.0,1.0,0,1,1.0,1
+2020-09-09,Central,Arson,1,2020,9,2,1.0,2.0,0,0,1.25,0
+2024-12-31,Northern,Drug Offense,1,2024,12,1,3.0,1.0,0,0,2.0,0
+2022-07-06,Taraval,Other Miscellaneous,1,2022,7,2,1.0,1.0,0,0,2.25,0
+2024-11-14,Out of SF,Lost Property,1,2024,11,3,2.0,2.0,0,0,3.0,0
+2024-02-14,Ingleside,Malicious Mischief,1,2024,2,2,2.0,1.0,0,0,3.0,0
+2021-07-28,Tenderloin,Malicious Mischief,5,2021,7,2,1.0,1.0,0,0,3.0,1
+2020-05-02,Ingleside,Malicious Mischief,4,2020,5,5,3.0,3.0,1,0,3.0,1
+2020-05-07,Mission,Recovered Vehicle,1,2020,5,3,2.0,2.0,0,0,2.0,0
+2023-01-19,Central,Other Offenses,1,2023,1,3,1.0,1.0,0,0,1.0,1
+2021-12-17,Tenderloin,Larceny Theft,3,2021,12,4,4.0,8.0,0,0,6.0,0
+2024-03-30,Richmond,Assault,1,2024,3,5,2.0,2.0,1,0,2.0,0
+2024-12-19,Tenderloin,Motor Vehicle Theft,1,2024,12,3,1.0,2.0,0,0,2.0,0
+2021-06-17,Ingleside,Other Offenses,1,2021,6,3,3.0,1.0,0,0,2.0,0
+2023-09-23,Bayview,Burglary,4,2023,9,5,3.0,2.0,1,0,2.0,1
+2021-08-23,Bayview,Weapons Offense,1,2021,8,0,1.0,1.0,0,0,2.0,0
+2022-02-22,Taraval,Recovered Vehicle,1,2022,2,1,2.0,1.0,0,0,2.0,0
+2024-05-21,Ingleside,Non-Criminal,3,2024,5,1,3.0,1.0,0,0,2.0,1
+2023-10-10,Bayview,Weapons Offense,2,2023,10,1,1.0,1.0,0,0,1.0,1
+2024-10-23,Tenderloin,Recovered Vehicle,2,2024,10,2,1.0,1.0,0,0,2.0,1
+2022-02-03,Out of SF,Warrant,1,2022,2,3,2.0,1.0,0,0,1.0,1
+2023-02-07,Tenderloin,Fraud,1,2023,2,1,2.0,1.0,0,0,2.0,0
+2020-05-22,Ingleside,Missing Person,1,2020,5,4,4.0,3.0,0,0,2.0,0
+2024-06-19,Bayview,Motor Vehicle Theft,4,2024,6,2,5.0,1.0,0,1,4.25,0
+2021-04-27,Richmond,Non-Criminal,1,2021,4,1,3.0,1.0,0,0,2.0,0
+2022-08-08,Bayview,Fraud,2,2022,8,0,1.0,1.0,0,0,2.25,0
+2024-11-25,Southern,Warrant,6,2024,11,0,3.0,10.0,0,0,4.25,1
+2024-07-17,Mission,Other Offenses,1,2024,7,2,1.0,2.0,0,0,2.0,0
+2022-04-01,Tenderloin,Non-Criminal,1,2022,4,4,7.0,1.0,0,0,3.0,0
+2024-09-17,Ingleside,Assault,1,2024,9,1,1.0,1.0,0,0,5.0,0
+2022-04-04,Central,Lost Property,1,2022,4,0,2.0,1.0,0,0,3.0,0
+2023-06-26,Taraval,Robbery,1,2023,6,0,1.0,1.0,0,0,2.0,0
+2023-09-10,Out of SF,Fraud,1,2023,9,6,2.0,1.0,1,0,2.0,0
+2021-01-10,Northern,Burglary,7,2021,1,6,9.0,7.0,1,0,8.0,0
+2023-06-02,Ingleside,Assault,4,2023,6,4,1.0,3.0,0,0,4.0,1
+2023-02-24,Out of SF,Robbery,1,2023,2,4,1.0,2.0,0,0,1.0,1
+2024-07-09,Northern,Lost Property,2,2024,7,1,1.0,2.0,0,0,2.0,1
+2021-02-28,Northern,Assault,3,2021,2,6,1.0,2.0,1,0,3.0,1
+2020-11-29,Central,Other Miscellaneous,3,2020,11,6,2.0,2.0,1,0,4.0,0
+2023-10-12,Bayview,Assault,2,2023,10,3,1.0,5.0,0,0,5.0,0
+2023-02-01,Central,Suspicious Occ,2,2023,2,2,1.0,1.0,0,0,2.0,1
+2021-04-18,Northern,Burglary,3,2021,4,6,3.0,3.0,1,0,5.25,0
+2021-01-03,Mission,Traffic Violation Arrest,1,2021,1,6,3.0,1.0,1,0,2.0,0
+2023-03-09,Out of SF,Fraud,2,2023,3,3,2.0,4.0,0,0,2.25,0
+2024-03-04,Tenderloin,Drug Offense,15,2024,3,0,1.0,4.0,0,0,6.25,1
+2024-01-20,Tenderloin,Missing Person,1,2024,1,5,1.0,1.0,1,0,2.0,0
+2020-09-30,Taraval,Malicious Mischief,1,2020,9,2,2.0,1.0,0,0,2.0,0
+2021-03-08,Mission,Lost Property,3,2021,3,0,2.0,2.0,0,0,2.0,1
+2020-06-29,Tenderloin,Other Miscellaneous,3,2020,6,0,1.0,1.0,0,0,4.0,0
+2024-02-25,Mission,Lost Property,2,2024,2,6,1.0,1.0,1,0,2.25,0
+2021-10-16,Southern,Robbery,1,2021,10,5,1.0,1.0,1,0,2.0,0
+2020-09-29,Mission,Recovered Vehicle,2,2020,9,1,1.0,1.0,0,0,2.0,1
+2023-02-17,Northern,Suicide,1,2023,2,4,1.0,1.0,0,0,1.0,1
+2021-05-14,Central,Non-Criminal,4,2021,5,4,4.0,2.0,0,0,4.0,1
+2024-04-04,Taraval,Recovered Vehicle,1,2024,4,3,1.0,1.0,0,0,2.0,0
+2020-06-13,Richmond,Motor Vehicle Theft,4,2020,6,5,1.0,3.0,1,0,3.0,1
+2021-08-02,Northern,Offences Against The Family And Children,2,2021,8,0,2.0,1.0,0,0,2.0,1
+2020-11-13,Northern,Larceny Theft,13,2020,11,4,18.0,14.0,0,0,17.0,0
+2021-05-21,Richmond,Traffic Violation Arrest,1,2021,5,4,1.0,1.0,0,0,1.0,1
+2024-11-21,Taraval,Motor Vehicle Theft,2,2024,11,3,5.0,1.0,0,0,2.0,1
+2024-11-16,Bayview,Larceny Theft,3,2024,11,5,5.0,2.0,1,0,5.0,0
+2024-01-31,Tenderloin,Other,1,2024,1,2,3.0,1.0,0,0,2.0,0
+2022-10-01,Northern,Other,1,2022,10,5,1.0,1.0,1,0,1.0,1
+2024-12-22,Bayview,Burglary,3,2024,12,6,3.0,3.0,1,0,3.0,1
+2021-11-28,Taraval,Fraud,1,2021,11,6,1.0,3.0,1,0,3.0,0
+2022-07-03,Richmond,Robbery,1,2022,7,6,1.0,1.0,1,0,2.0,0
+2020-12-16,Richmond,Other Offenses,1,2020,12,2,1.0,1.0,0,0,1.0,1
+2023-05-13,Tenderloin,Malicious Mischief,3,2023,5,5,1.0,2.0,1,0,3.0,1
+2024-02-10,Ingleside,Missing Person,1,2024,2,5,2.0,1.0,1,0,1.25,0
+2024-11-20,Central,Lost Property,1,2024,11,2,3.0,4.0,0,0,3.0,0
+2021-03-10,Richmond,Offences Against The Family And Children,1,2021,3,2,1.0,2.0,0,0,1.0,1
+2024-04-06,Northern,Motor Vehicle Theft,3,2024,4,5,5.0,5.0,1,0,3.0,1
+2020-07-08,Bayview,Suspicious Occ,1,2020,7,2,3.0,1.0,0,0,2.0,0
+2023-06-02,Bayview,Non-Criminal,1,2023,6,4,5.0,2.0,0,0,2.0,0
+2023-12-24,Bayview,Burglary,1,2023,12,6,4.0,2.0,1,0,2.0,0
+2022-07-23,Mission,Fraud,2,2022,7,5,3.0,2.0,1,0,3.25,0
+2020-07-01,Northern,Missing Person,1,2020,7,2,2.0,2.0,0,0,2.0,0
+2022-02-07,Northern,Offences Against The Family And Children,1,2022,2,0,1.0,3.0,0,0,2.0,0
+2024-10-15,Taraval,Motor Vehicle Theft,2,2024,10,1,1.0,2.0,0,0,3.0,0
+2024-12-04,Tenderloin,Non-Criminal,2,2024,12,2,4.0,4.0,0,0,3.0,0
+2022-08-15,Ingleside,Motor Vehicle Theft,3,2022,8,0,6.0,2.0,0,0,4.0,0
+2024-06-21,Taraval,Fraud,2,2024,6,4,1.0,4.0,0,0,2.0,1
+2020-06-16,Richmond,Larceny Theft,3,2020,6,1,4.0,9.0,0,0,9.0,0
+2024-10-13,Tenderloin,Weapons Offense,2,2024,10,6,1.0,2.0,1,0,2.0,1
+2021-07-12,Ingleside,Recovered Vehicle,2,2021,7,0,1.0,3.0,0,0,2.25,0
+2022-09-30,Ingleside,Weapons Offense,1,2022,9,4,1.0,1.0,0,0,1.0,1
+2022-07-24,Taraval,Non-Criminal,1,2022,7,6,2.0,1.0,1,0,2.0,0
+2024-07-01,Out of SF,Lost Property,4,2024,7,0,1.0,1.0,0,0,2.0,1
+2022-08-27,Taraval,Motor Vehicle Theft,3,2022,8,5,3.0,1.0,1,0,3.0,1
+2021-05-18,Richmond,Non-Criminal,1,2021,5,1,1.0,2.0,0,0,2.0,0
+2022-03-04,Park,Malicious Mischief,2,2022,3,4,2.0,2.0,0,0,3.0,0
+2023-02-22,Ingleside,Fraud,1,2023,2,2,1.0,2.0,0,0,2.0,0
+2023-10-17,Richmond,Miscellaneous Investigation,2,2023,10,1,1.0,1.0,0,0,2.0,1
+2023-09-06,Ingleside,Burglary,1,2023,9,2,5.0,1.0,0,0,4.0,0
+2023-09-29,Central,Larceny Theft,16,2023,9,4,15.0,19.0,0,0,25.25,0
+2020-07-13,Southern,Missing Person,1,2020,7,0,1.0,1.0,0,0,1.0,1
+2023-12-24,Bayview,Disorderly Conduct,1,2023,12,6,1.0,2.0,1,0,2.0,0
+2021-10-29,Taraval,Motor Vehicle Theft,6,2021,10,4,4.0,2.0,0,0,4.0,1
+2022-09-19,Southern,Larceny Theft,17,2022,9,0,10.0,4.0,0,0,15.0,1
+2022-02-28,Southern,Robbery,2,2022,2,0,1.0,3.0,0,0,2.0,1
+2022-02-16,Richmond,Non-Criminal,2,2022,2,2,1.0,2.0,0,0,1.0,1
+2020-02-10,Taraval,Recovered Vehicle,2,2020,2,0,2.0,1.0,0,0,2.0,1
+2023-09-05,Ingleside,Malicious Mischief,2,2023,9,1,4.0,3.0,0,0,3.0,0
+2020-06-13,Southern,Robbery,2,2020,6,5,2.0,1.0,1,0,1.0,1
+2021-09-03,Bayview,Fire Report,1,2021,9,4,1.0,1.0,0,0,1.0,1
+2021-09-24,Richmond,Burglary,6,2021,9,4,1.0,2.0,0,0,2.0,1
+2023-04-17,Mission,Missing Person,3,2023,4,0,5.0,1.0,0,0,3.0,1
+2021-01-30,Out of SF,Non-Criminal,1,2021,1,5,3.0,4.0,1,0,2.0,0
+2023-08-08,Out of SF,Warrant,1,2023,8,1,2.0,2.0,0,0,2.0,0
+2022-08-13,Bayview,Missing Person,1,2022,8,5,2.0,1.0,1,0,2.0,0
+2023-10-03,Bayview,Disorderly Conduct,1,2023,10,1,1.0,2.0,0,0,2.0,0
+2021-09-23,Tenderloin,Larceny Theft,3,2021,9,3,3.0,3.0,0,0,5.0,0
+2021-12-12,Mission,Other,1,2021,12,6,1.0,1.0,1,0,1.0,1
+2024-01-13,Richmond,Larceny Theft,10,2024,1,5,8.0,10.0,1,0,9.25,1
+2020-11-19,Taraval,Motor Vehicle Theft,6,2020,11,3,1.0,3.0,0,0,5.0,1
+2023-08-06,Southern,Larceny Theft,8,2023,8,6,10.0,9.0,1,0,11.0,0
+2021-02-23,Tenderloin,Other Miscellaneous,3,2021,2,1,4.0,5.0,0,0,4.25,0
+2021-05-18,Park,Recovered Vehicle,1,2021,5,1,2.0,1.0,0,0,1.0,1
+2022-11-11,Park,Motor Vehicle Theft,2,2022,11,4,2.0,2.0,0,1,2.25,0
+2022-11-26,Northern,Malicious Mischief,2,2022,11,5,8.0,4.0,1,0,5.0,0
+2023-06-21,Southern,Fraud,1,2023,6,2,1.0,2.0,0,0,2.25,0
+2024-08-17,Ingleside,Forgery And Counterfeiting,1,2024,8,5,1.0,2.0,1,0,1.0,1
+2023-08-16,Northern,Other Miscellaneous,6,2023,8,2,2.0,10.0,0,0,5.0,1
+2022-01-09,Tenderloin,Larceny Theft,5,2022,1,6,6.0,8.0,1,0,6.0,0
+2021-05-01,Bayview,Lost Property,1,2021,5,5,2.0,1.0,1,0,1.0,1
+2021-06-08,Central,Warrant,1,2021,6,1,1.0,2.0,0,0,2.0,0
+2020-10-02,Mission,Warrant,2,2020,10,4,4.0,1.0,0,0,3.0,0
+2023-10-05,Central,Miscellaneous Investigation,1,2023,10,3,2.0,1.0,0,0,1.25,0
+2021-03-17,Taraval,Motor Vehicle Theft,3,2021,3,2,2.0,3.0,0,0,3.25,0
+2023-06-22,Mission,Missing Person,1,2023,6,3,2.0,1.0,0,0,2.0,0
+2020-05-01,Taraval,Recovered Vehicle,1,2020,5,4,1.0,2.0,0,0,2.0,0
+2021-10-16,Ingleside,Assault,2,2021,10,5,1.0,1.0,1,0,3.0,0
+2023-12-12,Park,Larceny Theft,5,2023,12,1,4.0,5.0,0,0,6.0,0
+2021-03-02,Tenderloin,Other Miscellaneous,3,2021,3,1,1.0,4.0,0,0,5.0,0
+2024-07-10,Taraval,Fraud,2,2024,7,2,1.0,1.0,0,0,2.0,1
+2023-11-25,Central,Warrant,1,2023,11,5,2.0,1.0,1,0,2.0,0
+2023-05-23,Central,Assault,1,2023,5,1,3.0,5.0,0,0,4.0,0
+2020-02-01,Bayview,Malicious Mischief,1,2020,2,5,1.0,2.0,1,0,3.0,0
+2020-04-04,Southern,Fraud,1,2020,4,5,1.0,1.0,1,0,2.25,0
+2021-12-10,Taraval,Burglary,1,2021,12,4,1.0,2.0,0,0,2.0,0
+2021-08-24,Richmond,Warrant,1,2021,8,1,2.0,1.0,0,0,1.0,1
+2024-04-16,Ingleside,Miscellaneous Investigation,1,2024,4,1,1.0,1.0,0,0,1.25,0
+2023-03-28,Ingleside,Malicious Mischief,2,2023,3,1,2.0,1.0,0,0,3.0,0
+2022-07-28,Bayview,Disorderly Conduct,1,2022,7,3,1.0,1.0,0,0,2.0,0
+2024-04-03,Southern,Warrant,5,2024,4,2,4.0,4.0,0,0,4.0,1
+2021-08-19,Southern,Lost Property,1,2021,8,3,3.0,1.0,0,0,3.0,0
+2022-08-19,Central,Burglary,9,2022,8,4,2.0,4.0,0,0,3.0,1
+2024-08-17,Ingleside,Malicious Mischief,2,2024,8,5,4.0,3.0,1,0,4.0,0
+2020-08-25,Park,Malicious Mischief,1,2020,8,1,4.0,1.0,0,0,2.25,0
+2022-12-24,Central,Assault,3,2022,12,5,3.0,2.0,1,0,5.0,0
+2020-04-18,Central,Burglary,3,2020,4,5,5.0,10.0,1,0,5.25,0
+2023-11-21,Tenderloin,Burglary,1,2023,11,1,1.0,1.0,0,0,2.0,0
+2024-12-17,Northern,Robbery,1,2024,12,1,1.0,1.0,0,0,2.0,0
+2023-06-19,Richmond,Drug Offense,1,2023,6,0,1.0,1.0,0,1,1.0,1
+2021-06-18,Bayview,Other Miscellaneous,4,2021,6,4,5.0,2.0,0,1,3.25,1
+2024-08-03,Ingleside,Other Offenses,1,2024,8,5,1.0,1.0,1,0,2.0,0
+2023-04-23,Central,Other,2,2023,4,6,1.0,1.0,1,0,1.0,1
+2024-01-17,Ingleside,Warrant,1,2024,1,2,1.0,1.0,0,0,1.0,1
+2022-11-12,Ingleside,Non-Criminal,1,2022,11,5,2.0,1.0,1,0,2.0,0
+2021-01-18,Central,Other Offenses,1,2021,1,0,1.0,1.0,0,1,1.0,1
+2024-10-04,Mission,Burglary,5,2024,10,4,4.0,4.0,0,0,4.0,1
+2021-07-25,Tenderloin,Robbery,2,2021,7,6,3.0,2.0,1,0,2.0,1
+2024-01-14,Central,Burglary,2,2024,1,6,1.0,2.0,1,0,2.0,1
+2021-05-27,Park,Motor Vehicle Theft,1,2021,5,3,1.0,1.0,0,0,2.0,0
+2024-02-14,Ingleside,Missing Person,2,2024,2,2,3.0,1.0,0,0,2.0,1
+2020-05-21,Southern,Robbery,1,2020,5,3,1.0,1.0,0,0,1.0,1
+2024-01-25,Bayview,Malicious Mischief,1,2024,1,3,2.0,2.0,0,0,2.0,0
+2024-04-29,Northern,Miscellaneous Investigation,1,2024,4,0,1.0,2.0,0,0,2.0,0
+2023-11-13,Northern,Miscellaneous Investigation,1,2023,11,0,2.0,1.0,0,0,2.0,0
+2023-07-17,Bayview,Weapons Carrying Etc,6,2023,7,0,2.0,1.0,0,0,2.0,1
+2024-04-20,Northern,Fire Report,1,2024,4,5,1.0,1.0,1,0,1.0,1
+2023-04-11,Northern,Assault,3,2023,4,1,5.0,1.0,0,0,5.0,0
+2020-04-15,Tenderloin,Other,2,2020,4,2,1.0,1.0,0,0,2.0,1
+2023-05-14,Park,Larceny Theft,1,2023,5,6,7.0,5.0,1,0,7.5,0
+2021-12-02,Out of SF,Lost Property,1,2021,12,3,3.0,1.0,0,0,2.0,0
+2022-08-29,Northern,Malicious Mischief,3,2022,8,0,4.0,1.0,0,0,5.0,0
+2023-11-15,Bayview,Miscellaneous Investigation,2,2023,11,2,1.0,1.0,0,0,1.25,1
+2020-04-04,Mission,Malicious Mischief,2,2020,4,5,7.0,1.0,1,0,4.0,0
+2020-02-29,Mission,Non-Criminal,3,2020,2,5,5.0,2.0,1,0,3.0,1
+2023-08-14,Tenderloin,Fraud,2,2023,8,0,1.0,1.0,0,0,1.25,1
+2022-07-02,Taraval,Traffic Violation Arrest,1,2022,7,5,1.0,1.0,1,0,1.0,1
+2023-12-23,Mission,Recovered Vehicle,3,2023,12,5,1.0,3.0,1,0,2.0,1
+2023-05-09,Mission,Motor Vehicle Theft,2,2023,5,1,2.0,2.0,0,0,5.0,0
+2021-10-10,Taraval,Motor Vehicle Theft,1,2021,10,6,2.0,4.0,1,0,3.0,0
+2020-04-07,Tenderloin,Lost Property,1,2020,4,1,2.0,1.0,0,0,2.0,0
+2023-12-19,Bayview,Assault,3,2023,12,1,4.0,1.0,0,0,4.0,0
+2023-03-06,Central,Other Offenses,1,2023,3,0,2.0,1.0,0,0,1.0,1
+2023-09-10,Taraval,Miscellaneous Investigation,1,2023,9,6,2.0,2.0,1,0,2.0,0
+2020-12-06,Park,Larceny Theft,7,2020,12,6,3.0,13.0,1,0,8.0,0
+2020-07-16,Southern,Robbery,1,2020,7,3,1.0,2.0,0,0,2.0,0
+2021-07-11,Central,Missing Person,2,2021,7,6,1.0,1.0,1,0,2.25,0
+2022-10-05,Bayview,Other Miscellaneous,2,2022,10,2,4.0,2.0,0,0,4.0,0
+2024-12-31,Northern,Disorderly Conduct,1,2024,12,1,1.0,2.0,0,0,2.0,0
+2020-01-25,Park,Malicious Mischief,3,2020,1,5,3.0,1.0,1,0,2.5,1
+2020-12-22,Mission,Motor Vehicle Theft,1,2020,12,1,3.0,3.0,0,0,4.0,0
+2021-05-21,Bayview,Assault,2,2021,5,4,2.0,4.0,0,0,4.0,0
+2024-04-26,Tenderloin,Warrant,3,2024,4,4,9.0,7.0,0,0,7.0,0
+2021-07-30,Bayview,Non-Criminal,1,2021,7,4,4.0,1.0,0,0,2.0,0
+2023-06-02,Southern,Miscellaneous Investigation,1,2023,6,4,1.0,2.0,0,0,2.0,0
+2022-05-26,Out of SF,Larceny Theft,4,2022,5,3,2.0,2.0,0,0,2.0,1
+2023-09-20,Tenderloin,Non-Criminal,1,2023,9,2,2.0,1.0,0,0,3.0,0
+2022-07-20,Bayview,Assault,2,2022,7,2,3.0,1.0,0,0,4.0,0
+2024-11-02,Out of SF,Larceny Theft,1,2024,11,5,3.0,4.0,1,0,2.25,0
+2024-10-08,Bayview,Suspicious Occ,1,2024,10,1,1.0,1.0,0,0,1.0,1
+2020-06-18,Out of SF,Fraud,1,2020,6,3,2.0,5.0,0,0,2.0,0
+2021-07-09,Taraval,Assault,1,2021,7,4,2.0,3.0,0,0,2.0,0
+2021-08-15,Richmond,Burglary,1,2021,8,6,2.0,2.0,1,0,3.0,0
+2020-12-23,Bayview,Arson,1,2020,12,2,1.0,1.0,0,0,1.0,1
+2023-09-09,Taraval,Other Offenses,1,2023,9,5,1.0,1.0,1,0,1.0,1
+2021-01-06,Central,Missing Person,1,2021,1,2,1.0,1.0,0,0,1.0,1
+2021-12-26,Central,Robbery,1,2021,12,6,2.0,2.0,1,0,3.0,0
+2022-03-18,Northern,Other,2,2022,3,4,1.0,1.0,0,0,1.0,1
+2022-04-15,Mission,Offences Against The Family And Children,2,2022,4,4,1.0,2.0,0,0,1.0,1
+2020-09-11,Richmond,Other Miscellaneous,3,2020,9,4,2.0,1.0,0,0,2.25,1
+2022-02-16,Mission,Malicious Mischief,4,2022,2,2,6.0,5.0,0,0,5.0,0
+2021-06-28,Taraval,Assault,2,2021,6,0,3.0,2.0,0,0,2.25,0
+2022-04-19,Central,Burglary,3,2022,4,1,3.0,2.0,0,0,4.0,0
+2021-05-10,Bayview,Other Offenses,2,2021,5,0,2.0,1.0,0,0,2.0,1
+2023-12-02,Central,Suspicious Occ,1,2023,12,5,4.0,1.0,1,0,2.0,0
+2021-10-09,Central,Lost Property,2,2021,10,5,5.0,4.0,1,0,2.0,1
+2020-12-29,Out of SF,Courtesy Report,1,2020,12,1,2.0,1.0,0,0,1.25,0
+2020-05-21,Park,Recovered Vehicle,1,2020,5,3,1.0,1.0,0,0,1.0,1
+2023-08-08,Taraval,Other Miscellaneous,1,2023,8,1,2.0,2.0,0,0,2.0,0
+2022-07-15,Tenderloin,Assault,5,2022,7,4,2.0,5.0,0,0,6.0,0
+2023-04-01,Mission,Warrant,1,2023,4,5,2.0,1.0,1,0,2.25,0
+2023-05-23,Southern,Larceny Theft,6,2023,5,1,10.0,15.0,0,0,10.0,0
+2022-05-16,Northern,Fraud,1,2022,5,0,2.0,2.0,0,0,3.0,0
+2021-01-17,Bayview,Disorderly Conduct,1,2021,1,6,2.0,3.0,1,0,2.0,0
+2022-12-12,Ingleside,Larceny Theft,9,2022,12,0,11.0,4.0,0,0,9.25,0
+2020-04-16,Northern,Motor Vehicle Theft,3,2020,4,3,4.0,5.0,0,0,3.0,1
+2023-09-07,Southern,Non-Criminal,2,2023,9,3,1.0,2.0,0,0,3.0,0
+2024-12-11,Mission,Traffic Collision,1,2024,12,2,1.0,1.0,0,0,1.0,1
+2022-08-22,Central,Malicious Mischief,5,2022,8,0,4.0,3.0,0,0,5.0,1
+2020-11-28,Mission,Malicious Mischief,1,2020,11,5,4.0,2.0,1,0,4.0,0
+2021-09-20,Richmond,Fraud,1,2021,9,0,1.0,2.0,0,0,2.0,0
+2023-10-21,Ingleside,Burglary,1,2023,10,5,2.0,4.0,1,0,4.0,0
+2023-09-07,Park,Larceny Theft,7,2023,9,3,1.0,3.0,0,0,7.25,0
+2024-09-14,Richmond,Motor Vehicle Theft,1,2024,9,5,1.0,1.0,1,0,2.0,0
+2023-08-19,Central,Malicious Mischief,6,2023,8,5,4.0,8.0,1,0,6.25,0
+2020-03-19,Ingleside,Weapons Offense,1,2020,3,3,1.0,1.0,0,0,1.0,1
+2023-01-30,Tenderloin,Malicious Mischief,2,2023,1,0,2.0,2.0,0,0,3.0,0
+2024-11-02,Southern,Malicious Mischief,8,2024,11,5,4.0,1.0,1,0,4.25,1
+2022-02-16,Park,Burglary,3,2022,2,2,1.0,3.0,0,0,3.0,1
+2023-03-26,Northern,Miscellaneous Investigation,1,2023,3,6,1.0,1.0,1,0,1.0,1
+2021-10-31,Central,Fraud,3,2021,10,6,3.0,2.0,1,0,3.0,1
+2024-04-14,Ingleside,Larceny Theft,5,2024,4,6,3.0,2.0,1,0,6.0,0
+2023-12-28,Taraval,Other,1,2023,12,3,1.0,1.0,0,0,1.0,1
+2023-11-10,Richmond,Assault,1,2023,11,4,1.0,1.0,0,1,2.0,0
+2023-09-30,Southern,Recovered Vehicle,1,2023,9,5,1.0,1.0,1,0,2.0,0
+2023-03-24,Tenderloin,Other,1,2023,3,4,1.0,1.0,0,0,2.0,0
+2022-06-25,Bayview,Malicious Mischief,4,2022,6,5,4.0,4.0,1,0,4.0,1
+2023-06-15,Tenderloin,Recovered Vehicle,1,2023,6,3,1.0,1.0,0,0,2.25,0
+2020-10-27,Southern,Recovered Vehicle,1,2020,10,1,2.0,1.0,0,0,2.0,0
+2020-05-21,Taraval,Traffic Violation Arrest,1,2020,5,3,1.0,1.0,0,0,1.0,1
+2024-04-25,Ingleside,Burglary,1,2024,4,3,1.0,3.0,0,0,3.0,0
+2021-04-11,Northern,Burglary,3,2021,4,6,6.0,6.0,1,0,5.25,0
+2022-07-29,Ingleside,Weapons Offense,2,2022,7,4,1.0,1.0,0,0,1.0,1
+2024-02-12,Bayview,Larceny Theft,4,2024,2,0,5.0,1.0,0,0,5.0,0
+2023-07-26,Ingleside,Malicious Mischief,2,2023,7,2,2.0,2.0,0,0,4.0,0
+2023-07-27,Mission,Other Miscellaneous,1,2023,7,3,1.0,1.0,0,0,3.0,0
