@@ -1,0 +1,56 @@
+Police District,year,total_incidents
+Bayview,2020,10572
+Bayview,2021,12282
+Bayview,2022,11992
+Bayview,2023,11812
+Bayview,2024,9643
+Central,2020,12763
+Central,2021,19016
+Central,2022,20047
+Central,2023,18569
+Central,2024,13642
+Ingleside,2020,9250
+Ingleside,2021,9837
+Ingleside,2022,9944
+Ingleside,2023,10821
+Ingleside,2024,8966
+Mission,2020,12911
+Mission,2021,14803
+Mission,2022,15314
+Mission,2023,15063
+Mission,2024,14188
+Northern,2020,15353
+Northern,2021,17022
+Northern,2022,18205
+Northern,2023,17488
+Northern,2024,13250
+Out of SF,2020,3055
+Out of SF,2021,3963
+Out of SF,2022,4615
+Out of SF,2023,4840
+Out of SF,2024,4382
+Park,2020,5319
+Park,2021,5725
+Park,2022,5491
+Park,2023,5361
+Park,2024,4266
+Richmond,2020,7001
+Richmond,2021,8402
+Richmond,2022,8271
+Richmond,2023,8299
+Richmond,2024,5461
+Southern,2020,11960
+Southern,2021,14153
+Southern,2022,15677
+Southern,2023,14335
+Southern,2024,12684
+Taraval,2020,7520
+Taraval,2021,8871
+Taraval,2022,9685
+Taraval,2023,9642
+Taraval,2024,7931
+Tenderloin,2020,9531
+Tenderloin,2021,10643
+Tenderloin,2022,13333
+Tenderloin,2023,14139
+Tenderloin,2024,13287
