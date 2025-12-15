@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Spatial-Temporal Crime Prediction and Socioeconomic Modeling in San Francisco (2020–2024) | Eddie Rosas</title>
-  <meta name="author" content="Eddie Rosas" />
+  <meta name="authors" content="Eddie Rosas & Swikriti Joshi" />
   <meta
     name="description"
     content="BDA 600 capstone by Eddie Rosas & Swikriti Joshi: spatial-temporal crime prediction and socioeconomic modeling in San Francisco using SFPD incident data (2020–2024), time-series forecasting, classification, and GIS visualization."
@@ -63,7 +63,9 @@
     nav a:hover {
       background-color: #005fa3;
     }
-
+    nav a.active-link {
+  background-color: #005fa3;
+    }
     .tab-content {
       display: none;
       padding: 2rem;
@@ -262,11 +264,11 @@
   </header>
 
   <nav>
-    <a href="#" onclick="openTab('home')">Home</a>
-    <a href="#" onclick="openTab('dashboard')">Dashboard</a>
-    <a href="#" onclick="openTab('models')">Machine Learning Models</a>
-    <a href="#" onclick="openTab('swot')">SWOT Analysis</a>
-    <a href="#" onclick="openTab('about')">About</a>
+  <a href="#" data-tab="home" onclick="openTab('home'); return false;">Home</a>
+  <a href="#" data-tab="dashboard" onclick="openTab('dashboard'); return false;">Dashboard</a>
+  <a href="#" data-tab="models" onclick="openTab('models'); return false;">Machine Learning Models</a>
+  <a href="#" data-tab="swot" onclick="openTab('swot'); return false;">SWOT Analysis</a>
+  <a href="#" data-tab="about" onclick="openTab('about'); return false;">About</a>
   </nav>
 
   <main>
@@ -735,11 +737,28 @@
   </footer>
 
   <script>
-    function openTab(tabId) {
-      const contents = document.querySelectorAll('.tab-content');
-      contents.forEach(content => content.classList.remove('active'));
-      document.getElementById(tabId).classList.add('active');
+  function openTab(tabId) {
+    // switch visible content
+    const contents = document.querySelectorAll('.tab-content');
+    contents.forEach(content => content.classList.remove('active'));
+    document.getElementById(tabId).classList.add('active');
+
+    // update active nav link
+    const links = document.querySelectorAll('nav a');
+    links.forEach(link => link.classList.remove('active-link'));
+    const activeLink = document.querySelector(`nav a[data-tab="${tabId}"]`);
+    if (activeLink) {
+      activeLink.classList.add('active-link');
     }
-  </script>
+  }
+
+  // set initial active link on page load
+  document.addEventListener('DOMContentLoaded', () => {
+    const homeLink = document.querySelector('nav a[data-tab="home"]');
+    if (homeLink) {
+      homeLink.classList.add('active-link');
+    }
+  });
+</script>
 </body>
 </html>
