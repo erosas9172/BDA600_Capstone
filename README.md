@@ -1,6 +1,6 @@
 # BDA600 Capstone: San Francisco Police Incident Analysis (2020–2024)
 
-**Author:** Eddie Rosas  
+**Authors:** Eddie Rosas & Swikriti Joshi 
 **Program:** M.S. Big Data Analytics, San Diego State University  
 **Course:** BDA 600 – Capstone Seminar  
 
