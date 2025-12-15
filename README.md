@@ -1,64 +1,88 @@
 # BDA600 Capstone: San Francisco Police Incident Analysis (2020–2024)
 
-## Overview
+**Author:** Eddie Rosas  
+**Program:** M.S. Big Data Analytics, San Diego State University  
+**Course:** BDA 600 – Capstone Seminar  
 
-This repository contains the data and analysis for my BDA600 Capstone Project, part of the M.S. in Big Data Analytics program at San Diego State University.
-The project explores patterns and trends in San Francisco Police Department (SFPD) incident reports from 2020 to 2024, using data analytics and machine learning techniques to identify spatial, temporal, and categorical patterns in crime distribution.
+[🌐 Live Project Site](https://erosas9172.github.io/BDA600_Capstone/) •
+[📄 Final Report (PDF)](BDA600_Final_Project_Report.pdf) •
+[🔗 LinkedIn](https://www.linkedin.com/in/eddierosas21) •
+[💻 GitHub Profile](https://github.com/erosas9172)
 
-## Project Objectives
+---
 
-Analyze temporal trends -> Explore how incidents vary by hour, day, month, and year.
+## 🔍 Project Overview
 
-Investigate spatial distribution —> Map and cluster crime locations by neighborhood and police district.
+This capstone project analyzes **San Francisco Police Department (SFPD) incident reports from 2020–2024** to understand how crime patterns change over time and space.
 
-Categorize incidents —> Identify which incident types and categories are most common.
+Using **Python, time-series modeling, and GIS**, the project:
 
-Build predictive insights —> Use machine learning to model or forecast incident patterns.
+- Explores **temporal trends** (hour, day-of-week, month, year)
+- Visualizes **spatial patterns** across police districts and neighborhoods
+- Builds **forecasting models** (Prophet & SARIMAX) for daily incident counts
+- Trains a **Decision Tree classifier** using engineered temporal and socio-economic features
+- Integrates outputs into an **ArcGIS Dashboard** and web-based project site
 
+---
 
+## 🗂 Repository Contents
 
-## Dataset Information
+- `index.html` – Main project website with tabs for Home, Dashboard, Models, SWOT, and About  
+- `BDA600_Final_Project_Report.pdf` – Full written capstone report  
+- `SF_Crime_Cycles.ipynb` – Core analysis notebook (EDA, modeling, and figures)
+- `figures/` *(or PNGs in root, depending on structure)* – Visualization assets embedded in the site:
+  - SARIMAX & Prophet forecasts and components
+  - Decision Tree feature importance plots
+- `data/` *(CSV / Parquet files)* – Processed datasets used in the analysis:
+  - `sfdp_2020_2024_clean.parquet`
+  - `sfdp_daily_features.parquet`
+  - `district_counts_2020_2024.csv`
+  - `predicted_hotspots.csv`
+  - `prophet_forecast_30days.csv`
+  - `sfdp_daily_features_sample.csv`
 
-File: sfpd_2020_2024_clean.parquet
-Records: ~611,000 incidents
-Columns: 14 fields
+> **Note:** Raw data comes from the City and County of San Francisco open data portal:  
+> https://data.sfgov.org/Public-Safety/Map-of-Police-Department-Incident-Reports-2018-to-/jq29-s5wp
 
-Incident Category, Incident Subcategory, Incident Date, Incident Time,
-Latitude, Longitude, Police District, Analysis Neighborhood,
-plus derived time features (hour, dayofweek, month, year).
+---
 
-## Source: Public SFPD incident data portal
+## 🧠 Methods & Models
 
-## Preprocessing:
+- **Time-Series Forecasting**
+  - SARIMAX \((1,1,1)(1,1,1,7)\) with weekly seasonality
+  - Facebook **Prophet** with daily observations and weekly/yearly components
+  - Evaluated with MAE, RMSE, and MAPE on a 60-day holdout window
 
-Removed duplicates and missing coordinates
+- **Classification**
+  - Tuned **Decision Tree classifier** on daily features
+  - Macro-F1 ≈ 0.61 and ROC-AUC ≈ 0.65
+  - Top predictors: lagged incident counts, month, day-of-week, key incident categories
 
-Converted date/time fields
+- **Visualization & GIS**
+  - Python (pandas, matplotlib, seaborn, GeoPandas)
+  - **ArcGIS Dashboard** for interactive spatial-temporal exploration
+  - Web front-end built with HTML/CSS and embedded maps/figures
 
-Engineered temporal features
+---
 
+## 🚀 How to View the Project
 
+1. Visit the live site:  
+   **https://erosas9172.github.io/BDA600_Capstone/**
+2. Explore:
+   - **Home:** project context and overview
+   - **Dashboard:** embedded ArcGIS Dashboard
+   - **Machine Learning Models:** SARIMAX, Prophet, and Decision Tree results
+   - **SWOT Analysis:** strengths, weaknesses, opportunities, and threats
+   - **About:** team, course, and contact info
 
-## Analytical Workflow
+---
 
-Data Cleaning & Transformation —> Using pandas and NumPy.
+## 👤 About the Author
 
-Exploratory Data Analysis (EDA) —> Descriptive stats, missing data, temporal and spatial visualizations.
+I’m **Eddie Rosas**, an M.S. Big Data Analytics student at San Diego State University with a background in
+data analysis, banking operations, and geospatial analytics.
 
-Feature Engineering —> Extracted hour, day, month, and year; handled geographic data.
+- LinkedIn: https://www.linkedin.com/in/eddierosas21  
+- GitHub: https://github.com/erosas9172
 
-Visualization —> Heatmaps, time series plots, and spatial maps (Seaborn, Matplotlib, or Folium).
-
-Modeling  —> Predictive modeling or clustering of incidents.
-
-
-
-
-
-## Tools & Technologies
-Category	Tools
-Language	Python 3
-Libraries	pandas, numpy, matplotlib, seaborn, geopandas, scikit-learn
-Visualization	Folium, Plotly, Tableau, ArcGIS
-Data Format	Parquet (efficient storage for large data)
-Version Control	Git & GitHub
